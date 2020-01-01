@@ -1,0 +1,623 @@
+indicator,name,value
+satisfied_w_area,Ansonia,0.8080808080808082
+safe_walking_at_night,Ansonia,0.67
+self_rated_health,Ansonia,0.53
+obesity,Ansonia,0.31
+smoking,Ansonia,0.16
+food_insecurity,Ansonia,0.17
+housing_insecurity,Ansonia,0.04
+transportation_insecure,Ansonia,0.14
+no_bank_account,Ansonia,0.13131313131313133
+satisfied_w_area,Bridgeport,0.686868686868687
+safe_walking_at_night,Bridgeport,0.4343434343434344
+self_rated_health,Bridgeport,0.44
+obesity,Bridgeport,0.4
+smoking,Bridgeport,0.21
+food_insecurity,Bridgeport,0.28
+housing_insecurity,Bridgeport,0.13
+transportation_insecure,Bridgeport,0.23
+no_bank_account,Bridgeport,0.21
+underemployed,Bridgeport,0.26
+satisfied_w_area,Bristol,0.7373737373737373
+safe_walking_at_night,Bristol,0.6969696969696969
+self_rated_health,Bristol,0.6
+obesity,Bristol,0.34
+smoking,Bristol,0.15
+food_insecurity,Bristol,0.16
+housing_insecurity,Bristol,0.11111111111111112
+transportation_insecure,Bristol,0.14285714285714288
+no_bank_account,Bristol,0.11111111111111112
+satisfied_w_area,Cchd Central Ct Health District,0.8080808080808082
+safe_walking_at_night,Cchd Central Ct Health District,0.846938775510204
+self_rated_health,Cchd Central Ct Health District,0.63
+obesity,Cchd Central Ct Health District,0.3
+smoking,Cchd Central Ct Health District,0.08
+food_insecurity,Cchd Central Ct Health District,0.09
+housing_insecurity,Cchd Central Ct Health District,0.05
+transportation_insecure,Cchd Central Ct Health District,0.08
+no_bank_account,Cchd Central Ct Health District,0.061224489795918366
+satisfied_w_area,Chesprocott,0.888888888888889
+safe_walking_at_night,Chesprocott,0.8080808080808081
+self_rated_health,Chesprocott,0.66
+obesity,Chesprocott,0.32
+smoking,Chesprocott,0.11
+food_insecurity,Chesprocott,0.06
+housing_insecurity,Chesprocott,0.06060606060606061
+transportation_insecure,Chesprocott,0.07
+no_bank_account,Chesprocott,0.04081632653061225
+satisfied_w_area,Connecticut,0.8181818181818182
+safe_walking_at_night,Connecticut,0.6969696969696969
+self_rated_health,Connecticut,0.59
+obesity,Connecticut,0.29
+smoking,Connecticut,0.14
+food_insecurity,Connecticut,0.13
+housing_insecurity,Connecticut,0.08
+transportation_insecure,Connecticut,0.12
+no_bank_account,Connecticut,0.09090909090909091
+underemployed,Connecticut,0.15
+satisfied_w_area,Danbury,0.846938775510204
+safe_walking_at_night,Danbury,0.6969696969696969
+self_rated_health,Danbury,0.65
+obesity,Danbury,0.27
+smoking,Danbury,0.15
+food_insecurity,Danbury,0.11
+housing_insecurity,Danbury,0.07142857142857144
+transportation_insecure,Danbury,0.08080808080808081
+no_bank_account,Danbury,0.08080808080808081
+underemployed,Danbury,0.1
+satisfied_w_area,Darien,0.94
+safe_walking_at_night,Darien,0.8600000000000001
+self_rated_health,Darien,0.76
+obesity,Darien,0.12
+food_insecurity,Darien,0.03
+housing_insecurity,Darien,0.03
+transportation_insecure,Darien,0.02
+no_bank_account,Darien,0.04040404040404041
+satisfied_w_area,Derby,0.8080808080808082
+safe_walking_at_night,Derby,0.7551020408163265
+self_rated_health,Derby,0.56
+obesity,Derby,0.35
+smoking,Derby,0.1
+food_insecurity,Derby,0.08
+housing_insecurity,Derby,0.030303030303030304
+transportation_insecure,Derby,0.07
+no_bank_account,Derby,0.0816326530612245
+satisfied_w_area,East Hartford,0.77
+safe_walking_at_night,East Hartford,0.5918367346938777
+self_rated_health,East Hartford,0.56
+obesity,East Hartford,0.35
+smoking,East Hartford,0.19
+food_insecurity,East Hartford,0.18
+housing_insecurity,East Hartford,0.1
+transportation_insecure,East Hartford,0.19
+no_bank_account,East Hartford,0.13
+satisfied_w_area,East Haven,0.8181818181818182
+safe_walking_at_night,East Haven,0.7346938775510204
+self_rated_health,East Haven,0.54
+obesity,East Haven,0.34
+smoking,East Haven,0.19
+food_insecurity,East Haven,0.11
+housing_insecurity,East Haven,0.08080808080808081
+transportation_insecure,East Haven,0.10101010101010102
+no_bank_account,East Haven,0.061224489795918366
+satisfied_w_area,Ehhd,0.9
+safe_walking_at_night,Ehhd,0.7755102040816326
+self_rated_health,Ehhd,0.64
+obesity,Ehhd,0.21
+smoking,Ehhd,0.1
+food_insecurity,Ehhd,0.15
+housing_insecurity,Ehhd,0.02
+transportation_insecure,Ehhd,0.1
+no_bank_account,Ehhd,0.07
+satisfied_w_area,Fairfield,0.8787878787878788
+safe_walking_at_night,Fairfield,0.8484848484848486
+self_rated_health,Fairfield,0.69
+obesity,Fairfield,0.26
+smoking,Fairfield,0.07
+food_insecurity,Fairfield,0.06
+transportation_insecure,Fairfield,0.09
+no_bank_account,Fairfield,0.04
+satisfied_w_area,Fairfield County,0.8282828282828283
+safe_walking_at_night,Fairfield County,0.6969696969696969
+self_rated_health,Fairfield County,0.63
+obesity,Fairfield County,0.27
+smoking,Fairfield County,0.12
+food_insecurity,Fairfield County,0.11
+housing_insecurity,Fairfield County,0.07
+transportation_insecure,Fairfield County,0.11
+no_bank_account,Fairfield County,0.09090909090909091
+underemployed,Fairfield County,0.15
+satisfied_w_area,Fcht,0.91
+safe_walking_at_night,Fcht,0.6868686868686869
+self_rated_health,Fcht,0.73
+obesity,Fcht,0.19
+smoking,Fcht,0.09
+food_insecurity,Fcht,0.07
+housing_insecurity,Fcht,0.09183673469387756
+transportation_insecure,Fcht,0.08
+no_bank_account,Fcht,0.10204081632653061
+satisfied_w_area,Greater Bridgeport,0.7676767676767677
+safe_walking_at_night,Greater Bridgeport,0.6262626262626263
+self_rated_health,Greater Bridgeport,0.55
+obesity,Greater Bridgeport,0.33
+smoking,Greater Bridgeport,0.15
+food_insecurity,Greater Bridgeport,0.18
+housing_insecurity,Greater Bridgeport,0.09
+transportation_insecure,Greater Bridgeport,0.15
+no_bank_account,Greater Bridgeport,0.12
+underemployed,Greater Bridgeport,0.2
+satisfied_w_area,Greater Danbury,0.8585858585858586
+safe_walking_at_night,Greater Danbury,0.7575757575757576
+self_rated_health,Greater Danbury,0.64
+obesity,Greater Danbury,0.27
+smoking,Greater Danbury,0.11
+food_insecurity,Greater Danbury,0.08
+housing_insecurity,Greater Danbury,0.06
+transportation_insecure,Greater Danbury,0.07
+no_bank_account,Greater Danbury,0.06
+underemployed,Greater Danbury,0.1
+satisfied_w_area,Greater Greenwich,0.8787878787878788
+safe_walking_at_night,Greater Greenwich,0.7373737373737373
+self_rated_health,Greater Greenwich,0.67
+obesity,Greater Greenwich,0.2
+smoking,Greater Greenwich,0.08
+food_insecurity,Greater Greenwich,0.08
+housing_insecurity,Greater Greenwich,0.05050505050505051
+transportation_insecure,Greater Greenwich,0.1
+no_bank_account,Greater Greenwich,0.09090909090909091
+underemployed,Greater Greenwich,0.15
+satisfied_w_area,Greater Hartford,0.8181818181818182
+safe_walking_at_night,Greater Hartford,0.7142857142857143
+self_rated_health,Greater Hartford,0.59
+obesity,Greater Hartford,0.28
+smoking,Greater Hartford,0.12
+food_insecurity,Greater Hartford,0.14
+housing_insecurity,Greater Hartford,0.08
+transportation_insecure,Greater Hartford,0.12
+no_bank_account,Greater Hartford,0.09090909090909091
+underemployed,Greater Hartford,0.15
+satisfied_w_area,Greater New Haven,0.8181818181818182
+safe_walking_at_night,Greater New Haven,0.6666666666666667
+self_rated_health,Greater New Haven,0.58
+obesity,Greater New Haven,0.3
+smoking,Greater New Haven,0.16
+food_insecurity,Greater New Haven,0.13
+housing_insecurity,Greater New Haven,0.09
+transportation_insecure,Greater New Haven,0.13
+no_bank_account,Greater New Haven,0.11111111111111112
+underemployed,Greater New Haven,0.18
+satisfied_w_area,Greater New London,0.8080808080808082
+safe_walking_at_night,Greater New London,0.7346938775510204
+self_rated_health,Greater New London,0.57
+obesity,Greater New London,0.31
+smoking,Greater New London,0.17
+food_insecurity,Greater New London,0.14
+housing_insecurity,Greater New London,0.07
+transportation_insecure,Greater New London,0.12
+no_bank_account,Greater New London,0.08080808080808081
+underemployed,Greater New London,0.15
+satisfied_w_area,Greater Waterbury,0.7777777777777778
+safe_walking_at_night,Greater Waterbury,0.6938775510204082
+self_rated_health,Greater Waterbury,0.57
+obesity,Greater Waterbury,0.33
+smoking,Greater Waterbury,0.16
+food_insecurity,Greater Waterbury,0.14
+housing_insecurity,Greater Waterbury,0.09
+transportation_insecure,Greater Waterbury,0.14
+no_bank_account,Greater Waterbury,0.09090909090909091
+underemployed,Greater Waterbury,0.15
+satisfied_w_area,Greenwich,0.92
+safe_walking_at_night,Greenwich,0.7575757575757576
+self_rated_health,Greenwich,0.74
+obesity,Greenwich,0.14
+smoking,Greenwich,0.07
+food_insecurity,Greenwich,0.07
+housing_insecurity,Greenwich,0.05
+transportation_insecure,Greenwich,0.09
+no_bank_account,Greenwich,0.06060606060606061
+underemployed,Greenwich,0.13
+satisfied_w_area,Groton,0.81
+safe_walking_at_night,Groton,0.7272727272727273
+self_rated_health,Groton,0.55
+obesity,Groton,0.35
+smoking,Groton,0.2
+food_insecurity,Groton,0.21
+housing_insecurity,Groton,0.12
+transportation_insecure,Groton,0.12
+no_bank_account,Groton,0.07070707070707072
+satisfied_w_area,Hamden,0.8282828282828283
+safe_walking_at_night,Hamden,0.7113402061855669
+self_rated_health,Hamden,0.56
+obesity,Hamden,0.31
+smoking,Hamden,0.13
+food_insecurity,Hamden,0.12
+housing_insecurity,Hamden,0.08
+transportation_insecure,Hamden,0.15
+no_bank_account,Hamden,0.08080808080808081
+satisfied_w_area,Hartford,0.7142857142857143
+safe_walking_at_night,Hartford,0.4591836734693877
+self_rated_health,Hartford,0.52
+obesity,Hartford,0.35
+smoking,Hartford,0.18
+food_insecurity,Hartford,0.23
+housing_insecurity,Hartford,0.13131313131313133
+transportation_insecure,Hartford,0.26262626262626265
+no_bank_account,Hartford,0.23232323232323235
+underemployed,Hartford,0.3
+satisfied_w_area,Hartford Inner Ring,0.7676767676767677
+safe_walking_at_night,Hartford Inner Ring,0.686868686868687
+self_rated_health,Hartford Inner Ring,0.53
+obesity,Hartford Inner Ring,0.34
+smoking,Hartford Inner Ring,0.15
+food_insecurity,Hartford Inner Ring,0.15
+housing_insecurity,Hartford Inner Ring,0.09
+transportation_insecure,Hartford Inner Ring,0.12
+no_bank_account,Hartford Inner Ring,0.09090909090909091
+underemployed,Hartford Inner Ring,0.14
+satisfied_w_area,Hartford Outer Ring,0.898989898989899
+safe_walking_at_night,Hartford Outer Ring,0.8144329896907218
+self_rated_health,Hartford Outer Ring,0.67
+obesity,Hartford Outer Ring,0.22
+smoking,Hartford Outer Ring,0.07
+food_insecurity,Hartford Outer Ring,0.08
+housing_insecurity,Hartford Outer Ring,0.04
+transportation_insecure,Hartford Outer Ring,0.07070707070707072
+no_bank_account,Hartford Outer Ring,0.05050505050505051
+underemployed,Hartford Outer Ring,0.11
+satisfied_w_area,Litchfield County,0.8383838383838383
+safe_walking_at_night,Litchfield County,0.7171717171717171
+self_rated_health,Litchfield County,0.62
+obesity,Litchfield County,0.3
+smoking,Litchfield County,0.14
+food_insecurity,Litchfield County,0.1
+housing_insecurity,Litchfield County,0.08080808080808081
+transportation_insecure,Litchfield County,0.11
+no_bank_account,Litchfield County,0.07
+underemployed,Litchfield County,0.12
+satisfied_w_area,Lower Naugatuck Valley,0.8383838383838383
+safe_walking_at_night,Lower Naugatuck Valley,0.7474747474747475
+self_rated_health,Lower Naugatuck Valley,0.6
+obesity,Lower Naugatuck Valley,0.32
+smoking,Lower Naugatuck Valley,0.17
+food_insecurity,Lower Naugatuck Valley,0.11
+housing_insecurity,Lower Naugatuck Valley,0.07070707070707072
+transportation_insecure,Lower Naugatuck Valley,0.11111111111111112
+no_bank_account,Lower Naugatuck Valley,0.07070707070707072
+underemployed,Lower Naugatuck Valley,0.12
+satisfied_w_area,Manchester,0.7653061224489796
+safe_walking_at_night,Manchester,0.6060606060606061
+self_rated_health,Manchester,0.6
+obesity,Manchester,0.28
+smoking,Manchester,0.21
+food_insecurity,Manchester,0.23
+housing_insecurity,Manchester,0.09090909090909091
+transportation_insecure,Manchester,0.12
+no_bank_account,Manchester,0.12244897959183673
+satisfied_w_area,Meriden,0.66
+safe_walking_at_night,Meriden,0.6122448979591837
+self_rated_health,Meriden,0.52
+obesity,Meriden,0.35
+smoking,Meriden,0.2
+food_insecurity,Meriden,0.17
+housing_insecurity,Meriden,0.09090909090909091
+transportation_insecure,Meriden,0.15
+no_bank_account,Meriden,0.12121212121212122
+satisfied_w_area,Middlesex County,0.85
+safe_walking_at_night,Middlesex County,0.8181818181818181
+self_rated_health,Middlesex County,0.58
+obesity,Middlesex County,0.24
+smoking,Middlesex County,0.13
+food_insecurity,Middlesex County,0.09
+housing_insecurity,Middlesex County,0.06
+transportation_insecure,Middlesex County,0.08
+no_bank_account,Middlesex County,0.05050505050505051
+underemployed,Middlesex County,0.14
+satisfied_w_area,Middletown,0.846938775510204
+safe_walking_at_night,Middletown,0.74
+self_rated_health,Middletown,0.53
+obesity,Middletown,0.28
+smoking,Middletown,0.17
+food_insecurity,Middletown,0.15
+housing_insecurity,Middletown,0.06
+transportation_insecure,Middletown,0.1
+no_bank_account,Middletown,0.07070707070707072
+satisfied_w_area,Milford,0.8484848484848485
+safe_walking_at_night,Milford,0.787878787878788
+self_rated_health,Milford,0.67
+obesity,Milford,0.29
+smoking,Milford,0.12
+food_insecurity,Milford,0.09
+housing_insecurity,Milford,0.05
+transportation_insecure,Milford,0.07
+no_bank_account,Milford,0.05050505050505051
+satisfied_w_area,Monroe,0.86
+safe_walking_at_night,Monroe,0.8080808080808082
+self_rated_health,Monroe,0.69
+obesity,Monroe,0.21
+smoking,Monroe,0.02
+food_insecurity,Monroe,0.03
+housing_insecurity,Monroe,0
+transportation_insecure,Monroe,0.07
+no_bank_account,Monroe,0.010101010101010102
+satisfied_w_area,Naugatuck,0.7551020408163265
+safe_walking_at_night,Naugatuck,0.6938775510204082
+self_rated_health,Naugatuck,0.57
+obesity,Naugatuck,0.36
+smoking,Naugatuck,0.24
+food_insecurity,Naugatuck,0.17
+housing_insecurity,Naugatuck,0.12
+transportation_insecure,Naugatuck,0.20202020202020204
+no_bank_account,Naugatuck,0.13131313131313133
+satisfied_w_area,Ncdhd,0.81
+safe_walking_at_night,Ncdhd,0.6969696969696969
+self_rated_health,Ncdhd,0.48
+obesity,Ncdhd,0.31
+smoking,Ncdhd,0.16
+food_insecurity,Ncdhd,0.15
+housing_insecurity,Ncdhd,0.09
+transportation_insecure,Ncdhd,0.15
+no_bank_account,Ncdhd,0.08080808080808081
+underemployed,Ncdhd,0.15
+satisfied_w_area,Nddh,0.84
+safe_walking_at_night,Nddh,0.6666666666666667
+self_rated_health,Nddh,0.54
+obesity,Nddh,0.31
+smoking,Nddh,0.15
+food_insecurity,Nddh,0.15
+housing_insecurity,Nddh,0.08080808080808081
+transportation_insecure,Nddh,0.1
+no_bank_account,Nddh,0.07070707070707072
+satisfied_w_area,New Britain,0.72
+safe_walking_at_night,New Britain,0.577319587628866
+self_rated_health,New Britain,0.51
+obesity,New Britain,0.29
+smoking,New Britain,0.14
+food_insecurity,New Britain,0.25
+housing_insecurity,New Britain,0.14
+transportation_insecure,New Britain,0.19
+no_bank_account,New Britain,0.17171717171717174
+satisfied_w_area,New Haven,0.7474747474747475
+safe_walking_at_night,New Haven,0.4948453608247423
+self_rated_health,New Haven,0.55
+obesity,New Haven,0.31
+smoking,New Haven,0.19
+food_insecurity,New Haven,0.21
+housing_insecurity,New Haven,0.10101010101010102
+transportation_insecure,New Haven,0.21212121212121213
+no_bank_account,New Haven,0.19191919191919193
+underemployed,New Haven,0.28
+satisfied_w_area,New Haven County,0.787878787878788
+safe_walking_at_night,New Haven County,0.6666666666666667
+self_rated_health,New Haven County,0.57
+obesity,New Haven County,0.32
+smoking,New Haven County,0.16
+food_insecurity,New Haven County,0.14
+housing_insecurity,New Haven County,0.09
+transportation_insecure,New Haven County,0.13
+no_bank_account,New Haven County,0.10101010101010102
+underemployed,New Haven County,0.16
+satisfied_w_area,New Haven Inner Ring,0.787878787878788
+safe_walking_at_night,New Haven Inner Ring,0.663265306122449
+self_rated_health,New Haven Inner Ring,0.52
+obesity,New Haven Inner Ring,0.35
+smoking,New Haven Inner Ring,0.16
+food_insecurity,New Haven Inner Ring,0.14
+housing_insecurity,New Haven Inner Ring,0.09
+transportation_insecure,New Haven Inner Ring,0.14
+no_bank_account,New Haven Inner Ring,0.10101010101010102
+underemployed,New Haven Inner Ring,0.19
+satisfied_w_area,New Haven Outer Ring,0.888888888888889
+safe_walking_at_night,New Haven Outer Ring,0.797979797979798
+self_rated_health,New Haven Outer Ring,0.67
+obesity,New Haven Outer Ring,0.28
+smoking,New Haven Outer Ring,0.12
+food_insecurity,New Haven Outer Ring,0.06
+housing_insecurity,New Haven Outer Ring,0.06
+transportation_insecure,New Haven Outer Ring,0.05
+no_bank_account,New Haven Outer Ring,0.05
+underemployed,New Haven Outer Ring,0.1
+satisfied_w_area,New London,0.653061224489796
+safe_walking_at_night,New London,0.5416666666666667
+self_rated_health,New London,0.51
+obesity,New London,0.39
+smoking,New London,0.2
+food_insecurity,New London,0.27
+housing_insecurity,New London,0.06060606060606061
+transportation_insecure,New London,0.18181818181818182
+no_bank_account,New London,0.12121212121212122
+satisfied_w_area,New London County,0.8
+safe_walking_at_night,New London County,0.7319587628865979
+self_rated_health,New London County,0.56
+obesity,New London County,0.31
+smoking,New London County,0.17
+food_insecurity,New London County,0.15
+housing_insecurity,New London County,0.07
+transportation_insecure,New London County,0.11
+no_bank_account,New London County,0.09090909090909091
+underemployed,New London County,0.15
+satisfied_w_area,New Milford,0.8383838383838383
+safe_walking_at_night,New Milford,0.7676767676767677
+self_rated_health,New Milford,0.6
+obesity,New Milford,0.35
+smoking,New Milford,0.11
+food_insecurity,New Milford,0.09
+housing_insecurity,New Milford,0.06
+transportation_insecure,New Milford,0.1
+no_bank_account,New Milford,0.05
+satisfied_w_area,Newtown,0.9191919191919192
+safe_walking_at_night,Newtown,0.7676767676767677
+self_rated_health,Newtown,0.7
+obesity,Newtown,0.27
+smoking,Newtown,0.13
+food_insecurity,Newtown,0.09
+housing_insecurity,Newtown,0.07
+transportation_insecure,Newtown,0.09
+no_bank_account,Newtown,0.05102040816326531
+satisfied_w_area,Norwalk,0.8383838383838383
+safe_walking_at_night,Norwalk,0.6804123711340206
+self_rated_health,Norwalk,0.62
+obesity,Norwalk,0.24
+smoking,Norwalk,0.09
+food_insecurity,Norwalk,0.08
+housing_insecurity,Norwalk,0.07070707070707072
+transportation_insecure,Norwalk,0.10101010101010102
+no_bank_account,Norwalk,0.09090909090909091
+underemployed,Norwalk,0.14
+satisfied_w_area,Norwich,0.7676767676767677
+safe_walking_at_night,Norwich,0.5816326530612246
+self_rated_health,Norwich,0.5
+obesity,Norwich,0.34
+smoking,Norwich,0.2
+food_insecurity,Norwich,0.18
+housing_insecurity,Norwich,0.11
+transportation_insecure,Norwich,0.2
+no_bank_account,Norwich,0.13131313131313133
+satisfied_w_area,Nyborder,0.898989898989899
+safe_walking_at_night,Nyborder,0.7777777777777778
+self_rated_health,Nyborder,0.58
+obesity,Nyborder,0.22
+smoking,Nyborder,0.11
+food_insecurity,Nyborder,0.08
+housing_insecurity,Nyborder,0.08080808080808081
+transportation_insecure,Nyborder,0.11224489795918367
+no_bank_account,Nyborder,0.11224489795918367
+underemployed,Nyborder,0.15
+satisfied_w_area,Oxford,0.86
+safe_walking_at_night,Oxford,0.7373737373737373
+self_rated_health,Oxford,0.56
+obesity,Oxford,0.23
+smoking,Oxford,0.14
+food_insecurity,Oxford,0.07
+housing_insecurity,Oxford,0.07
+transportation_insecure,Oxford,0.09
+no_bank_account,Oxford,0.05050505050505051
+satisfied_w_area,Pomperaug,0.88
+safe_walking_at_night,Pomperaug,0.7857142857142857
+self_rated_health,Pomperaug,0.6
+obesity,Pomperaug,0.27
+smoking,Pomperaug,0.03
+food_insecurity,Pomperaug,0.04
+housing_insecurity,Pomperaug,0.05
+transportation_insecure,Pomperaug,0.05
+no_bank_account,Pomperaug,0.04
+satisfied_w_area,Port Chester Ny,0.888888888888889
+safe_walking_at_night,Port Chester Ny,0.7142857142857144
+self_rated_health,Port Chester Ny,0.54
+obesity,Port Chester Ny,0.23
+smoking,Port Chester Ny,0.11
+food_insecurity,Port Chester Ny,0.11
+housing_insecurity,Port Chester Ny,0.10204081632653061
+transportation_insecure,Port Chester Ny,0.11111111111111112
+no_bank_account,Port Chester Ny,0.15463917525773196
+satisfied_w_area,Seymour,0.84
+safe_walking_at_night,Seymour,0.7857142857142857
+self_rated_health,Seymour,0.63
+obesity,Seymour,0.28
+smoking,Seymour,0.19
+food_insecurity,Seymour,0.06
+housing_insecurity,Seymour,0.06060606060606061
+transportation_insecure,Seymour,0.12121212121212122
+no_bank_account,Seymour,0.06060606060606061
+satisfied_w_area,Shelton,0.9090909090909092
+safe_walking_at_night,Shelton,0.78
+self_rated_health,Shelton,0.65
+obesity,Shelton,0.3
+smoking,Shelton,0.14
+food_insecurity,Shelton,0.07
+housing_insecurity,Shelton,0.05050505050505051
+transportation_insecure,Shelton,0.06060606060606061
+no_bank_account,Shelton,0.020202020202020204
+satisfied_w_area,Stamford,0.8383838383838383
+safe_walking_at_night,Stamford,0.7040816326530613
+self_rated_health,Stamford,0.67
+obesity,Stamford,0.23
+smoking,Stamford,0.09
+food_insecurity,Stamford,0.09
+housing_insecurity,Stamford,0.05050505050505051
+transportation_insecure,Stamford,0.10101010101010102
+no_bank_account,Stamford,0.10101010101010102
+underemployed,Stamford,0.17
+satisfied_w_area,Stratford,0.7755102040816326
+safe_walking_at_night,Stratford,0.7171717171717171
+self_rated_health,Stratford,0.51
+obesity,Stratford,0.37
+smoking,Stratford,0.14
+food_insecurity,Stratford,0.2
+housing_insecurity,Stratford,0.1
+transportation_insecure,Stratford,0.14
+no_bank_account,Stratford,0.09
+satisfied_w_area,Tolland County,0.9
+safe_walking_at_night,Tolland County,0.7346938775510204
+self_rated_health,Tolland County,0.61
+obesity,Tolland County,0.27
+smoking,Tolland County,0.11
+food_insecurity,Tolland County,0.15
+housing_insecurity,Tolland County,0.04
+transportation_insecure,Tolland County,0.12
+no_bank_account,Tolland County,0.05050505050505051
+underemployed,Tolland County,0.12
+satisfied_w_area,Trumbull,0.8585858585858586
+safe_walking_at_night,Trumbull,0.8
+self_rated_health,Trumbull,0.57
+obesity,Trumbull,0.2
+smoking,Trumbull,0.1
+food_insecurity,Trumbull,0.06
+housing_insecurity,Trumbull,0.04
+transportation_insecure,Trumbull,0.06
+no_bank_account,Trumbull,0.05
+satisfied_w_area,Wallingford,0.86
+safe_walking_at_night,Wallingford,0.74
+self_rated_health,Wallingford,0.58
+obesity,Wallingford,0.31
+smoking,Wallingford,0.1
+food_insecurity,Wallingford,0.11
+housing_insecurity,Wallingford,0.06060606060606061
+transportation_insecure,Wallingford,0.09
+no_bank_account,Wallingford,0.04040404040404041
+satisfied_w_area,Waterbury,0.5959595959595959
+safe_walking_at_night,Waterbury,0.5
+self_rated_health,Waterbury,0.49
+obesity,Waterbury,0.41
+smoking,Waterbury,0.26
+food_insecurity,Waterbury,0.25
+housing_insecurity,Waterbury,0.11
+transportation_insecure,Waterbury,0.23
+no_bank_account,Waterbury,0.19191919191919193
+underemployed,Waterbury,0.23
+satisfied_w_area,West Hartford,0.88
+safe_walking_at_night,West Hartford,0.8775510204081634
+self_rated_health,West Hartford,0.76
+obesity,West Hartford,0.15
+smoking,West Hartford,0.05
+food_insecurity,West Hartford,0.05
+housing_insecurity,West Hartford,0.010101010101010102
+transportation_insecure,West Hartford,0.06
+no_bank_account,West Hartford,0.05
+satisfied_w_area,West Haven,0.7171717171717171
+safe_walking_at_night,West Haven,0.6060606060606062
+self_rated_health,West Haven,0.45
+obesity,West Haven,0.4
+smoking,West Haven,0.17
+food_insecurity,West Haven,0.18
+housing_insecurity,West Haven,0.11
+transportation_insecure,West Haven,0.15
+no_bank_account,West Haven,0.14
+satisfied_w_area,Windham,0.76
+safe_walking_at_night,Windham,0.5567010309278351
+self_rated_health,Windham,0.47
+obesity,Windham,0.35
+smoking,Windham,0.2
+food_insecurity,Windham,0.23
+housing_insecurity,Windham,0.1
+transportation_insecure,Windham,0.28
+no_bank_account,Windham,0.10204081632653061
+satisfied_w_area,Windham County,0.83
+safe_walking_at_night,Windham County,0.653061224489796
+self_rated_health,Windham County,0.54
+obesity,Windham County,0.31
+smoking,Windham County,0.16
+food_insecurity,Windham County,0.17
+housing_insecurity,Windham County,0.08
+transportation_insecure,Windham County,0.13
+no_bank_account,Windham County,0.08080808080808081
+underemployed,Windham County,0.19

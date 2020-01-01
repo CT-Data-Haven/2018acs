@@ -1,0 +1,2443 @@
+year,indicator,name,category,group,value
+2018,suitable_employment,5ct,Wealthy,Wealthy,0.6588235294117648
+2018,suitable_employment,5ct,Suburban,Suburban,0.6022727272727273
+2018,suitable_employment,5ct,Rural,Rural,0.4725274725274725
+2018,suitable_employment,5ct,Urban Periphery,Urban Periphery,0.5
+2018,suitable_employment,5ct,Urban Core,Urban Core,0.3295454545454546
+2018,suitable_employment,ansonia,Total,Total,0.3820224719101123
+2018,suitable_employment,ansonia,Gender,Male,0.41935483870967744
+2018,suitable_employment,ansonia,Gender,Female,0.3411764705882353
+2018,suitable_employment,ansonia,Age,Under age 55,0.3666666666666667
+2018,suitable_employment,ansonia,Age,Age 55 or older,0.42528735632183906
+2018,suitable_employment,ansonia,Education,Some college or less,0.34831460674157305
+2018,suitable_employment,ansonia,Education,Bachelor's or higher,0.43333333333333335
+2018,suitable_employment,ansonia,Income,<$75K,0.2808988764044944
+2018,suitable_employment,ansonia,Income,$75K+,0.4175824175824176
+2018,suitable_employment,bridgeport,Total,Total,0.2790697674418605
+2018,suitable_employment,bridgeport,Gender,Male,0.30337078651685395
+2018,suitable_employment,bridgeport,Gender,Female,0.25
+2018,suitable_employment,bridgeport,Age,Ages 18-34,0.3409090909090909
+2018,suitable_employment,bridgeport,Age,Ages 35-49,0.22471910112359547
+2018,suitable_employment,bridgeport,Age,Ages 50-64,0.16853932584269662
+2018,suitable_employment,bridgeport,Age,Ages 65+,0.2987012987012987
+2018,suitable_employment,bridgeport,Education,Bachelor's or higher,0.2777777777777778
+2018,suitable_employment,bridgeport,Education,High school or less,0.28915662650602414
+2018,suitable_employment,bridgeport,Education,Some college or Associate's,0.26436781609195403
+2018,suitable_employment,bridgeport,Income,$75K+,0.2688172043010753
+2018,suitable_employment,bridgeport,Income,<$30K,0.2705882352941177
+2018,suitable_employment,bridgeport,Income,$30K-$75K,0.29545454545454547
+2018,suitable_employment,bridgeport,Race/Ethnicity,White,0.3132530120481928
+2018,suitable_employment,bridgeport,Race/Ethnicity,Black,0.2272727272727273
+2018,suitable_employment,bridgeport,Race/Ethnicity,Latino,0.3296703296703297
+2018,suitable_employment,bridgeport,With children,No children,0.2470588235294118
+2018,suitable_employment,bridgeport,With children,Children in household,0.31460674157303375
+2018,suitable_employment,bristol,Total,Total,0.43956043956043955
+2018,suitable_employment,bristol,Gender,Male,0.4787234042553192
+2018,suitable_employment,bristol,Gender,Female,0.42045454545454547
+2018,suitable_employment,bristol,Age,Under age 55,0.4111111111111111
+2018,suitable_employment,bristol,Age,Age 55 or older,0.5053763440860216
+2018,suitable_employment,bristol,Education,Some college or less,0.47826086956521735
+2018,suitable_employment,bristol,Education,Bachelor's or higher,0.37078651685393255
+2018,suitable_employment,bristol,Income,<$75K,0.40625000000000006
+2018,suitable_employment,bristol,Income,$75K+,0.5057471264367817
+2018,suitable_employment,bristol,With children,No children,0.44565217391304346
+2018,suitable_employment,bristol,With children,Children in household,0.4318181818181818
+2018,suitable_employment,cchd_central_ct_health_district,Total,Total,0.5882352941176471
+2018,suitable_employment,cchd_central_ct_health_district,Gender,Male,0.49411764705882355
+2018,suitable_employment,cchd_central_ct_health_district,Gender,Female,0.6705882352941176
+2018,suitable_employment,cchd_central_ct_health_district,Age,Under age 55,0.5730337078651685
+2018,suitable_employment,cchd_central_ct_health_district,Age,Age 55 or older,0.620253164556962
+2018,suitable_employment,cchd_central_ct_health_district,Education,Some college or less,0.5476190476190476
+2018,suitable_employment,cchd_central_ct_health_district,Education,Bachelor's or higher,0.627906976744186
+2018,suitable_employment,cchd_central_ct_health_district,Income,<$75K,0.5454545454545455
+2018,suitable_employment,cchd_central_ct_health_district,Income,$75K+,0.6511627906976744
+2018,suitable_employment,cchd_central_ct_health_district,With children,No children,0.5783132530120482
+2018,suitable_employment,cchd_central_ct_health_district,With children,Children in household,0.6111111111111112
+2018,suitable_employment,chesprocott,Total,Total,0.5280898876404494
+2018,suitable_employment,chesprocott,Gender,Male,0.5280898876404494
+2018,suitable_employment,chesprocott,Gender,Female,0.5287356321839081
+2018,suitable_employment,chesprocott,Age,Under age 55,0.5164835164835164
+2018,suitable_employment,chesprocott,Age,Age 55 or older,0.5411764705882353
+2018,suitable_employment,chesprocott,Education,Some college or less,0.5393258426966292
+2018,suitable_employment,chesprocott,Education,Bachelor's or higher,0.5227272727272727
+2018,suitable_employment,chesprocott,Income,<$75K,0.5168539325842696
+2018,suitable_employment,chesprocott,Income,$75K+,0.5681818181818182
+2018,suitable_employment,chesprocott,With children,No children,0.4827586206896552
+2018,suitable_employment,chesprocott,With children,Children in household,0.6179775280898877
+2018,suitable_employment,connecticut,Total,Total,0.49999999999999994
+2018,suitable_employment,connecticut,Gender,Male,0.5222222222222221
+2018,suitable_employment,connecticut,Gender,Female,0.5
+2018,suitable_employment,connecticut,Age,Ages 18-34,0.4835164835164835
+2018,suitable_employment,connecticut,Age,Ages 35-49,0.5164835164835164
+2018,suitable_employment,connecticut,Age,Ages 50-64,0.4945054945054945
+2018,suitable_employment,connecticut,Age,Ages 65+,0.5384615384615385
+2018,suitable_employment,connecticut,Education,Bachelor's or higher,0.550561797752809
+2018,suitable_employment,connecticut,Education,High school or less,0.4534883720930233
+2018,suitable_employment,connecticut,Education,Some college or Associate's,0.46590909090909094
+2018,suitable_employment,connecticut,Income,<$15K,0.3294117647058824
+2018,suitable_employment,connecticut,Income,$15K-$30K,0.38823529411764707
+2018,suitable_employment,connecticut,Income,$30K-$50K,0.42696629213483145
+2018,suitable_employment,connecticut,Income,$50K-$75K,0.4835164835164835
+2018,suitable_employment,connecticut,Income,$75K-$100K,0.5384615384615384
+2018,suitable_employment,connecticut,Income,$100K-$200K,0.6263736263736264
+2018,suitable_employment,connecticut,Income,$200K+,0.6483516483516484
+2018,suitable_employment,connecticut,Race/Ethnicity,White,0.5340909090909091
+2018,suitable_employment,connecticut,Race/Ethnicity,Black,0.3595505617977528
+2018,suitable_employment,connecticut,Race/Ethnicity,Latino,0.45054945054945056
+2018,suitable_employment,connecticut,With children,No children,0.48837209302325585
+2018,suitable_employment,connecticut,With children,Children in household,0.5384615384615384
+2018,suitable_employment,danbury,Total,Total,0.5402298850574713
+2018,suitable_employment,danbury,Gender,Male,0.5617977528089888
+2018,suitable_employment,danbury,Gender,Female,0.5294117647058824
+2018,suitable_employment,danbury,Age,Ages 18-34,0.46153846153846156
+2018,suitable_employment,danbury,Age,Ages 35-49,0.5764705882352941
+2018,suitable_employment,danbury,Age,Ages 50-64,0.5319148936170213
+2018,suitable_employment,danbury,Age,Ages 65+,0.6666666666666666
+2018,suitable_employment,danbury,Education,Bachelor's or higher,0.5764705882352941
+2018,suitable_employment,danbury,Education,High school or less,0.43820224719101125
+2018,suitable_employment,danbury,Education,Some college or Associate's,0.5795454545454546
+2018,suitable_employment,danbury,Income,$75K+,0.6136363636363636
+2018,suitable_employment,danbury,Income,<$30K,0.2842105263157895
+2018,suitable_employment,danbury,Income,$30K-$75K,0.5280898876404494
+2018,suitable_employment,danbury,Race/Ethnicity,White,0.5747126436781609
+2018,suitable_employment,danbury,Race/Ethnicity,Not white,0.4659090909090909
+2018,suitable_employment,danbury,With children,No children,0.5402298850574713
+2018,suitable_employment,danbury,With children,Children in household,0.5517241379310345
+2018,suitable_employment,darien,Total,Total,0.6790123456790124
+2018,suitable_employment,darien,Gender,Male,0.675
+2018,suitable_employment,darien,Gender,Female,0.674698795180723
+2018,suitable_employment,derby,Total,Total,0.4482758620689655
+2018,suitable_employment,derby,Gender,Male,0.5319148936170213
+2018,suitable_employment,derby,Gender,Female,0.37499999999999994
+2018,suitable_employment,derby,Age,Under age 55,0.4659090909090909
+2018,suitable_employment,derby,Age,Age 55 or older,0.43529411764705883
+2018,suitable_employment,derby,Education,Some college or less,0.4367816091954023
+2018,suitable_employment,derby,Education,Bachelor's or higher,0.48275862068965514
+2018,suitable_employment,east_hartford,Total,Total,0.375
+2018,suitable_employment,east_haven,Total,Total,0.4883720930232558
+2018,suitable_employment,east_haven,Gender,Male,0.35227272727272735
+2018,suitable_employment,east_haven,Gender,Female,0.611764705882353
+2018,suitable_employment,east_haven,Age,Under age 55,0.48387096774193555
+2018,suitable_employment,east_haven,Age,Age 55 or older,0.4935064935064935
+2018,suitable_employment,east_haven,Education,High school or less,0.5955056179775281
+2018,suitable_employment,east_haven,Education,Some college or higher,0.43529411764705883
+2018,suitable_employment,east_haven,Income,<$75K,0.5
+2018,suitable_employment,east_haven,Income,$75K+,0.4395604395604395
+2018,suitable_employment,ehhd,Total,Total,0.4606741573033708
+2018,suitable_employment,ehhd,Gender,Male,0.4148936170212766
+2018,suitable_employment,ehhd,Gender,Female,0.5058823529411766
+2018,suitable_employment,ehhd,Age,Under age 55,0.4222222222222222
+2018,suitable_employment,ehhd,Age,Age 55 or older,0.550561797752809
+2018,suitable_employment,ehhd,Education,Some college or less,0.4382022471910112
+2018,suitable_employment,ehhd,Education,Bachelor's or higher,0.48888888888888893
+2018,suitable_employment,ehhd,Income,<$75K,0.5057471264367817
+2018,suitable_employment,ehhd,Income,$75K+,0.4725274725274725
+2018,suitable_employment,ehhd,With children,No children,0.4555555555555555
+2018,suitable_employment,ehhd,With children,Children in household,0.48863636363636365
+2018,suitable_employment,fairfield,Total,Total,0.6091954022988506
+2018,suitable_employment,fairfield,Gender,Male,0.6363636363636365
+2018,suitable_employment,fairfield,Gender,Female,0.5882352941176471
+2018,suitable_employment,fairfield,Age,Under age 55,0.5824175824175825
+2018,suitable_employment,fairfield,Age,Age 55 or older,0.654320987654321
+2018,suitable_employment,fairfield,Education,Some college or less,0.5813953488372093
+2018,suitable_employment,fairfield,Education,Bachelor's or higher,0.6206896551724138
+2018,suitable_employment,fairfield,Income,<$75K,0.569620253164557
+2018,suitable_employment,fairfield,Income,$75K+,0.6195652173913044
+2018,suitable_employment,fairfield,With children,No children,0.5783132530120482
+2018,suitable_employment,fairfield,With children,Children in household,0.6382978723404257
+2018,suitable_employment,fairfield_county,Total,Total,0.5517241379310345
+2018,suitable_employment,fairfield_county,Gender,Male,0.5909090909090909
+2018,suitable_employment,fairfield_county,Gender,Female,0.5294117647058824
+2018,suitable_employment,fairfield_county,Age,Ages 18-34,0.5222222222222223
+2018,suitable_employment,fairfield_county,Age,Ages 35-49,0.5444444444444444
+2018,suitable_employment,fairfield_county,Age,Ages 50-64,0.5666666666666667
+2018,suitable_employment,fairfield_county,Age,Ages 65+,0.6103896103896104
+2018,suitable_employment,fairfield_county,Education,Bachelor's or higher,0.6136363636363636
+2018,suitable_employment,fairfield_county,Education,High school or less,0.43529411764705883
+2018,suitable_employment,fairfield_county,Education,Some college or Associate's,0.5116279069767442
+2018,suitable_employment,fairfield_county,Income,<$15K,0.375
+2018,suitable_employment,fairfield_county,Income,$15K-$30K,0.3563218390804598
+2018,suitable_employment,fairfield_county,Income,$30K-$50K,0.4470588235294118
+2018,suitable_employment,fairfield_county,Income,$50K-$75K,0.5168539325842696
+2018,suitable_employment,fairfield_county,Income,$75K-$100K,0.5760869565217391
+2018,suitable_employment,fairfield_county,Income,$100K-$200K,0.6483516483516484
+2018,suitable_employment,fairfield_county,Income,$200K+,0.7415730337078652
+2018,suitable_employment,fairfield_county,Race/Ethnicity,White,0.616279069767442
+2018,suitable_employment,fairfield_county,Race/Ethnicity,Black,0.32558139534883723
+2018,suitable_employment,fairfield_county,Race/Ethnicity,Latino,0.47252747252747257
+2018,suitable_employment,fairfield_county,With children,No children,0.5411764705882353
+2018,suitable_employment,fairfield_county,With children,Children in household,0.5777777777777778
+2018,suitable_employment,fcht,Total,Total,0.37634408602150543
+2018,suitable_employment,fcht,Gender,Male,0.39560439560439564
+2018,suitable_employment,fcht,Gender,Female,0.33684210526315794
+2018,suitable_employment,fcht,Age,Under age 55,0.4787234042553191
+2018,suitable_employment,fcht,Age,Age 55 or older,0.2717391304347826
+2018,suitable_employment,fcht,Education,Some college or less,0.5
+2018,suitable_employment,fcht,Education,Bachelor's or higher,0.24444444444444444
+2018,suitable_employment,fcht,Income,<$75K,0.326530612244898
+2018,suitable_employment,fcht,Income,$75K+,0.35555555555555557
+2018,suitable_employment,greater_bridgeport,Total,Total,0.4186046511627908
+2018,suitable_employment,greater_bridgeport,Gender,Male,0.4444444444444445
+2018,suitable_employment,greater_bridgeport,Gender,Female,0.3855421686746988
+2018,suitable_employment,greater_bridgeport,Age,Ages 18-34,0.43023255813953487
+2018,suitable_employment,greater_bridgeport,Age,Ages 35-49,0.3707865168539326
+2018,suitable_employment,greater_bridgeport,Age,Ages 50-64,0.41304347826086957
+2018,suitable_employment,greater_bridgeport,Age,Ages 65+,0.46052631578947373
+2018,suitable_employment,greater_bridgeport,Education,Bachelor's or higher,0.5057471264367817
+2018,suitable_employment,greater_bridgeport,Education,High school or less,0.34523809523809523
+2018,suitable_employment,greater_bridgeport,Education,Some college or Associate's,0.3563218390804598
+2018,suitable_employment,greater_bridgeport,Income,<$15K,0.33333333333333337
+2018,suitable_employment,greater_bridgeport,Income,$15K-$30K,0.2619047619047619
+2018,suitable_employment,greater_bridgeport,Income,$30K-$50K,0.30952380952380953
+2018,suitable_employment,greater_bridgeport,Income,$50K-$75K,0.40909090909090906
+2018,suitable_employment,greater_bridgeport,Income,$75K-$100K,0.46153846153846156
+2018,suitable_employment,greater_bridgeport,Income,$100K-$200K,0.5217391304347826
+2018,suitable_employment,greater_bridgeport,Income,$200K+,0.6304347826086957
+2018,suitable_employment,greater_bridgeport,Race/Ethnicity,White,0.5000000000000001
+2018,suitable_employment,greater_bridgeport,Race/Ethnicity,Black,0.24705882352941178
+2018,suitable_employment,greater_bridgeport,Race/Ethnicity,Latino,0.3516483516483516
+2018,suitable_employment,greater_bridgeport,With children,No children,0.4047619047619048
+2018,suitable_employment,greater_bridgeport,With children,Children in household,0.4555555555555556
+2018,suitable_employment,greater_danbury,Total,Total,0.5795454545454546
+2018,suitable_employment,greater_danbury,Gender,Male,0.5862068965517242
+2018,suitable_employment,greater_danbury,Gender,Female,0.5795454545454546
+2018,suitable_employment,greater_danbury,Age,Ages 18-34,0.6021505376344087
+2018,suitable_employment,greater_danbury,Age,Ages 35-49,0.6630434782608695
+2018,suitable_employment,greater_danbury,Age,Ages 50-64,0.5384615384615384
+2018,suitable_employment,greater_danbury,Age,Ages 65+,0.5921052631578947
+2018,suitable_employment,greater_danbury,Education,Bachelor's or higher,0.6022727272727273
+2018,suitable_employment,greater_danbury,Education,High school or less,0.5287356321839081
+2018,suitable_employment,greater_danbury,Education,Some college or Associate's,0.5862068965517242
+2018,suitable_employment,greater_danbury,Income,<$30K,0.38888888888888884
+2018,suitable_employment,greater_danbury,Income,$30K-$50K,0.5172413793103449
+2018,suitable_employment,greater_danbury,Income,$50K-$75K,0.5760869565217391
+2018,suitable_employment,greater_danbury,Income,$75K-$100K,0.6373626373626373
+2018,suitable_employment,greater_danbury,Income,$100K-$200K,0.6477272727272727
+2018,suitable_employment,greater_danbury,Income,$200K+,0.6444444444444444
+2018,suitable_employment,greater_danbury,Race/Ethnicity,White,0.6091954022988506
+2018,suitable_employment,greater_danbury,Race/Ethnicity,Not white,0.5222222222222223
+2018,suitable_employment,greater_danbury,With children,No children,0.5465116279069767
+2018,suitable_employment,greater_danbury,With children,Children in household,0.6444444444444444
+2018,suitable_employment,greater_greenwich,Total,Total,0.6395348837209303
+2018,suitable_employment,greater_greenwich,Gender,Male,0.6551724137931034
+2018,suitable_employment,greater_greenwich,Gender,Female,0.6
+2018,suitable_employment,greater_greenwich,Age,Ages 18-34,0.6111111111111112
+2018,suitable_employment,greater_greenwich,Age,Ages 35-49,0.6
+2018,suitable_employment,greater_greenwich,Age,Ages 50-64,0.6436781609195403
+2018,suitable_employment,greater_greenwich,Age,Ages 65+,0.6533333333333333
+2018,suitable_employment,greater_greenwich,Education,Bachelor's or higher,0.6781609195402298
+2018,suitable_employment,greater_greenwich,Education,High school or less,0.5365853658536585
+2018,suitable_employment,greater_greenwich,Education,Some college or Associate's,0.5357142857142857
+2018,suitable_employment,greater_greenwich,Income,$75K+,0.7045454545454546
+2018,suitable_employment,greater_greenwich,Income,<$30K,0.4418604651162791
+2018,suitable_employment,greater_greenwich,Income,$30K-$75K,0.5287356321839081
+2018,suitable_employment,greater_greenwich,Race/Ethnicity,White,0.6823529411764706
+2018,suitable_employment,greater_greenwich,Race/Ethnicity,Black,0.48809523809523814
+2018,suitable_employment,greater_greenwich,Race/Ethnicity,Latino,0.5730337078651685
+2018,suitable_employment,greater_greenwich,With children,No children,0.6190476190476191
+2018,suitable_employment,greater_greenwich,With children,Children in household,0.625
+2018,suitable_employment,greater_hartford,Total,Total,0.5393258426966292
+2018,suitable_employment,greater_hartford,Gender,Male,0.5384615384615384
+2018,suitable_employment,greater_hartford,Gender,Female,0.5287356321839081
+2018,suitable_employment,greater_hartford,Age,Ages 18-34,0.5108695652173912
+2018,suitable_employment,greater_hartford,Age,Ages 35-49,0.5217391304347826
+2018,suitable_employment,greater_hartford,Age,Ages 50-64,0.5434782608695652
+2018,suitable_employment,greater_hartford,Age,Ages 65+,0.5769230769230769
+2018,suitable_employment,greater_hartford,Education,Bachelor's or higher,0.5934065934065934
+2018,suitable_employment,greater_hartford,Education,High school or less,0.4767441860465117
+2018,suitable_employment,greater_hartford,Education,Some college or Associate's,0.4719101123595506
+2018,suitable_employment,greater_hartford,Income,<$15K,0.3373493975903615
+2018,suitable_employment,greater_hartford,Income,$15K-$30K,0.4597701149425288
+2018,suitable_employment,greater_hartford,Income,$30K-$50K,0.47777777777777775
+2018,suitable_employment,greater_hartford,Income,$50K-$75K,0.5494505494505494
+2018,suitable_employment,greater_hartford,Income,$75K-$100K,0.5604395604395604
+2018,suitable_employment,greater_hartford,Income,$100K-$200K,0.6451612903225806
+2018,suitable_employment,greater_hartford,Income,$200K+,0.6413043478260869
+2018,suitable_employment,greater_hartford,Race/Ethnicity,White,0.5681818181818182
+2018,suitable_employment,greater_hartford,Race/Ethnicity,Black,0.3820224719101124
+2018,suitable_employment,greater_hartford,Race/Ethnicity,Latino,0.4175824175824176
+2018,suitable_employment,greater_hartford,With children,No children,0.5057471264367817
+2018,suitable_employment,greater_hartford,With children,Children in household,0.5652173913043478
+2018,suitable_employment,greater_new_haven,Total,Total,0.48837209302325585
+2018,suitable_employment,greater_new_haven,Gender,Male,0.48863636363636365
+2018,suitable_employment,greater_new_haven,Gender,Female,0.48809523809523814
+2018,suitable_employment,greater_new_haven,Age,Ages 18-34,0.4888888888888889
+2018,suitable_employment,greater_new_haven,Age,Ages 35-49,0.49999999999999994
+2018,suitable_employment,greater_new_haven,Age,Ages 50-64,0.4555555555555555
+2018,suitable_employment,greater_new_haven,Age,Ages 65+,0.5068493150684932
+2018,suitable_employment,greater_new_haven,Education,Bachelor's or higher,0.5116279069767441
+2018,suitable_employment,greater_new_haven,Education,High school or less,0.4534883720930233
+2018,suitable_employment,greater_new_haven,Education,Some college or Associate's,0.4883720930232558
+2018,suitable_employment,greater_new_haven,Income,<$15K,0.3580246913580247
+2018,suitable_employment,greater_new_haven,Income,$15K-$30K,0.32926829268292684
+2018,suitable_employment,greater_new_haven,Income,$30K-$50K,0.42696629213483145
+2018,suitable_employment,greater_new_haven,Income,$50K-$75K,0.4777777777777778
+2018,suitable_employment,greater_new_haven,Income,$75K-$100K,0.6136363636363636
+2018,suitable_employment,greater_new_haven,Income,$100K-$200K,0.6022727272727273
+2018,suitable_employment,greater_new_haven,Income,$200K+,0.6354166666666666
+2018,suitable_employment,greater_new_haven,Race/Ethnicity,White,0.5232558139534884
+2018,suitable_employment,greater_new_haven,Race/Ethnicity,Black,0.3932584269662921
+2018,suitable_employment,greater_new_haven,Race/Ethnicity,Latino,0.3932584269662921
+2018,suitable_employment,greater_new_haven,With children,No children,0.48192771084337355
+2018,suitable_employment,greater_new_haven,With children,Children in household,0.5217391304347826
+2018,suitable_employment,greater_new_london,Total,Total,0.5333333333333333
+2018,suitable_employment,greater_new_london,Gender,Male,0.5444444444444444
+2018,suitable_employment,greater_new_london,Gender,Female,0.5
+2018,suitable_employment,greater_new_london,Age,Ages 18-34,0.5
+2018,suitable_employment,greater_new_london,Age,Ages 35-49,0.43956043956043955
+2018,suitable_employment,greater_new_london,Age,Ages 50-64,0.5263157894736842
+2018,suitable_employment,greater_new_london,Age,Ages 65+,0.6265060240963856
+2018,suitable_employment,greater_new_london,Education,Bachelor's or higher,0.5652173913043478
+2018,suitable_employment,greater_new_london,Education,High school or less,0.4772727272727273
+2018,suitable_employment,greater_new_london,Education,Some college or Associate's,0.4777777777777778
+2018,suitable_employment,greater_new_london,Income,$75K+,0.5913978494623657
+2018,suitable_employment,greater_new_london,Income,<$30K,0.3932584269662921
+2018,suitable_employment,greater_new_london,Income,$30K-$75K,0.47826086956521735
+2018,suitable_employment,greater_new_london,Race/Ethnicity,White,0.5444444444444444
+2018,suitable_employment,greater_new_london,Race/Ethnicity,Not white,0.4673913043478261
+2018,suitable_employment,greater_new_london,With children,No children,0.5280898876404494
+2018,suitable_employment,greater_new_london,With children,Children in household,0.5161290322580645
+2018,suitable_employment,greater_waterbury,Total,Total,0.4044943820224719
+2018,suitable_employment,greater_waterbury,Gender,Male,0.43333333333333335
+2018,suitable_employment,greater_waterbury,Gender,Female,0.3863636363636364
+2018,suitable_employment,greater_waterbury,Age,Ages 18-34,0.4042553191489362
+2018,suitable_employment,greater_waterbury,Age,Ages 35-49,0.4301075268817205
+2018,suitable_employment,greater_waterbury,Age,Ages 50-64,0.3956043956043956
+2018,suitable_employment,greater_waterbury,Age,Ages 65+,0.4177215189873418
+2018,suitable_employment,greater_waterbury,Education,Bachelor's or higher,0.43820224719101125
+2018,suitable_employment,greater_waterbury,Education,High school or less,0.40909090909090906
+2018,suitable_employment,greater_waterbury,Education,Some college or Associate's,0.3626373626373626
+2018,suitable_employment,greater_waterbury,Income,<$15K,0.2727272727272727
+2018,suitable_employment,greater_waterbury,Income,$15K-$30K,0.34523809523809523
+2018,suitable_employment,greater_waterbury,Income,$30K-$50K,0.34408602150537637
+2018,suitable_employment,greater_waterbury,Income,$50K-$75K,0.3548387096774194
+2018,suitable_employment,greater_waterbury,Income,$75K-$100K,0.47311827956989244
+2018,suitable_employment,greater_waterbury,Income,$100K-$200K,0.5056179775280899
+2018,suitable_employment,greater_waterbury,Income,$200K+,0.6086956521739131
+2018,suitable_employment,greater_waterbury,Race/Ethnicity,White,0.43820224719101125
+2018,suitable_employment,greater_waterbury,Race/Ethnicity,Black,0.24719101123595505
+2018,suitable_employment,greater_waterbury,Race/Ethnicity,Latino,0.4725274725274725
+2018,suitable_employment,greater_waterbury,With children,No children,0.39080459770114945
+2018,suitable_employment,greater_waterbury,With children,Children in household,0.4565217391304348
+2018,suitable_employment,greenwich,Total,Total,0.7209302325581396
+2018,suitable_employment,greenwich,Gender,Male,0.7045454545454546
+2018,suitable_employment,greenwich,Gender,Female,0.7261904761904762
+2018,suitable_employment,greenwich,Age,Ages 18-34,0.5473684210526316
+2018,suitable_employment,greenwich,Age,Ages 35-54,0.783132530120482
+2018,suitable_employment,greenwich,Age,Ages 55+,0.7073170731707316
+2018,suitable_employment,greenwich,Income,<$75K,0.5888888888888889
+2018,suitable_employment,greenwich,Income,$75K+,0.7674418604651163
+2018,suitable_employment,greenwich,Race/Ethnicity,White,0.7586206896551725
+2018,suitable_employment,greenwich,Race/Ethnicity,Not white,0.5853658536585366
+2018,suitable_employment,greenwich,With children,No children,0.6860465116279071
+2018,suitable_employment,greenwich,With children,Children in household,0.7701149425287357
+2018,suitable_employment,groton,Total,Total,0.6086956521739131
+2018,suitable_employment,groton,Gender,Male,0.625
+2018,suitable_employment,groton,Gender,Female,0.5730337078651685
+2018,suitable_employment,groton,Age,Under age 55,0.574468085106383
+2018,suitable_employment,groton,Age,Age 55 or older,0.6629213483146067
+2018,suitable_employment,groton,Education,Some college or less,0.48888888888888893
+2018,suitable_employment,groton,Education,Bachelor's or higher,0.7052631578947369
+2018,suitable_employment,groton,Income,<$75K,0.5543478260869565
+2018,suitable_employment,groton,Income,$75K+,0.6382978723404256
+2018,suitable_employment,hamden,Total,Total,0.5301204819277108
+2018,suitable_employment,hamden,Gender,Male,0.4875
+2018,suitable_employment,hamden,Gender,Female,0.5697674418604651
+2018,suitable_employment,hamden,Age,Under age 55,0.5730337078651685
+2018,suitable_employment,hamden,Age,Age 55 or older,0.445945945945946
+2018,suitable_employment,hamden,Education,Bachelor's or higher,0.4939759036144578
+2018,suitable_employment,hamden,Education,High school or less,0.6625
+2018,suitable_employment,hamden,Education,Some college or Associate's,0.4942528735632184
+2018,suitable_employment,hamden,Income,<$75K,0.5180722891566265
+2018,suitable_employment,hamden,Income,$75K+,0.5978260869565217
+2018,suitable_employment,hamden,Race/Ethnicity,White,0.5555555555555556
+2018,suitable_employment,hamden,Race/Ethnicity,Not white,0.4886363636363637
+2018,suitable_employment,hamden,With children,No children,0.5131578947368421
+2018,suitable_employment,hamden,With children,Children in household,0.5416666666666667
+2018,suitable_employment,hartford,Total,Total,0.34090909090909094
+2018,suitable_employment,hartford,Gender,Male,0.3626373626373626
+2018,suitable_employment,hartford,Gender,Female,0.313953488372093
+2018,suitable_employment,hartford,Age,Ages 18-34,0.33695652173913043
+2018,suitable_employment,hartford,Age,Ages 35-49,0.32183908045977017
+2018,suitable_employment,hartford,Age,Ages 50-64,0.2988505747126437
+2018,suitable_employment,hartford,Age,Ages 65+,0.3580246913580246
+2018,suitable_employment,hartford,Education,Bachelor's or higher,0.43023255813953487
+2018,suitable_employment,hartford,Education,High school or less,0.3372093023255814
+2018,suitable_employment,hartford,Education,Some college or Associate's,0.2717391304347826
+2018,suitable_employment,hartford,Income,$75K+,0.47826086956521735
+2018,suitable_employment,hartford,Income,<$30K,0.29069767441860467
+2018,suitable_employment,hartford,Income,$30K-$75K,0.3440860215053763
+2018,suitable_employment,hartford,Race/Ethnicity,White,0.4367816091954023
+2018,suitable_employment,hartford,Race/Ethnicity,Black,0.32183908045977017
+2018,suitable_employment,hartford,Race/Ethnicity,Latino,0.3297872340425532
+2018,suitable_employment,hartford,With children,No children,0.34117647058823536
+2018,suitable_employment,hartford,With children,Children in household,0.3225806451612903
+2018,suitable_employment,hartford_inner_ring,Total,Total,0.48863636363636365
+2018,suitable_employment,hartford_inner_ring,Gender,Male,0.47777777777777775
+2018,suitable_employment,hartford_inner_ring,Gender,Female,0.5116279069767442
+2018,suitable_employment,hartford_inner_ring,Age,Ages 18-34,0.5111111111111111
+2018,suitable_employment,hartford_inner_ring,Age,Ages 35-49,0.4736842105263158
+2018,suitable_employment,hartford_inner_ring,Age,Ages 50-64,0.4731182795698925
+2018,suitable_employment,hartford_inner_ring,Age,Ages 65+,0.52
+2018,suitable_employment,hartford_inner_ring,Education,Bachelor's or higher,0.5617977528089888
+2018,suitable_employment,hartford_inner_ring,Education,High school or less,0.47126436781609193
+2018,suitable_employment,hartford_inner_ring,Education,Some college or Associate's,0.4157303370786517
+2018,suitable_employment,hartford_inner_ring,Income,<$15K,0.36249999999999993
+2018,suitable_employment,hartford_inner_ring,Income,$15K-$30K,0.4175824175824176
+2018,suitable_employment,hartford_inner_ring,Income,$30K-$50K,0.45652173913043476
+2018,suitable_employment,hartford_inner_ring,Income,$50K-$75K,0.5056179775280899
+2018,suitable_employment,hartford_inner_ring,Income,$75K-$100K,0.5222222222222221
+2018,suitable_employment,hartford_inner_ring,Income,$100K+,0.5806451612903226
+2018,suitable_employment,hartford_inner_ring,Race/Ethnicity,White,0.48863636363636365
+2018,suitable_employment,hartford_inner_ring,Race/Ethnicity,Black,0.43333333333333335
+2018,suitable_employment,hartford_inner_ring,Race/Ethnicity,Latino,0.3333333333333333
+2018,suitable_employment,hartford_inner_ring,With children,No children,0.47058823529411764
+2018,suitable_employment,hartford_inner_ring,With children,Children in household,0.5425531914893618
+2018,suitable_employment,hartford_outer_ring,Total,Total,0.6333333333333334
+2018,suitable_employment,hartford_outer_ring,Gender,Male,0.6373626373626374
+2018,suitable_employment,hartford_outer_ring,Gender,Female,0.6292134831460675
+2018,suitable_employment,hartford_outer_ring,Age,Ages 18-34,0.6304347826086957
+2018,suitable_employment,hartford_outer_ring,Age,Ages 35-49,0.6373626373626373
+2018,suitable_employment,hartford_outer_ring,Age,Ages 50-64,0.5760869565217391
+2018,suitable_employment,hartford_outer_ring,Age,Ages 65+,0.6951219512195123
+2018,suitable_employment,hartford_outer_ring,Education,Bachelor's or higher,0.6483516483516483
+2018,suitable_employment,hartford_outer_ring,Education,High school or less,0.5411764705882354
+2018,suitable_employment,hartford_outer_ring,Education,Some college or Associate's,0.6741573033707865
+2018,suitable_employment,hartford_outer_ring,Income,$75K+,0.6629213483146067
+2018,suitable_employment,hartford_outer_ring,Income,<$30K,0.5238095238095238
+2018,suitable_employment,hartford_outer_ring,Income,$30K-$75K,0.6276595744680851
+2018,suitable_employment,hartford_outer_ring,Race/Ethnicity,White,0.6404494382022472
+2018,suitable_employment,hartford_outer_ring,Race/Ethnicity,Not white,0.6304347826086956
+2018,suitable_employment,hartford_outer_ring,With children,No children,0.6
+2018,suitable_employment,hartford_outer_ring,With children,Children in household,0.6853932584269663
+2018,suitable_employment,litchfield_county,Total,Total,0.4021739130434782
+2018,suitable_employment,litchfield_county,Gender,Male,0.4042553191489362
+2018,suitable_employment,litchfield_county,Gender,Female,0.38888888888888884
+2018,suitable_employment,litchfield_county,Age,Ages 18-34,0.46874999999999994
+2018,suitable_employment,litchfield_county,Age,Ages 35-49,0.5054945054945055
+2018,suitable_employment,litchfield_county,Age,Ages 50-64,0.34042553191489366
+2018,suitable_employment,litchfield_county,Age,Ages 65+,0.35227272727272735
+2018,suitable_employment,litchfield_county,Education,Bachelor's or higher,0.3626373626373626
+2018,suitable_employment,litchfield_county,Education,High school or less,0.4787234042553191
+2018,suitable_employment,litchfield_county,Education,Some college or Associate's,0.3956043956043956
+2018,suitable_employment,litchfield_county,Income,$75K+,0.47826086956521735
+2018,suitable_employment,litchfield_county,Income,<$30K,0.3409090909090909
+2018,suitable_employment,litchfield_county,Income,$30K-$75K,0.34375000000000006
+2018,suitable_employment,litchfield_county,Race/Ethnicity,White,0.3913043478260869
+2018,suitable_employment,litchfield_county,Race/Ethnicity,Not white,0.5268817204301075
+2018,suitable_employment,litchfield_county,With children,No children,0.3846153846153846
+2018,suitable_employment,litchfield_county,With children,Children in household,0.4301075268817205
+2018,suitable_employment,manchester,Total,Total,0.4545454545454546
+2018,suitable_employment,manchester,Gender,Male,0.4555555555555555
+2018,suitable_employment,manchester,Gender,Female,0.4482758620689655
+2018,suitable_employment,manchester,Age,Under age 55,0.45054945054945056
+2018,suitable_employment,manchester,Age,Age 55 or older,0.4523809523809524
+2018,suitable_employment,manchester,Education,Some college or less,0.4534883720930233
+2018,suitable_employment,manchester,Education,Bachelor's or higher,0.46153846153846156
+2018,suitable_employment,manchester,Income,<$75K,0.4175824175824176
+2018,suitable_employment,manchester,Income,$75K+,0.48913043478260865
+2018,suitable_employment,meriden,Total,Total,0.3218390804597701
+2018,suitable_employment,meriden,Gender,Male,0.32954545454545453
+2018,suitable_employment,meriden,Gender,Female,0.3333333333333333
+2018,suitable_employment,meriden,Age,Under age 55,0.30337078651685395
+2018,suitable_employment,meriden,Age,Age 55 or older,0.38095238095238093
+2018,suitable_employment,meriden,Education,Bachelor's or higher,0.27710843373493976
+2018,suitable_employment,meriden,Education,High school or less,0.4418604651162791
+2018,suitable_employment,meriden,Education,Some college or Associate's,0.29347826086956524
+2018,suitable_employment,meriden,Income,$75K+,0.3186813186813187
+2018,suitable_employment,meriden,Income,<$30K,0.25287356321839083
+2018,suitable_employment,meriden,Income,$30K-$75K,0.34090909090909094
+2018,suitable_employment,meriden,Race/Ethnicity,White,0.31764705882352945
+2018,suitable_employment,meriden,Race/Ethnicity,Not white,0.34782608695652173
+2018,suitable_employment,meriden,With children,No children,0.313953488372093
+2018,suitable_employment,meriden,With children,Children in household,0.3595505617977528
+2018,suitable_employment,middlesex_county,Total,Total,0.5
+2018,suitable_employment,middlesex_county,Gender,Male,0.5294117647058824
+2018,suitable_employment,middlesex_county,Gender,Female,0.4597701149425288
+2018,suitable_employment,middlesex_county,Age,Under age 55,0.4555555555555556
+2018,suitable_employment,middlesex_county,Age,Age 55 or older,0.5625
+2018,suitable_employment,middlesex_county,Education,Bachelor's or higher,0.4606741573033708
+2018,suitable_employment,middlesex_county,Education,High school or less,0.5128205128205129
+2018,suitable_employment,middlesex_county,Education,Some college or Associate's,0.5747126436781609
+2018,suitable_employment,middlesex_county,Income,<$75K,0.47058823529411764
+2018,suitable_employment,middlesex_county,Income,$75K+,0.5280898876404495
+2018,suitable_employment,middlesex_county,With children,No children,0.4767441860465116
+2018,suitable_employment,middlesex_county,With children,Children in household,0.5681818181818182
+2018,suitable_employment,middletown,Total,Total,0.5421686746987953
+2018,suitable_employment,middletown,Gender,Male,0.5411764705882354
+2018,suitable_employment,middletown,Gender,Female,0.5421686746987953
+2018,suitable_employment,middletown,Age,Under age 55,0.5476190476190477
+2018,suitable_employment,middletown,Age,Age 55 or older,0.5365853658536585
+2018,suitable_employment,middletown,Education,Some college or less,0.5180722891566266
+2018,suitable_employment,middletown,Education,Bachelor's or higher,0.5595238095238095
+2018,suitable_employment,middletown,Income,<$75K,0.4482758620689655
+2018,suitable_employment,middletown,Income,$75K+,0.7283950617283951
+2018,suitable_employment,milford,Total,Total,0.5813953488372093
+2018,suitable_employment,milford,Gender,Male,0.49425287356321845
+2018,suitable_employment,milford,Gender,Female,0.6395348837209303
+2018,suitable_employment,milford,Age,Under age 55,0.5268817204301075
+2018,suitable_employment,milford,Age,Age 55 or older,0.6493506493506493
+2018,suitable_employment,milford,Education,Some college or less,0.616279069767442
+2018,suitable_employment,milford,Education,Bachelor's or higher,0.5348837209302326
+2018,suitable_employment,milford,Income,<$75K,0.471264367816092
+2018,suitable_employment,milford,Income,$75K+,0.689655172413793
+2018,suitable_employment,milford,With children,No children,0.5411764705882354
+2018,suitable_employment,milford,With children,Children in household,0.6593406593406593
+2018,suitable_employment,monroe,Total,Total,0.6
+2018,suitable_employment,naugatuck,Total,Total,0.3804347826086957
+2018,suitable_employment,naugatuck,Gender,Male,0.4255319148936171
+2018,suitable_employment,naugatuck,Gender,Female,0.34831460674157305
+2018,suitable_employment,naugatuck,Age,Under age 55,0.4020618556701031
+2018,suitable_employment,naugatuck,Age,Age 55 or older,0.34939759036144585
+2018,suitable_employment,naugatuck,Education,Bachelor's or higher,0.42391304347826086
+2018,suitable_employment,naugatuck,Education,High school or less,0.39999999999999997
+2018,suitable_employment,naugatuck,Education,Some college or Associate's,0.33695652173913043
+2018,suitable_employment,naugatuck,Income,$75K+,0.49473684210526314
+2018,suitable_employment,naugatuck,Income,<$30K,0.3595505617977528
+2018,suitable_employment,naugatuck,Income,$30K-$75K,0.351063829787234
+2018,suitable_employment,naugatuck,With children,No children,0.33333333333333337
+2018,suitable_employment,naugatuck,With children,Children in household,0.4468085106382979
+2018,suitable_employment,ncdhd,Total,Total,0.4888888888888889
+2018,suitable_employment,ncdhd,Gender,Male,0.5164835164835165
+2018,suitable_employment,ncdhd,Gender,Female,0.4555555555555555
+2018,suitable_employment,ncdhd,Age,Under age 55,0.4421052631578947
+2018,suitable_employment,ncdhd,Age,Age 55 or older,0.5609756097560975
+2018,suitable_employment,ncdhd,Education,Bachelor's or higher,0.5604395604395604
+2018,suitable_employment,ncdhd,Education,High school or less,0.4555555555555555
+2018,suitable_employment,ncdhd,Education,Some college or Associate's,0.42857142857142855
+2018,suitable_employment,ncdhd,Income,$75K+,0.5425531914893618
+2018,suitable_employment,ncdhd,Income,<$30K,0.3855421686746988
+2018,suitable_employment,ncdhd,Income,$30K-$75K,0.4736842105263158
+2018,suitable_employment,ncdhd,Race/Ethnicity,White,0.4888888888888889
+2018,suitable_employment,ncdhd,Race/Ethnicity,Not white,0.48387096774193544
+2018,suitable_employment,ncdhd,With children,No children,0.44827586206896547
+2018,suitable_employment,ncdhd,With children,Children in household,0.5360824742268041
+2018,suitable_employment,nddh,Total,Total,0.39999999999999997
+2018,suitable_employment,nddh,Gender,Male,0.4574468085106383
+2018,suitable_employment,nddh,Gender,Female,0.3372093023255814
+2018,suitable_employment,nddh,Age,Under age 55,0.43956043956043955
+2018,suitable_employment,nddh,Age,Age 55 or older,0.36363636363636365
+2018,suitable_employment,nddh,Education,Bachelor's or higher,0.375
+2018,suitable_employment,nddh,Education,High school or less,0.5054945054945055
+2018,suitable_employment,nddh,Education,Some college or Associate's,0.3595505617977528
+2018,suitable_employment,nddh,Income,$75K+,0.5376344086021505
+2018,suitable_employment,nddh,Income,<$30K,0.32098765432098764
+2018,suitable_employment,nddh,Income,$30K-$75K,0.3510638297872341
+2018,suitable_employment,nddh,With children,No children,0.39534883720930236
+2018,suitable_employment,nddh,With children,Children in household,0.4468085106382979
+2018,suitable_employment,new_britain,Total,Total,0.39534883720930236
+2018,suitable_employment,new_britain,Gender,Male,0.4719101123595506
+2018,suitable_employment,new_britain,Gender,Female,0.32530120481927716
+2018,suitable_employment,new_britain,Age,Under age 55,0.4157303370786517
+2018,suitable_employment,new_britain,Age,Age 55 or older,0.379746835443038
+2018,suitable_employment,new_britain,Education,Bachelor's or higher,0.47311827956989244
+2018,suitable_employment,new_britain,Education,High school or less,0.3536585365853658
+2018,suitable_employment,new_britain,Education,Some college or Associate's,0.34117647058823536
+2018,suitable_employment,new_britain,Income,$75K+,0.3516483516483516
+2018,suitable_employment,new_britain,Income,<$30K,0.37037037037037035
+2018,suitable_employment,new_britain,Income,$30K-$75K,0.42045454545454547
+2018,suitable_employment,new_britain,Race/Ethnicity,White,0.38271604938271603
+2018,suitable_employment,new_britain,Race/Ethnicity,Not white,0.4065934065934066
+2018,suitable_employment,new_britain,With children,No children,0.419753086419753
+2018,suitable_employment,new_britain,With children,Children in household,0.3541666666666667
+2018,suitable_employment,new_haven,Total,Total,0.367816091954023
+2018,suitable_employment,new_haven,Gender,Male,0.4482758620689655
+2018,suitable_employment,new_haven,Gender,Female,0.31764705882352945
+2018,suitable_employment,new_haven,Age,Ages 18-34,0.42045454545454547
+2018,suitable_employment,new_haven,Age,Ages 35-49,0.2857142857142857
+2018,suitable_employment,new_haven,Age,Ages 50-64,0.3448275862068965
+2018,suitable_employment,new_haven,Age,Ages 65+,0.3918918918918919
+2018,suitable_employment,new_haven,Education,Bachelor's or higher,0.43023255813953487
+2018,suitable_employment,new_haven,Education,High school or less,0.29411764705882354
+2018,suitable_employment,new_haven,Education,Some college or Associate's,0.3409090909090909
+2018,suitable_employment,new_haven,Income,$75K+,0.48888888888888893
+2018,suitable_employment,new_haven,Income,<$30K,0.29411764705882354
+2018,suitable_employment,new_haven,Income,$30K-$75K,0.35869565217391297
+2018,suitable_employment,new_haven,Race/Ethnicity,White,0.42045454545454547
+2018,suitable_employment,new_haven,Race/Ethnicity,Black,0.33333333333333337
+2018,suitable_employment,new_haven,Race/Ethnicity,Latino,0.35555555555555557
+2018,suitable_employment,new_haven,With children,No children,0.38823529411764707
+2018,suitable_employment,new_haven,With children,Children in household,0.34065934065934067
+2018,suitable_employment,new_haven_county,Total,Total,0.4597701149425288
+2018,suitable_employment,new_haven_county,Gender,Male,0.46590909090909094
+2018,suitable_employment,new_haven_county,Gender,Female,0.4470588235294118
+2018,suitable_employment,new_haven_county,Age,Ages 18-34,0.45054945054945056
+2018,suitable_employment,new_haven_county,Age,Ages 35-49,0.45054945054945056
+2018,suitable_employment,new_haven_county,Age,Ages 50-64,0.4444444444444445
+2018,suitable_employment,new_haven_county,Age,Ages 65+,0.48
+2018,suitable_employment,new_haven_county,Education,Bachelor's or higher,0.4827586206896552
+2018,suitable_employment,new_haven_county,Education,High school or less,0.4418604651162791
+2018,suitable_employment,new_haven_county,Education,Some college or Associate's,0.4318181818181818
+2018,suitable_employment,new_haven_county,Income,<$15K,0.313953488372093
+2018,suitable_employment,new_haven_county,Income,$15K-$30K,0.32530120481927716
+2018,suitable_employment,new_haven_county,Income,$30K-$50K,0.38888888888888884
+2018,suitable_employment,new_haven_county,Income,$50K-$75K,0.4444444444444445
+2018,suitable_employment,new_haven_county,Income,$75K-$100K,0.5164835164835164
+2018,suitable_employment,new_haven_county,Income,$100K-$200K,0.5681818181818182
+2018,suitable_employment,new_haven_county,Income,$200K+,0.6344086021505376
+2018,suitable_employment,new_haven_county,Race/Ethnicity,White,0.48275862068965514
+2018,suitable_employment,new_haven_county,Race/Ethnicity,Black,0.34065934065934067
+2018,suitable_employment,new_haven_county,Race/Ethnicity,Latino,0.42696629213483145
+2018,suitable_employment,new_haven_county,With children,No children,0.4523809523809524
+2018,suitable_employment,new_haven_county,With children,Children in household,0.4835164835164836
+2018,suitable_employment,new_haven_inner_ring,Total,Total,0.41666666666666663
+2018,suitable_employment,new_haven_inner_ring,Gender,Male,0.3734939759036145
+2018,suitable_employment,new_haven_inner_ring,Gender,Female,0.4534883720930233
+2018,suitable_employment,new_haven_inner_ring,Age,Ages 18-34,0.4044943820224719
+2018,suitable_employment,new_haven_inner_ring,Age,Ages 35-49,0.5000000000000001
+2018,suitable_employment,new_haven_inner_ring,Age,Ages 50-64,0.3804347826086957
+2018,suitable_employment,new_haven_inner_ring,Age,Ages 65+,0.3823529411764706
+2018,suitable_employment,new_haven_inner_ring,Education,Bachelor's or higher,0.3928571428571429
+2018,suitable_employment,new_haven_inner_ring,Education,High school or less,0.4534883720930233
+2018,suitable_employment,new_haven_inner_ring,Education,Some college or Associate's,0.43373493975903615
+2018,suitable_employment,new_haven_inner_ring,Income,$75K+,0.5054945054945055
+2018,suitable_employment,new_haven_inner_ring,Income,<$30K,0.2857142857142857
+2018,suitable_employment,new_haven_inner_ring,Income,$30K-$75K,0.42528735632183906
+2018,suitable_employment,new_haven_inner_ring,Race/Ethnicity,White,0.42857142857142855
+2018,suitable_employment,new_haven_inner_ring,Race/Ethnicity,Black,0.39784946236559143
+2018,suitable_employment,new_haven_inner_ring,Race/Ethnicity,Latino,0.42045454545454547
+2018,suitable_employment,new_haven_inner_ring,With children,No children,0.4050632911392405
+2018,suitable_employment,new_haven_inner_ring,With children,Children in household,0.4421052631578947
+2018,suitable_employment,new_haven_outer_ring,Total,Total,0.6395348837209303
+2018,suitable_employment,new_haven_outer_ring,Gender,Male,0.6222222222222221
+2018,suitable_employment,new_haven_outer_ring,Gender,Female,0.6707317073170732
+2018,suitable_employment,new_haven_outer_ring,Age,Ages 18-34,0.6630434782608695
+2018,suitable_employment,new_haven_outer_ring,Age,Ages 35-49,0.6451612903225806
+2018,suitable_employment,new_haven_outer_ring,Age,Ages 50-64,0.6363636363636365
+2018,suitable_employment,new_haven_outer_ring,Age,Ages 65+,0.6056338028169014
+2018,suitable_employment,new_haven_outer_ring,Education,Bachelor's or higher,0.6206896551724138
+2018,suitable_employment,new_haven_outer_ring,Education,High school or less,0.5952380952380952
+2018,suitable_employment,new_haven_outer_ring,Education,Some college or Associate's,0.7058823529411765
+2018,suitable_employment,new_haven_outer_ring,Income,$75K+,0.7159090909090909
+2018,suitable_employment,new_haven_outer_ring,Income,<$30K,0.5294117647058824
+2018,suitable_employment,new_haven_outer_ring,Income,$30K-$75K,0.5681818181818182
+2018,suitable_employment,new_haven_outer_ring,With children,No children,0.6024096385542169
+2018,suitable_employment,new_haven_outer_ring,With children,Children in household,0.7311827956989249
+2018,suitable_employment,new_london,Total,Total,0.4210526315789474
+2018,suitable_employment,new_london,Gender,Male,0.5
+2018,suitable_employment,new_london,Gender,Female,0.3804347826086956
+2018,suitable_employment,new_london,Age,Under age 55,0.4123711340206186
+2018,suitable_employment,new_london,Age,Age 55 or older,0.4772727272727273
+2018,suitable_employment,new_london,Education,Bachelor's or higher,0.3711340206185567
+2018,suitable_employment,new_london,Education,Less than Bachelor's degree,0.46808510638297873
+2018,suitable_employment,new_london,Income,<$75K,0.40625000000000006
+2018,suitable_employment,new_london,Income,$75K+,0.5416666666666667
+2018,suitable_employment,new_london,Race/Ethnicity,White,0.4042553191489362
+2018,suitable_employment,new_london,Race/Ethnicity,Not white,0.47916666666666663
+2018,suitable_employment,new_london_county,Total,Total,0.5274725274725275
+2018,suitable_employment,new_london_county,Gender,Male,0.5384615384615384
+2018,suitable_employment,new_london_county,Gender,Female,0.5054945054945055
+2018,suitable_employment,new_london_county,Age,Ages 18-34,0.5052631578947369
+2018,suitable_employment,new_london_county,Age,Ages 35-49,0.5106382978723404
+2018,suitable_employment,new_london_county,Age,Ages 50-64,0.48421052631578954
+2018,suitable_employment,new_london_county,Age,Ages 65+,0.6024096385542169
+2018,suitable_employment,new_london_county,Education,Bachelor's or higher,0.5760869565217391
+2018,suitable_employment,new_london_county,Education,High school or less,0.4666666666666666
+2018,suitable_employment,new_london_county,Education,Some college or Associate's,0.4782608695652174
+2018,suitable_employment,new_london_county,Income,$75K+,0.6063829787234044
+2018,suitable_employment,new_london_county,Income,<$30K,0.38636363636363635
+2018,suitable_employment,new_london_county,Income,$30K-$75K,0.48387096774193555
+2018,suitable_employment,new_london_county,Race/Ethnicity,White,0.5384615384615384
+2018,suitable_employment,new_london_county,Race/Ethnicity,Not white,0.4456521739130435
+2018,suitable_employment,new_london_county,With children,No children,0.5111111111111111
+2018,suitable_employment,new_london_county,With children,Children in household,0.5531914893617021
+2018,suitable_employment,new_milford,Total,Total,0.5056179775280899
+2018,suitable_employment,new_milford,Gender,Male,0.5176470588235295
+2018,suitable_employment,new_milford,Gender,Female,0.4891304347826087
+2018,suitable_employment,new_milford,Age,Under age 55,0.5
+2018,suitable_employment,new_milford,Age,Age 55 or older,0.524390243902439
+2018,suitable_employment,new_milford,Education,Bachelor's or higher,0.4831460674157303
+2018,suitable_employment,new_milford,Education,High school or less,0.4597701149425287
+2018,suitable_employment,new_milford,Education,Some college or Associate's,0.5909090909090909
+2018,suitable_employment,new_milford,Income,<$75K,0.47777777777777775
+2018,suitable_employment,new_milford,Income,$75K+,0.5730337078651685
+2018,suitable_employment,new_milford,With children,No children,0.5056179775280899
+2018,suitable_employment,new_milford,With children,Children in household,0.5
+2018,suitable_employment,newtown,Total,Total,0.674698795180723
+2018,suitable_employment,newtown,Gender,Male,0.7249999999999999
+2018,suitable_employment,newtown,Gender,Female,0.6436781609195403
+2018,suitable_employment,newtown,Age,Under age 55,0.7261904761904762
+2018,suitable_employment,newtown,Age,Age 55 or older,0.6265060240963856
+2018,suitable_employment,newtown,Education,Some college or less,0.6124999999999999
+2018,suitable_employment,newtown,Education,Bachelor's or higher,0.7325581395348837
+2018,suitable_employment,newtown,Income,<$75K,0.45569620253164556
+2018,suitable_employment,newtown,Income,$75K+,0.7444444444444445
+2018,suitable_employment,newtown,With children,No children,0.5874999999999999
+2018,suitable_employment,newtown,With children,Children in household,0.7727272727272728
+2018,suitable_employment,norwalk,Total,Total,0.5454545454545454
+2018,suitable_employment,norwalk,Gender,Male,0.5888888888888889
+2018,suitable_employment,norwalk,Gender,Female,0.5
+2018,suitable_employment,norwalk,Age,Ages 18-34,0.4772727272727273
+2018,suitable_employment,norwalk,Age,Ages 35-49,0.5666666666666667
+2018,suitable_employment,norwalk,Age,Ages 50-64,0.5851063829787235
+2018,suitable_employment,norwalk,Age,Ages 65+,0.6233766233766234
+2018,suitable_employment,norwalk,Education,Bachelor's or higher,0.6136363636363636
+2018,suitable_employment,norwalk,Education,High school or less,0.4022988505747126
+2018,suitable_employment,norwalk,Education,Some college or Associate's,0.5168539325842697
+2018,suitable_employment,norwalk,Income,$75K+,0.6444444444444445
+2018,suitable_employment,norwalk,Income,<$30K,0.36363636363636365
+2018,suitable_employment,norwalk,Income,$30K-$75K,0.5056179775280899
+2018,suitable_employment,norwalk,Race/Ethnicity,White,0.6206896551724138
+2018,suitable_employment,norwalk,Race/Ethnicity,Not white,0.4555555555555556
+2018,suitable_employment,norwalk,With children,No children,0.5402298850574713
+2018,suitable_employment,norwalk,With children,Children in household,0.5617977528089888
+2018,suitable_employment,norwich,Total,Total,0.40860215053763443
+2018,suitable_employment,norwich,Gender,Male,0.3804347826086957
+2018,suitable_employment,norwich,Gender,Female,0.41489361702127664
+2018,suitable_employment,norwich,Age,Under age 55,0.39583333333333337
+2018,suitable_employment,norwich,Age,Age 55 or older,0.42045454545454547
+2018,suitable_employment,norwich,Education,Bachelor's or higher,0.4565217391304348
+2018,suitable_employment,norwich,Education,High school or less,0.4020618556701031
+2018,suitable_employment,norwich,Education,Some college or Associate's,0.33707865168539325
+2018,suitable_employment,norwich,Income,$75K+,0.52
+2018,suitable_employment,norwich,Income,<$30K,0.36363636363636365
+2018,suitable_employment,norwich,Income,$30K-$75K,0.32258064516129037
+2018,suitable_employment,norwich,With children,No children,0.3548387096774193
+2018,suitable_employment,norwich,With children,Children in household,0.4680851063829788
+2018,suitable_employment,nyborder,Total,Total,0.5802469135802469
+2018,suitable_employment,nyborder,Gender,Male,0.627906976744186
+2018,suitable_employment,nyborder,Gender,Female,0.5454545454545455
+2018,suitable_employment,nyborder,Age,Ages 18-34,0.6091954022988506
+2018,suitable_employment,nyborder,Age,Ages 35-49,0.4761904761904762
+2018,suitable_employment,nyborder,Age,Ages 50-64,0.5697674418604651
+2018,suitable_employment,nyborder,Age,Ages 65+,0.6216216216216216
+2018,suitable_employment,nyborder,Education,Bachelor's or higher,0.675
+2018,suitable_employment,nyborder,Education,High school or less,0.4767441860465117
+2018,suitable_employment,nyborder,Education,Some college or Associate's,0.46835443037974683
+2018,suitable_employment,nyborder,Income,$75K+,0.6666666666666667
+2018,suitable_employment,nyborder,Income,<$30K,0.30379746835443033
+2018,suitable_employment,nyborder,Income,$30K-$75K,0.5
+2018,suitable_employment,nyborder,Race/Ethnicity,White,0.6625
+2018,suitable_employment,nyborder,Race/Ethnicity,Not white,0.45882352941176474
+2018,suitable_employment,nyborder,With children,No children,0.5641025641025641
+2018,suitable_employment,nyborder,With children,Children in household,0.6
+2018,suitable_employment,oxford,Total,Total,0.5632183908045977
+2018,suitable_employment,pomperaug,Total,Total,0.43037974683544306
+2018,suitable_employment,pomperaug,Gender,Male,0.3928571428571429
+2018,suitable_employment,pomperaug,Gender,Female,0.46666666666666673
+2018,suitable_employment,pomperaug,Age,Under age 55,0.4468085106382979
+2018,suitable_employment,pomperaug,Age,Age 55 or older,0.393939393939394
+2018,suitable_employment,pomperaug,Education,Some college or less,0.37179487179487175
+2018,suitable_employment,pomperaug,Education,Bachelor's or higher,0.46249999999999997
+2018,suitable_employment,pomperaug,Income,<$75K,0.3472222222222222
+2018,suitable_employment,pomperaug,Income,$75K+,0.4534883720930233
+2018,suitable_employment,pomperaug,With children,No children,0.4084507042253521
+2018,suitable_employment,pomperaug,With children,Children in household,0.4315789473684211
+2018,suitable_employment,port_chester_ny,Total,Total,0.5
+2018,suitable_employment,port_chester_ny,Gender,Male,0.6
+2018,suitable_employment,port_chester_ny,Gender,Female,0.40789473684210525
+2018,suitable_employment,port_chester_ny,Age,Under age 55,0.48192771084337355
+2018,suitable_employment,port_chester_ny,Age,Age 55 or older,0.5466666666666667
+2018,suitable_employment,port_chester_ny,Education,Bachelor's or higher,0.6233766233766234
+2018,suitable_employment,port_chester_ny,Education,High school or less,0.42528735632183906
+2018,suitable_employment,port_chester_ny,Education,Some college or Associate's,0.4266666666666667
+2018,suitable_employment,port_chester_ny,Income,<$75K,0.3411764705882353
+2018,suitable_employment,port_chester_ny,Income,$75K+,0.5975609756097561
+2018,suitable_employment,port_chester_ny,Race/Ethnicity,White,0.5753424657534247
+2018,suitable_employment,port_chester_ny,Race/Ethnicity,Not white,0.4418604651162791
+2018,suitable_employment,port_chester_ny,With children,No children,0.4473684210526316
+2018,suitable_employment,port_chester_ny,With children,Children in household,0.5238095238095237
+2018,suitable_employment,seymour,Total,Total,0.5806451612903226
+2018,suitable_employment,seymour,Gender,Male,0.5934065934065934
+2018,suitable_employment,seymour,Gender,Female,0.568421052631579
+2018,suitable_employment,seymour,Age,Under age 55,0.6382978723404256
+2018,suitable_employment,seymour,Age,Age 55 or older,0.4888888888888889
+2018,suitable_employment,shelton,Total,Total,0.6777777777777777
+2018,suitable_employment,shelton,Gender,Male,0.6888888888888889
+2018,suitable_employment,shelton,Gender,Female,0.6853932584269663
+2018,suitable_employment,shelton,Age,Under age 55,0.6222222222222222
+2018,suitable_employment,shelton,Age,Age 55 or older,0.7640449438202246
+2018,suitable_employment,shelton,Education,Some college or less,0.6818181818181818
+2018,suitable_employment,shelton,Education,Bachelor's or higher,0.6923076923076923
+2018,suitable_employment,shelton,Income,<$75K,0.6666666666666667
+2018,suitable_employment,shelton,Income,$75K+,0.7311827956989247
+2018,suitable_employment,shelton,With children,No children,0.6956521739130435
+2018,suitable_employment,shelton,With children,Children in household,0.6588235294117648
+2018,suitable_employment,stamford,Total,Total,0.625
+2018,suitable_employment,stamford,Gender,Male,0.6781609195402298
+2018,suitable_employment,stamford,Gender,Female,0.5842696629213483
+2018,suitable_employment,stamford,Age,Ages 18-34,0.651685393258427
+2018,suitable_employment,stamford,Age,Ages 35-49,0.6105263157894737
+2018,suitable_employment,stamford,Age,Ages 50-64,0.5978260869565217
+2018,suitable_employment,stamford,Age,Ages 65+,0.6447368421052632
+2018,suitable_employment,stamford,Education,Bachelor's or higher,0.6847826086956521
+2018,suitable_employment,stamford,Education,High school or less,0.5540540540540541
+2018,suitable_employment,stamford,Education,Some college or Associate's,0.5176470588235293
+2018,suitable_employment,stamford,Income,$75K+,0.7096774193548386
+2018,suitable_employment,stamford,Income,<$30K,0.5111111111111111
+2018,suitable_employment,stamford,Income,$30K-$75K,0.511904761904762
+2018,suitable_employment,stamford,Race/Ethnicity,White,0.6666666666666666
+2018,suitable_employment,stamford,Race/Ethnicity,Black,0.5176470588235295
+2018,suitable_employment,stamford,Race/Ethnicity,Latino,0.6956521739130435
+2018,suitable_employment,stamford,With children,No children,0.6395348837209303
+2018,suitable_employment,stamford,With children,Children in household,0.6263736263736264
+2018,suitable_employment,stratford,Total,Total,0.39024390243902435
+2018,suitable_employment,stratford,Gender,Male,0.3932584269662921
+2018,suitable_employment,stratford,Gender,Female,0.3896103896103897
+2018,suitable_employment,stratford,Age,Under age 55,0.3690476190476191
+2018,suitable_employment,stratford,Age,Age 55 or older,0.42499999999999993
+2018,suitable_employment,stratford,Education,Bachelor's or higher,0.46341463414634143
+2018,suitable_employment,stratford,Education,High school or less,0.33766233766233766
+2018,suitable_employment,stratford,Education,Some college or Associate's,0.3777777777777777
+2018,suitable_employment,stratford,Income,<$75K,0.32142857142857145
+2018,suitable_employment,stratford,Income,$75K+,0.4823529411764706
+2018,suitable_employment,stratford,With children,No children,0.3855421686746988
+2018,suitable_employment,stratford,With children,Children in household,0.3780487804878048
+2018,suitable_employment,tolland_county,Total,Total,0.5666666666666667
+2018,suitable_employment,tolland_county,Gender,Male,0.5698924731182796
+2018,suitable_employment,tolland_county,Gender,Female,0.5340909090909091
+2018,suitable_employment,tolland_county,Age,Under age 55,0.5268817204301075
+2018,suitable_employment,tolland_county,Age,Age 55 or older,0.6046511627906977
+2018,suitable_employment,tolland_county,Education,Bachelor's or higher,0.5978260869565216
+2018,suitable_employment,tolland_county,Education,High school or less,0.5333333333333333
+2018,suitable_employment,tolland_county,Education,Some college or Associate's,0.5287356321839081
+2018,suitable_employment,tolland_county,Income,$75K+,0.5888888888888889
+2018,suitable_employment,tolland_county,Income,<$30K,0.550561797752809
+2018,suitable_employment,tolland_county,Income,$30K-$75K,0.568421052631579
+2018,suitable_employment,tolland_county,With children,No children,0.5393258426966292
+2018,suitable_employment,tolland_county,With children,Children in household,0.6086956521739131
+2018,suitable_employment,trumbull,Total,Total,0.6333333333333334
+2018,suitable_employment,trumbull,Gender,Male,0.6907216494845362
+2018,suitable_employment,trumbull,Gender,Female,0.5783132530120483
+2018,suitable_employment,trumbull,Age,Under age 55,0.6593406593406594
+2018,suitable_employment,trumbull,Age,Age 55 or older,0.5795454545454546
+2018,suitable_employment,trumbull,Education,Some college or less,0.5851063829787235
+2018,suitable_employment,trumbull,Education,Bachelor's or higher,0.6590909090909092
+2018,suitable_employment,trumbull,Income,$100K+,0.71875
+2018,suitable_employment,trumbull,Income,<$100K,0.5384615384615384
+2018,suitable_employment,valley,Total,Total,0.5333333333333333
+2018,suitable_employment,valley,Gender,Male,0.5543478260869565
+2018,suitable_employment,valley,Gender,Female,0.49999999999999994
+2018,suitable_employment,valley,Age,Ages 18-34,0.5106382978723405
+2018,suitable_employment,valley,Age,Ages 35-49,0.5111111111111111
+2018,suitable_employment,valley,Age,Ages 50-64,0.5326086956521738
+2018,suitable_employment,valley,Age,Ages 65+,0.5411764705882353
+2018,suitable_employment,valley,Education,Bachelor's or higher,0.5604395604395604
+2018,suitable_employment,valley,Education,High school or less,0.49438202247191015
+2018,suitable_employment,valley,Education,Some college or Associate's,0.5
+2018,suitable_employment,valley,Income,$75K+,0.6021505376344087
+2018,suitable_employment,valley,Income,<$30K,0.47727272727272724
+2018,suitable_employment,valley,Income,$30K-$75K,0.4943820224719101
+2018,suitable_employment,valley,Race/Ethnicity,White,0.5494505494505494
+2018,suitable_employment,valley,Race/Ethnicity,Not white,0.4545454545454546
+2018,suitable_employment,valley,With children,No children,0.5111111111111111
+2018,suitable_employment,valley,With children,Children in household,0.5444444444444444
+2018,suitable_employment,wallingford,Total,Total,0.6705882352941176
+2018,suitable_employment,wallingford,Gender,Male,0.7407407407407407
+2018,suitable_employment,wallingford,Gender,Female,0.6136363636363636
+2018,suitable_employment,wallingford,Age,Under age 55,0.6477272727272728
+2018,suitable_employment,wallingford,Age,Age 55 or older,0.6962025316455697
+2018,suitable_employment,wallingford,Education,Some college or less,0.6172839506172839
+2018,suitable_employment,wallingford,Education,Bachelor's or higher,0.6966292134831461
+2018,suitable_employment,wallingford,Income,<$75K,0.5647058823529412
+2018,suitable_employment,wallingford,Income,$75K+,0.761904761904762
+2018,suitable_employment,waterbury,Total,Total,0.2777777777777778
+2018,suitable_employment,waterbury,Gender,Male,0.3186813186813187
+2018,suitable_employment,waterbury,Gender,Female,0.2359550561797753
+2018,suitable_employment,waterbury,Age,Ages 18-34,0.3085106382978724
+2018,suitable_employment,waterbury,Age,Ages 35-49,0.23958333333333334
+2018,suitable_employment,waterbury,Age,Ages 50-64,0.23913043478260868
+2018,suitable_employment,waterbury,Age,Ages 65+,0.30379746835443033
+2018,suitable_employment,waterbury,Education,Bachelor's or higher,0.2717391304347826
+2018,suitable_employment,waterbury,Education,High school or less,0.31818181818181823
+2018,suitable_employment,waterbury,Education,Some college or Associate's,0.22580645161290322
+2018,suitable_employment,waterbury,Income,$75K+,0.3695652173913044
+2018,suitable_employment,waterbury,Income,<$30K,0.26373626373626374
+2018,suitable_employment,waterbury,Income,$30K-$75K,0.2021276595744681
+2018,suitable_employment,waterbury,Race/Ethnicity,White,0.26666666666666666
+2018,suitable_employment,waterbury,Race/Ethnicity,Black,0.20689655172413793
+2018,suitable_employment,waterbury,Race/Ethnicity,Latino,0.39784946236559143
+2018,suitable_employment,waterbury,With children,No children,0.25842696629213485
+2018,suitable_employment,waterbury,With children,Children in household,0.3085106382978724
+2018,suitable_employment,west_hartford,Total,Total,0.7
+2018,suitable_employment,west_hartford,Gender,Male,0.6966292134831461
+2018,suitable_employment,west_hartford,Gender,Female,0.7032967032967032
+2018,suitable_employment,west_hartford,Age,Under age 55,0.6770833333333334
+2018,suitable_employment,west_hartford,Age,Age 55 or older,0.7195121951219512
+2018,suitable_employment,west_hartford,Education,Some college or less,0.6282051282051282
+2018,suitable_employment,west_hartford,Education,Bachelor's or higher,0.71875
+2018,suitable_employment,west_hartford,Income,<$75K,0.5443037974683544
+2018,suitable_employment,west_hartford,Income,$75K+,0.75
+2018,suitable_employment,west_hartford,With children,No children,0.627906976744186
+2018,suitable_employment,west_hartford,With children,Children in household,0.8125000000000001
+2018,suitable_employment,west_haven,Total,Total,0.29069767441860467
+2018,suitable_employment,west_haven,Gender,Male,0.30952380952380953
+2018,suitable_employment,west_haven,Gender,Female,0.25
+2018,suitable_employment,west_haven,Age,Under age 55,0.26136363636363635
+2018,suitable_employment,west_haven,Age,Age 55 or older,0.34146341463414637
+2018,suitable_employment,west_haven,Education,Bachelor's or higher,0.22222222222222224
+2018,suitable_employment,west_haven,Education,High school or less,0.29545454545454547
+2018,suitable_employment,west_haven,Education,Some college or Associate's,0.3048780487804878
+2018,suitable_employment,west_haven,Income,<$75K,0.21428571428571433
+2018,suitable_employment,west_haven,Income,$75K+,0.3516483516483516
+2018,suitable_employment,west_haven,Race/Ethnicity,White,0.29411764705882354
+2018,suitable_employment,west_haven,Race/Ethnicity,Not white,0.2727272727272727
+2018,suitable_employment,west_haven,With children,No children,0.32142857142857145
+2018,suitable_employment,west_haven,With children,Children in household,0.2
+2018,suitable_employment,windham,Total,Total,0.313953488372093
+2018,suitable_employment,windham_county,Total,Total,0.375
+2018,suitable_employment,windham_county,Gender,Male,0.4111111111111111
+2018,suitable_employment,windham_county,Gender,Female,0.3333333333333333
+2018,suitable_employment,windham_county,Age,Under age 55,0.39772727272727276
+2018,suitable_employment,windham_county,Age,Age 55 or older,0.34090909090909094
+2018,suitable_employment,windham_county,Education,Bachelor's or higher,0.34831460674157305
+2018,suitable_employment,windham_county,Education,High school or less,0.4431818181818182
+2018,suitable_employment,windham_county,Education,Some college or Associate's,0.35632183908045983
+2018,suitable_employment,windham_county,Income,$75K+,0.4725274725274725
+2018,suitable_employment,windham_county,Income,<$30K,0.3125
+2018,suitable_employment,windham_county,Income,$30K-$75K,0.3297872340425532
+2018,suitable_employment,windham_county,With children,No children,0.35294117647058826
+2018,suitable_employment,windham_county,With children,Children in household,0.4086021505376344
+2018,youth_job_advancement,5ct,Wealthy,Wealthy,0.8061224489795918
+2018,youth_job_advancement,5ct,Suburban,Suburban,0.7083333333333333
+2018,youth_job_advancement,5ct,Rural,Rural,0.5408163265306123
+2018,youth_job_advancement,5ct,Urban Periphery,Urban Periphery,0.5789473684210527
+2018,youth_job_advancement,5ct,Urban Core,Urban Core,0.39583333333333337
+2018,youth_job_advancement,ansonia,Total,Total,0.5625000000000001
+2018,youth_job_advancement,bridgeport,Total,Total,0.4020618556701031
+2018,youth_job_advancement,bridgeport,Gender,Male,0.4081632653061224
+2018,youth_job_advancement,bridgeport,Gender,Female,0.4
+2018,youth_job_advancement,bridgeport,Age,Ages 18-34,0.38383838383838387
+2018,youth_job_advancement,bridgeport,Age,Ages 35-49,0.45360824742268047
+2018,youth_job_advancement,bridgeport,Age,Ages 50-64,0.3814432989690722
+2018,youth_job_advancement,bridgeport,Age,Ages 65+,0.3932584269662921
+2018,youth_job_advancement,bridgeport,Education,Bachelor's or higher,0.3877551020408163
+2018,youth_job_advancement,bridgeport,Education,High school or less,0.47916666666666663
+2018,youth_job_advancement,bridgeport,Education,Some college or Associate's,0.33333333333333337
+2018,youth_job_advancement,bridgeport,Income,$75K+,0.38383838383838387
+2018,youth_job_advancement,bridgeport,Income,<$30K,0.3645833333333333
+2018,youth_job_advancement,bridgeport,Income,$30K-$75K,0.4489795918367347
+2018,youth_job_advancement,bridgeport,Race/Ethnicity,White,0.3894736842105263
+2018,youth_job_advancement,bridgeport,Race/Ethnicity,Black,0.41666666666666663
+2018,youth_job_advancement,bridgeport,Race/Ethnicity,Latino,0.4693877551020408
+2018,youth_job_advancement,bridgeport,With children,No children,0.39583333333333337
+2018,youth_job_advancement,bridgeport,With children,Children in household,0.4020618556701031
+2018,youth_job_advancement,bristol,Total,Total,0.4742268041237114
+2018,youth_job_advancement,cchd_central_ct_health_district,Total,Total,0.6770833333333333
+2018,youth_job_advancement,cchd_central_ct_health_district,Gender,Male,0.7157894736842106
+2018,youth_job_advancement,cchd_central_ct_health_district,Gender,Female,0.653061224489796
+2018,youth_job_advancement,cchd_central_ct_health_district,Age,Under age 55,0.68
+2018,youth_job_advancement,cchd_central_ct_health_district,Age,Age 55 or older,0.6847826086956521
+2018,youth_job_advancement,cchd_central_ct_health_district,Education,Some college or less,0.7052631578947368
+2018,youth_job_advancement,cchd_central_ct_health_district,Education,Bachelor's or higher,0.653061224489796
+2018,youth_job_advancement,cchd_central_ct_health_district,Income,<$75K,0.7204301075268817
+2018,youth_job_advancement,cchd_central_ct_health_district,Income,$75K+,0.6464646464646465
+2018,youth_job_advancement,chesprocott,Total,Total,0.6979166666666667
+2018,youth_job_advancement,connecticut,Total,Total,0.59375
+2018,youth_job_advancement,connecticut,Gender,Male,0.6041666666666666
+2018,youth_job_advancement,connecticut,Gender,Female,0.5729166666666667
+2018,youth_job_advancement,connecticut,Age,Ages 18-34,0.5816326530612245
+2018,youth_job_advancement,connecticut,Age,Ages 35-49,0.6122448979591837
+2018,youth_job_advancement,connecticut,Age,Ages 50-64,0.5876288659793814
+2018,youth_job_advancement,connecticut,Age,Ages 65+,0.5955056179775281
+2018,youth_job_advancement,connecticut,Education,Bachelor's or higher,0.6597938144329897
+2018,youth_job_advancement,connecticut,Education,High school or less,0.5052631578947369
+2018,youth_job_advancement,connecticut,Education,Some college or Associate's,0.5416666666666667
+2018,youth_job_advancement,connecticut,Income,<$15K,0.4315789473684211
+2018,youth_job_advancement,connecticut,Income,$15K-$30K,0.4736842105263158
+2018,youth_job_advancement,connecticut,Income,$30K-$50K,0.568421052631579
+2018,youth_job_advancement,connecticut,Income,$50K-$75K,0.5463917525773196
+2018,youth_job_advancement,connecticut,Income,$75K-$100K,0.6020408163265306
+2018,youth_job_advancement,connecticut,Income,$100K-$200K,0.6836734693877551
+2018,youth_job_advancement,connecticut,Income,$200K+,0.7755102040816326
+2018,youth_job_advancement,connecticut,Race/Ethnicity,White,0.6041666666666666
+2018,youth_job_advancement,connecticut,Race/Ethnicity,Black,0.5154639175257733
+2018,youth_job_advancement,connecticut,Race/Ethnicity,Latino,0.5876288659793814
+2018,youth_job_advancement,connecticut,With children,No children,0.568421052631579
+2018,youth_job_advancement,connecticut,With children,Children in household,0.6326530612244898
+2018,youth_job_advancement,danbury,Total,Total,0.6421052631578947
+2018,youth_job_advancement,danbury,Gender,Male,0.6631578947368422
+2018,youth_job_advancement,danbury,Gender,Female,0.6276595744680851
+2018,youth_job_advancement,danbury,With children,No children,0.6595744680851064
+2018,youth_job_advancement,danbury,With children,Children in household,0.6210526315789474
+2018,youth_job_advancement,darien,Total,Total,0.8383838383838385
+2018,youth_job_advancement,derby,Total,Total,0.4736842105263158
+2018,youth_job_advancement,east_haven,Total,Total,0.41666666666666663
+2018,youth_job_advancement,ehhd,Total,Total,0.6041666666666667
+2018,youth_job_advancement,ehhd,Education,Some college or less,0.5425531914893618
+2018,youth_job_advancement,ehhd,Education,Bachelor's or higher,0.6804123711340206
+2018,youth_job_advancement,fairfield,Total,Total,0.8367346938775511
+2018,youth_job_advancement,fairfield_county,Total,Total,0.6597938144329897
+2018,youth_job_advancement,fairfield_county,Gender,Male,0.6391752577319588
+2018,youth_job_advancement,fairfield_county,Gender,Female,0.6597938144329897
+2018,youth_job_advancement,fairfield_county,Age,Ages 18-34,0.6363636363636364
+2018,youth_job_advancement,fairfield_county,Age,Ages 35-49,0.6666666666666667
+2018,youth_job_advancement,fairfield_county,Age,Ages 50-64,0.663265306122449
+2018,youth_job_advancement,fairfield_county,Age,Ages 65+,0.6666666666666666
+2018,youth_job_advancement,fairfield_county,Education,Bachelor's or higher,0.7142857142857143
+2018,youth_job_advancement,fairfield_county,Education,High school or less,0.5578947368421053
+2018,youth_job_advancement,fairfield_county,Education,Some college or Associate's,0.577319587628866
+2018,youth_job_advancement,fairfield_county,Income,<$15K,0.4536082474226804
+2018,youth_job_advancement,fairfield_county,Income,$15K-$30K,0.4583333333333334
+2018,youth_job_advancement,fairfield_county,Income,$30K-$50K,0.648936170212766
+2018,youth_job_advancement,fairfield_county,Income,$50K-$75K,0.5757575757575758
+2018,youth_job_advancement,fairfield_county,Income,$75K-$100K,0.686868686868687
+2018,youth_job_advancement,fairfield_county,Income,$100K-$200K,0.7070707070707071
+2018,youth_job_advancement,fairfield_county,Income,$200K+,0.7959183673469388
+2018,youth_job_advancement,fairfield_county,Race/Ethnicity,White,0.6907216494845361
+2018,youth_job_advancement,fairfield_county,Race/Ethnicity,Black,0.5816326530612246
+2018,youth_job_advancement,fairfield_county,Race/Ethnicity,Latino,0.6
+2018,youth_job_advancement,fairfield_county,With children,No children,0.625
+2018,youth_job_advancement,fairfield_county,With children,Children in household,0.6969696969696969
+2018,youth_job_advancement,fcht,Total,Total,0.6288659793814433
+2018,youth_job_advancement,greater_bridgeport,Total,Total,0.5670103092783506
+2018,youth_job_advancement,greater_bridgeport,Gender,Male,0.5612244897959184
+2018,youth_job_advancement,greater_bridgeport,Gender,Female,0.5729166666666667
+2018,youth_job_advancement,greater_bridgeport,Age,Ages 18-34,0.5555555555555556
+2018,youth_job_advancement,greater_bridgeport,Age,Ages 35-49,0.6122448979591837
+2018,youth_job_advancement,greater_bridgeport,Age,Ages 50-64,0.5463917525773196
+2018,youth_job_advancement,greater_bridgeport,Age,Ages 65+,0.5652173913043478
+2018,youth_job_advancement,greater_bridgeport,Education,Bachelor's or higher,0.6428571428571429
+2018,youth_job_advancement,greater_bridgeport,Education,High school or less,0.5157894736842106
+2018,youth_job_advancement,greater_bridgeport,Education,Some college or Associate's,0.4842105263157895
+2018,youth_job_advancement,greater_bridgeport,Income,<$15K,0.4948453608247423
+2018,youth_job_advancement,greater_bridgeport,Income,$15K-$30K,0.4042553191489362
+2018,youth_job_advancement,greater_bridgeport,Income,$30K-$50K,0.6021505376344086
+2018,youth_job_advancement,greater_bridgeport,Income,$50K-$75K,0.53
+2018,youth_job_advancement,greater_bridgeport,Income,$75K-$100K,0.5555555555555556
+2018,youth_job_advancement,greater_bridgeport,Income,$100K-$200K,0.6464646464646465
+2018,youth_job_advancement,greater_bridgeport,Income,$200K+,0.8469387755102041
+2018,youth_job_advancement,greater_bridgeport,Race/Ethnicity,White,0.6354166666666666
+2018,youth_job_advancement,greater_bridgeport,Race/Ethnicity,Black,0.4536082474226804
+2018,youth_job_advancement,greater_bridgeport,Race/Ethnicity,Latino,0.5263157894736842
+2018,youth_job_advancement,greater_bridgeport,With children,No children,0.5625000000000001
+2018,youth_job_advancement,greater_bridgeport,With children,Children in household,0.5816326530612246
+2018,youth_job_advancement,greater_danbury,Total,Total,0.6666666666666667
+2018,youth_job_advancement,greater_danbury,Gender,Male,0.6250000000000001
+2018,youth_job_advancement,greater_danbury,Gender,Female,0.7052631578947368
+2018,youth_job_advancement,greater_danbury,Age,Ages 18-34,0.6494845360824743
+2018,youth_job_advancement,greater_danbury,Age,Ages 35-49,0.75
+2018,youth_job_advancement,greater_danbury,Age,Ages 50-64,0.6565656565656566
+2018,youth_job_advancement,greater_danbury,Age,Ages 65+,0.6206896551724138
+2018,youth_job_advancement,greater_danbury,Education,Bachelor's or higher,0.7010309278350516
+2018,youth_job_advancement,greater_danbury,Education,High school or less,0.5894736842105264
+2018,youth_job_advancement,greater_danbury,Education,Some college or Associate's,0.6382978723404256
+2018,youth_job_advancement,greater_danbury,Income,<$30K,0.5851063829787235
+2018,youth_job_advancement,greater_danbury,Income,$30K-$50K,0.5604395604395604
+2018,youth_job_advancement,greater_danbury,Income,$50K-$75K,0.6597938144329897
+2018,youth_job_advancement,greater_danbury,Income,$75K-$100K,0.7346938775510206
+2018,youth_job_advancement,greater_danbury,Income,$100K-$200K,0.6597938144329897
+2018,youth_job_advancement,greater_danbury,Income,$200K+,0.73
+2018,youth_job_advancement,greater_danbury,Race/Ethnicity,White,0.65625
+2018,youth_job_advancement,greater_danbury,Race/Ethnicity,Not white,0.6875000000000001
+2018,youth_job_advancement,greater_danbury,With children,No children,0.6170212765957447
+2018,youth_job_advancement,greater_danbury,With children,Children in household,0.7575757575757576
+2018,youth_job_advancement,greater_greenwich,Total,Total,0.7052631578947368
+2018,youth_job_advancement,greater_greenwich,Gender,Male,0.6702127659574468
+2018,youth_job_advancement,greater_greenwich,Gender,Female,0.7291666666666666
+2018,youth_job_advancement,greater_greenwich,Age,Ages 18-34,0.7628865979381444
+2018,youth_job_advancement,greater_greenwich,Age,Ages 35-49,0.6224489795918368
+2018,youth_job_advancement,greater_greenwich,Age,Ages 50-64,0.7422680412371134
+2018,youth_job_advancement,greater_greenwich,Age,Ages 65+,0.6590909090909091
+2018,youth_job_advancement,greater_greenwich,Education,Bachelor's or higher,0.7157894736842105
+2018,youth_job_advancement,greater_greenwich,Education,High school or less,0.6631578947368422
+2018,youth_job_advancement,greater_greenwich,Education,Some college or Associate's,0.6875000000000001
+2018,youth_job_advancement,greater_greenwich,Income,$75K+,0.7422680412371134
+2018,youth_job_advancement,greater_greenwich,Income,<$30K,0.5463917525773196
+2018,youth_job_advancement,greater_greenwich,Income,$30K-$75K,0.6391752577319588
+2018,youth_job_advancement,greater_greenwich,Race/Ethnicity,White,0.7263157894736841
+2018,youth_job_advancement,greater_greenwich,Race/Ethnicity,Black,0.61
+2018,youth_job_advancement,greater_greenwich,Race/Ethnicity,Latino,0.7204301075268817
+2018,youth_job_advancement,greater_greenwich,With children,No children,0.6559139784946237
+2018,youth_job_advancement,greater_greenwich,With children,Children in household,0.78
+2018,youth_job_advancement,greater_hartford,Total,Total,0.6041666666666666
+2018,youth_job_advancement,greater_hartford,Gender,Male,0.6354166666666666
+2018,youth_job_advancement,greater_hartford,Gender,Female,0.5833333333333334
+2018,youth_job_advancement,greater_hartford,Age,Ages 18-34,0.5773195876288659
+2018,youth_job_advancement,greater_hartford,Age,Ages 35-49,0.6262626262626263
+2018,youth_job_advancement,greater_hartford,Age,Ages 50-64,0.5918367346938777
+2018,youth_job_advancement,greater_hartford,Age,Ages 65+,0.6666666666666666
+2018,youth_job_advancement,greater_hartford,Education,Bachelor's or higher,0.6836734693877552
+2018,youth_job_advancement,greater_hartford,Education,High school or less,0.48421052631578954
+2018,youth_job_advancement,greater_hartford,Education,Some college or Associate's,0.5789473684210527
+2018,youth_job_advancement,greater_hartford,Income,<$15K,0.41935483870967744
+2018,youth_job_advancement,greater_hartford,Income,$15K-$30K,0.5360824742268041
+2018,youth_job_advancement,greater_hartford,Income,$30K-$50K,0.5319148936170213
+2018,youth_job_advancement,greater_hartford,Income,$50K-$75K,0.5670103092783506
+2018,youth_job_advancement,greater_hartford,Income,$75K-$100K,0.6224489795918368
+2018,youth_job_advancement,greater_hartford,Income,$100K-$200K,0.7216494845360826
+2018,youth_job_advancement,greater_hartford,Income,$200K+,0.8282828282828284
+2018,youth_job_advancement,greater_hartford,Race/Ethnicity,White,0.6354166666666666
+2018,youth_job_advancement,greater_hartford,Race/Ethnicity,Black,0.5
+2018,youth_job_advancement,greater_hartford,Race/Ethnicity,Latino,0.5612244897959184
+2018,youth_job_advancement,greater_hartford,With children,No children,0.5851063829787235
+2018,youth_job_advancement,greater_hartford,With children,Children in household,0.63
+2018,youth_job_advancement,greater_new_haven,Total,Total,0.5638297872340426
+2018,youth_job_advancement,greater_new_haven,Gender,Male,0.5578947368421053
+2018,youth_job_advancement,greater_new_haven,Gender,Female,0.5591397849462366
+2018,youth_job_advancement,greater_new_haven,Age,Ages 18-34,0.5656565656565657
+2018,youth_job_advancement,greater_new_haven,Age,Ages 35-49,0.5729166666666667
+2018,youth_job_advancement,greater_new_haven,Age,Ages 50-64,0.5473684210526316
+2018,youth_job_advancement,greater_new_haven,Age,Ages 65+,0.5287356321839081
+2018,youth_job_advancement,greater_new_haven,Education,Bachelor's or higher,0.5957446808510638
+2018,youth_job_advancement,greater_new_haven,Education,High school or less,0.5217391304347826
+2018,youth_job_advancement,greater_new_haven,Education,Some college or Associate's,0.5051546391752577
+2018,youth_job_advancement,greater_new_haven,Income,<$15K,0.47959183673469385
+2018,youth_job_advancement,greater_new_haven,Income,$15K-$30K,0.37634408602150543
+2018,youth_job_advancement,greater_new_haven,Income,$30K-$50K,0.6236559139784945
+2018,youth_job_advancement,greater_new_haven,Income,$50K-$75K,0.5051546391752577
+2018,youth_job_advancement,greater_new_haven,Income,$75K-$100K,0.5789473684210527
+2018,youth_job_advancement,greater_new_haven,Income,$100K-$200K,0.7142857142857143
+2018,youth_job_advancement,greater_new_haven,Income,$200K+,0.7802197802197801
+2018,youth_job_advancement,greater_new_haven,Race/Ethnicity,White,0.574468085106383
+2018,youth_job_advancement,greater_new_haven,Race/Ethnicity,Black,0.47368421052631576
+2018,youth_job_advancement,greater_new_haven,Race/Ethnicity,Latino,0.5204081632653061
+2018,youth_job_advancement,greater_new_haven,With children,No children,0.5212765957446809
+2018,youth_job_advancement,greater_new_haven,With children,Children in household,0.6210526315789474
+2018,youth_job_advancement,greater_new_london,Total,Total,0.5918367346938775
+2018,youth_job_advancement,greater_new_london,Gender,Male,0.6632653061224489
+2018,youth_job_advancement,greater_new_london,Gender,Female,0.5257731958762887
+2018,youth_job_advancement,greater_new_london,Age,Ages 18-34,0.55
+2018,youth_job_advancement,greater_new_london,Age,Ages 35-49,0.61
+2018,youth_job_advancement,greater_new_london,Age,Ages 50-64,0.5463917525773196
+2018,youth_job_advancement,greater_new_london,Age,Ages 65+,0.6210526315789475
+2018,youth_job_advancement,greater_new_london,Education,Bachelor's or higher,0.6326530612244898
+2018,youth_job_advancement,greater_new_london,Education,High school or less,0.5252525252525253
+2018,youth_job_advancement,greater_new_london,Education,Some college or Associate's,0.5463917525773196
+2018,youth_job_advancement,greater_new_london,Income,$75K+,0.6565656565656566
+2018,youth_job_advancement,greater_new_london,Income,<$30K,0.4795918367346939
+2018,youth_job_advancement,greater_new_london,Income,$30K-$75K,0.5204081632653061
+2018,youth_job_advancement,greater_new_london,Race/Ethnicity,White,0.6224489795918368
+2018,youth_job_advancement,greater_new_london,Race/Ethnicity,Not white,0.5154639175257733
+2018,youth_job_advancement,greater_new_london,With children,No children,0.577319587628866
+2018,youth_job_advancement,greater_new_london,With children,Children in household,0.6161616161616161
+2018,youth_job_advancement,greater_waterbury,Total,Total,0.53125
+2018,youth_job_advancement,greater_waterbury,Gender,Male,0.5473684210526316
+2018,youth_job_advancement,greater_waterbury,Gender,Female,0.5154639175257733
+2018,youth_job_advancement,greater_waterbury,Age,Ages 18-34,0.494949494949495
+2018,youth_job_advancement,greater_waterbury,Age,Ages 35-49,0.5714285714285715
+2018,youth_job_advancement,greater_waterbury,Age,Ages 50-64,0.5612244897959184
+2018,youth_job_advancement,greater_waterbury,Age,Ages 65+,0.5168539325842696
+2018,youth_job_advancement,greater_waterbury,Education,Bachelor's or higher,0.6185567010309279
+2018,youth_job_advancement,greater_waterbury,Education,High school or less,0.4736842105263158
+2018,youth_job_advancement,greater_waterbury,Education,Some college or Associate's,0.4948453608247423
+2018,youth_job_advancement,greater_waterbury,Income,<$15K,0.5204081632653061
+2018,youth_job_advancement,greater_waterbury,Income,$15K-$30K,0.46808510638297873
+2018,youth_job_advancement,greater_waterbury,Income,$30K-$50K,0.44329896907216493
+2018,youth_job_advancement,greater_waterbury,Income,$50K-$75K,0.5050505050505051
+2018,youth_job_advancement,greater_waterbury,Income,$75K-$100K,0.6161616161616162
+2018,youth_job_advancement,greater_waterbury,Income,$100K-$200K,0.5510204081632654
+2018,youth_job_advancement,greater_waterbury,Race/Ethnicity,White,0.5416666666666667
+2018,youth_job_advancement,greater_waterbury,Race/Ethnicity,Black,0.4242424242424243
+2018,youth_job_advancement,greater_waterbury,Race/Ethnicity,Latino,0.5625000000000001
+2018,youth_job_advancement,greater_waterbury,With children,No children,0.4842105263157895
+2018,youth_job_advancement,greater_waterbury,With children,Children in household,0.6224489795918368
+2018,youth_job_advancement,greenwich,Total,Total,0.7525773195876289
+2018,youth_job_advancement,groton,Total,Total,0.56
+2018,youth_job_advancement,hamden,Total,Total,0.6666666666666666
+2018,youth_job_advancement,hartford,Total,Total,0.41836734693877553
+2018,youth_job_advancement,hartford,Gender,Male,0.37373737373737376
+2018,youth_job_advancement,hartford,Gender,Female,0.44329896907216493
+2018,youth_job_advancement,hartford,Age,Ages 18-34,0.4040404040404041
+2018,youth_job_advancement,hartford,Age,Ages 35-49,0.41836734693877553
+2018,youth_job_advancement,hartford,Age,Ages 50-64,0.35789473684210527
+2018,youth_job_advancement,hartford,Age,Ages 65+,0.4123711340206186
+2018,youth_job_advancement,hartford,Education,Bachelor's or higher,0.4479166666666667
+2018,youth_job_advancement,hartford,Education,High school or less,0.34693877551020413
+2018,youth_job_advancement,hartford,Education,Some college or Associate's,0.46464646464646464
+2018,youth_job_advancement,hartford,Income,$75K+,0.45
+2018,youth_job_advancement,hartford,Income,<$30K,0.3673469387755102
+2018,youth_job_advancement,hartford,Income,$30K-$75K,0.4387755102040816
+2018,youth_job_advancement,hartford,Race/Ethnicity,White,0.43750000000000006
+2018,youth_job_advancement,hartford,Race/Ethnicity,Black,0.40816326530612246
+2018,youth_job_advancement,hartford,Race/Ethnicity,Latino,0.3979591836734694
+2018,youth_job_advancement,hartford,With children,No children,0.4020618556701031
+2018,youth_job_advancement,hartford,With children,Children in household,0.393939393939394
+2018,youth_job_advancement,hartford_inner_ring,Total,Total,0.5578947368421053
+2018,youth_job_advancement,hartford_inner_ring,Gender,Male,0.6170212765957447
+2018,youth_job_advancement,hartford_inner_ring,Gender,Female,0.5368421052631579
+2018,youth_job_advancement,hartford_inner_ring,Age,Ages 18-34,0.568421052631579
+2018,youth_job_advancement,hartford_inner_ring,Age,Ages 35-49,0.5876288659793814
+2018,youth_job_advancement,hartford_inner_ring,Age,Ages 50-64,0.5151515151515151
+2018,youth_job_advancement,hartford_inner_ring,Age,Ages 65+,0.6292134831460675
+2018,youth_job_advancement,hartford_inner_ring,Education,Bachelor's or higher,0.6526315789473685
+2018,youth_job_advancement,hartford_inner_ring,Education,High school or less,0.5
+2018,youth_job_advancement,hartford_inner_ring,Education,Some college or Associate's,0.5052631578947369
+2018,youth_job_advancement,hartford_inner_ring,Income,$15K-$30K,0.5208333333333334
+2018,youth_job_advancement,hartford_inner_ring,Income,$30K-$50K,0.5714285714285714
+2018,youth_job_advancement,hartford_inner_ring,Income,$50K-$75K,0.5306122448979592
+2018,youth_job_advancement,hartford_inner_ring,Income,$75K-$100K,0.5306122448979592
+2018,youth_job_advancement,hartford_inner_ring,Income,$100K+,0.6597938144329897
+2018,youth_job_advancement,hartford_inner_ring,Race/Ethnicity,White,0.5425531914893618
+2018,youth_job_advancement,hartford_inner_ring,Race/Ethnicity,Black,0.5353535353535354
+2018,youth_job_advancement,hartford_inner_ring,With children,No children,0.5543478260869565
+2018,youth_job_advancement,hartford_inner_ring,With children,Children in household,0.5959595959595959
+2018,youth_job_advancement,hartford_outer_ring,Total,Total,0.7263157894736844
+2018,youth_job_advancement,hartford_outer_ring,Gender,Male,0.7708333333333334
+2018,youth_job_advancement,hartford_outer_ring,Gender,Female,0.6947368421052632
+2018,youth_job_advancement,hartford_outer_ring,Age,Ages 35-49,0.76
+2018,youth_job_advancement,hartford_outer_ring,Age,Ages 50-64,0.75
+2018,youth_job_advancement,hartford_outer_ring,Age,Ages 65+,0.7045454545454546
+2018,youth_job_advancement,hartford_outer_ring,Education,Bachelor's or higher,0.7676767676767677
+2018,youth_job_advancement,hartford_outer_ring,Education,Some college or Associate's,0.7419354838709677
+2018,youth_job_advancement,hartford_outer_ring,Income,$75K+,0.8181818181818181
+2018,youth_job_advancement,hartford_outer_ring,Income,<$30K,0.5578947368421053
+2018,youth_job_advancement,hartford_outer_ring,Income,$30K-$75K,0.6195652173913044
+2018,youth_job_advancement,hartford_outer_ring,With children,No children,0.6989247311827956
+2018,youth_job_advancement,hartford_outer_ring,With children,Children in household,0.79
+2018,youth_job_advancement,litchfield_county,Total,Total,0.5714285714285715
+2018,youth_job_advancement,litchfield_county,Gender,Male,0.6082474226804124
+2018,youth_job_advancement,litchfield_county,Gender,Female,0.5463917525773196
+2018,youth_job_advancement,litchfield_county,Age,Ages 18-34,0.45454545454545453
+2018,youth_job_advancement,litchfield_county,Age,Ages 35-49,0.74
+2018,youth_job_advancement,litchfield_county,Age,Ages 50-64,0.63
+2018,youth_job_advancement,litchfield_county,Age,Ages 65+,0.4787234042553191
+2018,youth_job_advancement,litchfield_county,Education,Bachelor's or higher,0.5306122448979592
+2018,youth_job_advancement,litchfield_county,Education,High school or less,0.5918367346938775
+2018,youth_job_advancement,litchfield_county,Education,Some college or Associate's,0.625
+2018,youth_job_advancement,litchfield_county,Income,$75K+,0.5800000000000001
+2018,youth_job_advancement,litchfield_county,Income,<$30K,0.53125
+2018,youth_job_advancement,litchfield_county,Income,$30K-$75K,0.5670103092783506
+2018,youth_job_advancement,litchfield_county,With children,No children,0.5051546391752577
+2018,youth_job_advancement,litchfield_county,With children,Children in household,0.71
+2018,youth_job_advancement,manchester,Total,Total,0.6020408163265306
+2018,youth_job_advancement,meriden,Total,Total,0.45360824742268047
+2018,youth_job_advancement,middlesex_county,Total,Total,0.6595744680851064
+2018,youth_job_advancement,middlesex_county,Gender,Male,0.6666666666666667
+2018,youth_job_advancement,middlesex_county,Gender,Female,0.6421052631578947
+2018,youth_job_advancement,middlesex_county,Age,Under age 55,0.7010309278350515
+2018,youth_job_advancement,middlesex_county,Age,Age 55 or older,0.5955056179775281
+2018,youth_job_advancement,middlesex_county,Income,<$75K,0.6774193548387097
+2018,youth_job_advancement,middlesex_county,Income,$75K+,0.65625
+2018,youth_job_advancement,middletown,Total,Total,0.6086956521739131
+2018,youth_job_advancement,milford,Total,Total,0.7083333333333334
+2018,youth_job_advancement,naugatuck,Total,Total,0.40816326530612246
+2018,youth_job_advancement,naugatuck,Gender,Male,0.4545454545454546
+2018,youth_job_advancement,naugatuck,Gender,Female,0.3469387755102041
+2018,youth_job_advancement,ncdhd,Total,Total,0.5
+2018,youth_job_advancement,nddh,Total,Total,0.45833333333333337
+2018,youth_job_advancement,new_britain,Total,Total,0.3956043956043956
+2018,youth_job_advancement,new_haven,Total,Total,0.41052631578947374
+2018,youth_job_advancement,new_haven,Gender,Male,0.41836734693877553
+2018,youth_job_advancement,new_haven,Gender,Female,0.41304347826086957
+2018,youth_job_advancement,new_haven,Age,Ages 18-34,0.40404040404040403
+2018,youth_job_advancement,new_haven,Age,Ages 35-49,0.39361702127659576
+2018,youth_job_advancement,new_haven,Age,Ages 50-64,0.36170212765957444
+2018,youth_job_advancement,new_haven,Age,Ages 65+,0.5287356321839081
+2018,youth_job_advancement,new_haven,Education,Bachelor's or higher,0.4736842105263158
+2018,youth_job_advancement,new_haven,Education,High school or less,0.4123711340206186
+2018,youth_job_advancement,new_haven,Education,Some college or Associate's,0.31182795698924737
+2018,youth_job_advancement,new_haven,Income,$75K+,0.5520833333333334
+2018,youth_job_advancement,new_haven,Income,<$30K,0.30927835051546393
+2018,youth_job_advancement,new_haven,Income,$30K-$75K,0.4210526315789474
+2018,youth_job_advancement,new_haven,Race/Ethnicity,White,0.36082474226804123
+2018,youth_job_advancement,new_haven,Race/Ethnicity,Black,0.3877551020408163
+2018,youth_job_advancement,new_haven,With children,No children,0.3814432989690722
+2018,youth_job_advancement,new_haven,With children,Children in household,0.46153846153846156
+2018,youth_job_advancement,new_haven_county,Total,Total,0.5263157894736842
+2018,youth_job_advancement,new_haven_county,Gender,Male,0.5425531914893618
+2018,youth_job_advancement,new_haven_county,Gender,Female,0.5263157894736842
+2018,youth_job_advancement,new_haven_county,Age,Ages 18-34,0.5555555555555556
+2018,youth_job_advancement,new_haven_county,Age,Ages 35-49,0.5360824742268041
+2018,youth_job_advancement,new_haven_county,Age,Ages 50-64,0.5104166666666666
+2018,youth_job_advancement,new_haven_county,Age,Ages 65+,0.5172413793103449
+2018,youth_job_advancement,new_haven_county,Education,Bachelor's or higher,0.5789473684210527
+2018,youth_job_advancement,new_haven_county,Education,High school or less,0.48387096774193555
+2018,youth_job_advancement,new_haven_county,Education,Some college or Associate's,0.49484536082474234
+2018,youth_job_advancement,new_haven_county,Income,<$15K,0.4591836734693877
+2018,youth_job_advancement,new_haven_county,Income,$15K-$30K,0.3829787234042553
+2018,youth_job_advancement,new_haven_county,Income,$30K-$50K,0.5368421052631579
+2018,youth_job_advancement,new_haven_county,Income,$50K-$75K,0.5051546391752577
+2018,youth_job_advancement,new_haven_county,Income,$75K-$100K,0.5833333333333334
+2018,youth_job_advancement,new_haven_county,Income,$100K-$200K,0.6326530612244898
+2018,youth_job_advancement,new_haven_county,Income,$200K+,0.7419354838709677
+2018,youth_job_advancement,new_haven_county,Race/Ethnicity,White,0.5368421052631579
+2018,youth_job_advancement,new_haven_county,Race/Ethnicity,Black,0.4639175257731959
+2018,youth_job_advancement,new_haven_county,Race/Ethnicity,Latino,0.5463917525773196
+2018,youth_job_advancement,new_haven_county,With children,No children,0.4893617021276596
+2018,youth_job_advancement,new_haven_county,With children,Children in household,0.6145833333333334
+2018,youth_job_advancement,new_haven_inner_ring,Total,Total,0.5161290322580645
+2018,youth_job_advancement,new_haven_inner_ring,Gender,Male,0.4893617021276596
+2018,youth_job_advancement,new_haven_inner_ring,Gender,Female,0.5326086956521738
+2018,youth_job_advancement,new_haven_inner_ring,Age,Ages 18-34,0.5204081632653061
+2018,youth_job_advancement,new_haven_inner_ring,Age,Ages 35-49,0.5106382978723404
+2018,youth_job_advancement,new_haven_inner_ring,Age,Ages 50-64,0.59375
+2018,youth_job_advancement,new_haven_inner_ring,Age,Ages 65+,0.3764705882352941
+2018,youth_job_advancement,new_haven_inner_ring,Education,Bachelor's or higher,0.5760869565217391
+2018,youth_job_advancement,new_haven_inner_ring,Education,High school or less,0.4606741573033708
+2018,youth_job_advancement,new_haven_inner_ring,Education,Some college or Associate's,0.4545454545454546
+2018,youth_job_advancement,new_haven_inner_ring,Income,$75K+,0.5729166666666667
+2018,youth_job_advancement,new_haven_inner_ring,Income,<$30K,0.4782608695652173
+2018,youth_job_advancement,new_haven_inner_ring,Income,$30K-$75K,0.5425531914893618
+2018,youth_job_advancement,new_haven_inner_ring,With children,No children,0.45652173913043476
+2018,youth_job_advancement,new_haven_inner_ring,With children,Children in household,0.6063829787234044
+2018,youth_job_advancement,new_haven_outer_ring,Total,Total,0.723404255319149
+2018,youth_job_advancement,new_london,Total,Total,0.4736842105263158
+2018,youth_job_advancement,new_london_county,Total,Total,0.577319587628866
+2018,youth_job_advancement,new_london_county,Gender,Male,0.6494845360824743
+2018,youth_job_advancement,new_london_county,Gender,Female,0.5360824742268041
+2018,youth_job_advancement,new_london_county,Age,Ages 18-34,0.63
+2018,youth_job_advancement,new_london_county,Age,Ages 35-49,0.6082474226804123
+2018,youth_job_advancement,new_london_county,Age,Ages 50-64,0.5151515151515151
+2018,youth_job_advancement,new_london_county,Age,Ages 65+,0.5806451612903226
+2018,youth_job_advancement,new_london_county,Education,Bachelor's or higher,0.6391752577319588
+2018,youth_job_advancement,new_london_county,Education,High school or less,0.49473684210526314
+2018,youth_job_advancement,new_london_county,Education,Some college or Associate's,0.5612244897959184
+2018,youth_job_advancement,new_london_county,Income,$75K+,0.6565656565656566
+2018,youth_job_advancement,new_london_county,Income,<$30K,0.4742268041237113
+2018,youth_job_advancement,new_london_county,Income,$30K-$75K,0.5463917525773196
+2018,youth_job_advancement,new_london_county,Race/Ethnicity,White,0.6082474226804123
+2018,youth_job_advancement,new_london_county,Race/Ethnicity,Not white,0.5263157894736842
+2018,youth_job_advancement,new_london_county,With children,No children,0.5625000000000001
+2018,youth_job_advancement,new_london_county,With children,Children in household,0.6363636363636364
+2018,youth_job_advancement,new_milford,Total,Total,0.5257731958762887
+2018,youth_job_advancement,newtown,Total,Total,0.6979166666666667
+2018,youth_job_advancement,newtown,Gender,Male,0.7070707070707071
+2018,youth_job_advancement,newtown,Gender,Female,0.6813186813186813
+2018,youth_job_advancement,newtown,Age,Under age 55,0.7244897959183674
+2018,youth_job_advancement,newtown,Age,Age 55 or older,0.6593406593406594
+2018,youth_job_advancement,newtown,Education,Some college or less,0.5108695652173914
+2018,youth_job_advancement,newtown,Education,Bachelor's or higher,0.8041237113402062
+2018,youth_job_advancement,norwalk,Total,Total,0.6391752577319588
+2018,youth_job_advancement,norwalk,With children,No children,0.65625
+2018,youth_job_advancement,norwalk,With children,Children in household,0.6363636363636364
+2018,youth_job_advancement,norwich,Total,Total,0.4782608695652174
+2018,youth_job_advancement,nyborder,Total,Total,0.7204301075268817
+2018,youth_job_advancement,nyborder,Gender,Male,0.6875000000000001
+2018,youth_job_advancement,nyborder,Gender,Female,0.7666666666666666
+2018,youth_job_advancement,nyborder,Education,Bachelor's or higher,0.7419354838709679
+2018,youth_job_advancement,nyborder,Education,High school or less,0.6021505376344087
+2018,youth_job_advancement,nyborder,Education,Some college or Associate's,0.8351648351648352
+2018,youth_job_advancement,nyborder,Race/Ethnicity,White,0.7368421052631579
+2018,youth_job_advancement,nyborder,Race/Ethnicity,Not white,0.7142857142857143
+2018,youth_job_advancement,nyborder,With children,No children,0.6629213483146067
+2018,youth_job_advancement,nyborder,With children,Children in household,0.7777777777777778
+2018,youth_job_advancement,pomperaug,Total,Total,0.5764705882352941
+2018,youth_job_advancement,port_chester_ny,Total,Total,0.6195652173913044
+2018,youth_job_advancement,port_chester_ny,Gender,Male,0.6086956521739131
+2018,youth_job_advancement,port_chester_ny,Gender,Female,0.6483516483516483
+2018,youth_job_advancement,port_chester_ny,Age,Under age 55,0.6842105263157895
+2018,youth_job_advancement,port_chester_ny,Age,Age 55 or older,0.5176470588235295
+2018,youth_job_advancement,seymour,Total,Total,0.5773195876288659
+2018,youth_job_advancement,shelton,Total,Total,0.5959595959595959
+2018,youth_job_advancement,stamford,Total,Total,0.6421052631578947
+2018,youth_job_advancement,stamford,With children,No children,0.5806451612903226
+2018,youth_job_advancement,stamford,With children,Children in household,0.7575757575757576
+2018,youth_job_advancement,stratford,Total,Total,0.5638297872340426
+2018,youth_job_advancement,tolland_county,Total,Total,0.6185567010309279
+2018,youth_job_advancement,tolland_county,Gender,Male,0.6458333333333334
+2018,youth_job_advancement,tolland_county,Gender,Female,0.5876288659793816
+2018,youth_job_advancement,tolland_county,Age,Under age 55,0.6161616161616161
+2018,youth_job_advancement,tolland_county,Age,Age 55 or older,0.6086956521739131
+2018,youth_job_advancement,tolland_county,Education,Bachelor's or higher,0.6734693877551021
+2018,youth_job_advancement,tolland_county,Education,Some college or Associate's,0.5531914893617021
+2018,youth_job_advancement,tolland_county,Income,$75K+,0.7142857142857143
+2018,youth_job_advancement,tolland_county,Income,$30K-$75K,0.53125
+2018,youth_job_advancement,tolland_county,With children,No children,0.631578947368421
+2018,youth_job_advancement,tolland_county,With children,Children in household,0.57
+2018,youth_job_advancement,trumbull,Total,Total,0.7100000000000001
+2018,youth_job_advancement,valley,Total,Total,0.5306122448979592
+2018,youth_job_advancement,valley,Gender,Male,0.5408163265306123
+2018,youth_job_advancement,valley,Gender,Female,0.5051546391752577
+2018,youth_job_advancement,valley,Age,Ages 18-34,0.55
+2018,youth_job_advancement,valley,Age,Ages 35-49,0.5555555555555556
+2018,youth_job_advancement,valley,Age,Ages 50-64,0.4897959183673469
+2018,youth_job_advancement,valley,Age,Ages 65+,0.5054945054945055
+2018,youth_job_advancement,valley,Education,Bachelor's or higher,0.5612244897959184
+2018,youth_job_advancement,valley,Education,High school or less,0.5
+2018,youth_job_advancement,valley,Education,Some college or Associate's,0.5
+2018,youth_job_advancement,valley,Income,$75K+,0.61
+2018,youth_job_advancement,valley,Income,<$30K,0.42857142857142855
+2018,youth_job_advancement,valley,Income,$30K-$75K,0.5104166666666666
+2018,youth_job_advancement,valley,With children,No children,0.4742268041237114
+2018,youth_job_advancement,valley,With children,Children in household,0.6161616161616161
+2018,youth_job_advancement,wallingford,Total,Total,0.6451612903225806
+2018,youth_job_advancement,waterbury,Total,Total,0.39583333333333337
+2018,youth_job_advancement,waterbury,Gender,Male,0.4421052631578947
+2018,youth_job_advancement,waterbury,Gender,Female,0.35051546391752575
+2018,youth_job_advancement,waterbury,Age,Ages 18-34,0.44444444444444453
+2018,youth_job_advancement,waterbury,Age,Ages 35-49,0.30303030303030304
+2018,youth_job_advancement,waterbury,Age,Ages 50-64,0.41836734693877553
+2018,youth_job_advancement,waterbury,Age,Ages 65+,0.41379310344827586
+2018,youth_job_advancement,waterbury,Education,Bachelor's or higher,0.4226804123711341
+2018,youth_job_advancement,waterbury,Education,High school or less,0.3894736842105263
+2018,youth_job_advancement,waterbury,Education,Some college or Associate's,0.3469387755102041
+2018,youth_job_advancement,waterbury,Income,$75K+,0.393939393939394
+2018,youth_job_advancement,waterbury,Income,<$30K,0.4226804123711341
+2018,youth_job_advancement,waterbury,Income,$30K-$75K,0.3229166666666667
+2018,youth_job_advancement,waterbury,Race/Ethnicity,White,0.33333333333333337
+2018,youth_job_advancement,waterbury,Race/Ethnicity,Black,0.35353535353535354
+2018,youth_job_advancement,waterbury,Race/Ethnicity,Latino,0.46874999999999994
+2018,youth_job_advancement,waterbury,With children,No children,0.3617021276595745
+2018,youth_job_advancement,waterbury,With children,Children in household,0.43434343434343436
+2018,youth_job_advancement,west_hartford,Total,Total,0.865979381443299
+2018,youth_job_advancement,west_haven,Total,Total,0.37634408602150543
+2018,youth_job_advancement,windham_county,Total,Total,0.4255319148936171
+2018,youth_job_advancement,windham_county,Gender,Male,0.3777777777777777
+2018,youth_job_advancement,windham_county,Gender,Female,0.4742268041237114
+2018,youth_job_advancement,windham_county,Age,Under age 55,0.46875000000000006
+2018,youth_job_advancement,windham_county,Age,Age 55 or older,0.3695652173913043
+2018,youth_job_advancement,windham_county,Education,Bachelor's or higher,0.3711340206185567
+2018,youth_job_advancement,windham_county,Education,Some college or Associate's,0.4111111111111111
+2018,underemployed,5ct,Wealthy,Wealthy,0.11
+2018,underemployed,5ct,Suburban,Suburban,0.11
+2018,underemployed,5ct,Rural,Rural,0.15
+2018,underemployed,5ct,Urban Periphery,Urban Periphery,0.14
+2018,underemployed,5ct,Urban Core,Urban Core,0.26
+2018,underemployed,bridgeport,Total,Total,0.26
+2018,underemployed,bridgeport,Gender,Male,0.28
+2018,underemployed,bridgeport,Gender,Female,0.24
+2018,underemployed,bridgeport,With children,No children,0.25
+2018,underemployed,bridgeport,With children,Children in household,0.28
+2018,underemployed,connecticut,Total,Total,0.15
+2018,underemployed,connecticut,Gender,Male,0.14
+2018,underemployed,connecticut,Gender,Female,0.17
+2018,underemployed,connecticut,Age,Ages 18-34,0.24
+2018,underemployed,connecticut,Age,Ages 35-49,0.12
+2018,underemployed,connecticut,Age,Ages 50-64,0.11
+2018,underemployed,connecticut,Age,Ages 65+,0.1
+2018,underemployed,connecticut,Education,Bachelor's or higher,0.1
+2018,underemployed,connecticut,Education,High school or less,0.26
+2018,underemployed,connecticut,Education,Some college or Associate's,0.19
+2018,underemployed,connecticut,Income,<$15K,0.61
+2018,underemployed,connecticut,Income,$15K-$30K,0.36
+2018,underemployed,connecticut,Income,$30K-$50K,0.21
+2018,underemployed,connecticut,Income,$50K-$75K,0.12
+2018,underemployed,connecticut,Income,$75K-$100K,0.07
+2018,underemployed,connecticut,Income,$100K-$200K,0.04
+2018,underemployed,connecticut,Income,$200K+,0.04
+2018,underemployed,connecticut,Race/Ethnicity,White,0.13
+2018,underemployed,connecticut,Race/Ethnicity,Black,0.25
+2018,underemployed,connecticut,Race/Ethnicity,Latino,0.26
+2018,underemployed,connecticut,With children,No children,0.17
+2018,underemployed,connecticut,With children,Children in household,0.13
+2018,underemployed,danbury,Total,Total,0.1
+2018,underemployed,fairfield_county,Total,Total,0.15
+2018,underemployed,fairfield_county,Gender,Male,0.14
+2018,underemployed,fairfield_county,Gender,Female,0.17
+2018,underemployed,fairfield_county,Age,Ages 18-34,0.23
+2018,underemployed,fairfield_county,Age,Ages 35-49,0.12
+2018,underemployed,fairfield_county,Age,Ages 50-64,0.11
+2018,underemployed,fairfield_county,Age,Ages 65+,0.09
+2018,underemployed,fairfield_county,Education,Bachelor's or higher,0.1
+2018,underemployed,fairfield_county,Education,High school or less,0.29
+2018,underemployed,fairfield_county,Education,Some college or Associate's,0.18
+2018,underemployed,fairfield_county,Income,<$15K,0.63
+2018,underemployed,fairfield_county,Income,$15K-$30K,0.39
+2018,underemployed,fairfield_county,Income,$30K-$50K,0.2
+2018,underemployed,fairfield_county,Income,$50K-$75K,0.15
+2018,underemployed,fairfield_county,Income,$75K-$100K,0.08
+2018,underemployed,fairfield_county,Income,$100K-$200K,0.05
+2018,underemployed,fairfield_county,Income,$200K+,0.05
+2018,underemployed,fairfield_county,Race/Ethnicity,White,0.11
+2018,underemployed,fairfield_county,Race/Ethnicity,Black,0.26
+2018,underemployed,fairfield_county,Race/Ethnicity,Latino,0.19
+2018,underemployed,fairfield_county,With children,No children,0.16
+2018,underemployed,fairfield_county,With children,Children in household,0.13
+2018,underemployed,greater_bridgeport,Total,Total,0.2
+2018,underemployed,greater_bridgeport,Gender,Male,0.2
+2018,underemployed,greater_bridgeport,Gender,Female,0.21
+2018,underemployed,greater_bridgeport,Education,Bachelor's or higher,0.13
+2018,underemployed,greater_bridgeport,Education,High school or less,0.37
+2018,underemployed,greater_bridgeport,Education,Some college or Associate's,0.23
+2018,underemployed,greater_bridgeport,Race/Ethnicity,White,0.13
+2018,underemployed,greater_bridgeport,Race/Ethnicity,Black,0.29
+2018,underemployed,greater_bridgeport,With children,No children,0.22
+2018,underemployed,greater_bridgeport,With children,Children in household,0.19
+2018,underemployed,greater_danbury,Total,Total,0.1
+2018,underemployed,greater_danbury,Gender,Male,0.07
+2018,underemployed,greater_danbury,Gender,Female,0.13
+2018,underemployed,greater_danbury,Age,Ages 18-34,0.12
+2018,underemployed,greater_danbury,Age,Ages 50-64,0.08
+2018,underemployed,greater_danbury,Education,Bachelor's or higher,0.07
+2018,underemployed,greater_danbury,Education,Some college or Associate's,0.08
+2018,underemployed,greater_danbury,Race/Ethnicity,White,0.07
+2018,underemployed,greater_danbury,Race/Ethnicity,Not white,0.13
+2018,underemployed,greater_danbury,With children,No children,0.11
+2018,underemployed,greater_danbury,With children,Children in household,0.08
+2018,underemployed,greater_greenwich,Total,Total,0.15
+2018,underemployed,greater_greenwich,Gender,Male,0.14
+2018,underemployed,greater_greenwich,Gender,Female,0.15
+2018,underemployed,greater_greenwich,With children,No children,0.16
+2018,underemployed,greater_greenwich,With children,Children in household,0.11
+2018,underemployed,greater_hartford,Total,Total,0.15
+2018,underemployed,greater_hartford,Gender,Male,0.14
+2018,underemployed,greater_hartford,Gender,Female,0.14
+2018,underemployed,greater_hartford,Age,Ages 18-34,0.23
+2018,underemployed,greater_hartford,Age,Ages 35-49,0.08
+2018,underemployed,greater_hartford,Age,Ages 50-64,0.12
+2018,underemployed,greater_hartford,Age,Ages 65+,0.1
+2018,underemployed,greater_hartford,Education,Bachelor's or higher,0.08
+2018,underemployed,greater_hartford,Education,High school or less,0.27
+2018,underemployed,greater_hartford,Education,Some college or Associate's,0.17
+2018,underemployed,greater_hartford,Income,<$15K,0.57
+2018,underemployed,greater_hartford,Income,$15K-$30K,0.37
+2018,underemployed,greater_hartford,Income,$30K-$50K,0.18
+2018,underemployed,greater_hartford,Income,$50K-$75K,0.12
+2018,underemployed,greater_hartford,Income,$75K-$100K,0.06
+2018,underemployed,greater_hartford,Income,$100K-$200K,0.04
+2018,underemployed,greater_hartford,Race/Ethnicity,White,0.11
+2018,underemployed,greater_hartford,Race/Ethnicity,Black,0.23
+2018,underemployed,greater_hartford,Race/Ethnicity,Latino,0.32
+2018,underemployed,greater_hartford,With children,No children,0.18
+2018,underemployed,greater_hartford,With children,Children in household,0.1
+2018,underemployed,greater_new_haven,Total,Total,0.18
+2018,underemployed,greater_new_haven,Gender,Male,0.19
+2018,underemployed,greater_new_haven,Gender,Female,0.18
+2018,underemployed,greater_new_haven,Age,Ages 18-34,0.25
+2018,underemployed,greater_new_haven,Age,Ages 35-49,0.16
+2018,underemployed,greater_new_haven,Age,Ages 50-64,0.13
+2018,underemployed,greater_new_haven,Education,Bachelor's or higher,0.11
+2018,underemployed,greater_new_haven,Education,High school or less,0.33
+2018,underemployed,greater_new_haven,Education,Some college or Associate's,0.22
+2018,underemployed,greater_new_haven,Race/Ethnicity,White,0.14
+2018,underemployed,greater_new_haven,Race/Ethnicity,Black,0.26
+2018,underemployed,greater_new_haven,With children,No children,0.2
+2018,underemployed,greater_new_haven,With children,Children in household,0.14
+2018,underemployed,greater_new_london,Total,Total,0.15
+2018,underemployed,greater_waterbury,Total,Total,0.15
+2018,underemployed,greater_waterbury,Gender,Male,0.11
+2018,underemployed,greater_waterbury,Gender,Female,0.19
+2018,underemployed,greater_waterbury,Age,Ages 18-34,0.23
+2018,underemployed,greater_waterbury,Age,Ages 35-49,0.12
+2018,underemployed,greater_waterbury,Age,Ages 50-64,0.09
+2018,underemployed,greater_waterbury,Age,Ages 65+,0.13
+2018,underemployed,greater_waterbury,Education,Bachelor's or higher,0.09
+2018,underemployed,greater_waterbury,Education,High school or less,0.26
+2018,underemployed,greater_waterbury,Education,Some college or Associate's,0.15
+2018,underemployed,greater_waterbury,With children,No children,0.16
+2018,underemployed,greater_waterbury,With children,Children in household,0.11
+2018,underemployed,greenwich,Total,Total,0.13
+2018,underemployed,hartford,Total,Total,0.3
+2018,underemployed,hartford_inner_ring,Total,Total,0.14
+2018,underemployed,hartford_outer_ring,Total,Total,0.11
+2018,underemployed,litchfield_county,Total,Total,0.12
+2018,underemployed,middlesex_county,Total,Total,0.14
+2018,underemployed,ncdhd,Total,Total,0.15
+2018,underemployed,new_haven,Total,Total,0.28
+2018,underemployed,new_haven_county,Total,Total,0.16
+2018,underemployed,new_haven_county,Gender,Male,0.16
+2018,underemployed,new_haven_county,Gender,Female,0.18
+2018,underemployed,new_haven_county,Age,Ages 18-34,0.24
+2018,underemployed,new_haven_county,Age,Ages 35-49,0.14
+2018,underemployed,new_haven_county,Age,Ages 50-64,0.11
+2018,underemployed,new_haven_county,Age,Ages 65+,0.12
+2018,underemployed,new_haven_county,Education,Bachelor's or higher,0.08
+2018,underemployed,new_haven_county,Education,High school or less,0.29
+2018,underemployed,new_haven_county,Education,Some college or Associate's,0.2
+2018,underemployed,new_haven_county,Income,<$15K,0.66
+2018,underemployed,new_haven_county,Income,$15K-$30K,0.34
+2018,underemployed,new_haven_county,Income,$30K-$50K,0.21
+2018,underemployed,new_haven_county,Income,$50K-$75K,0.11
+2018,underemployed,new_haven_county,Income,$75K-$100K,0.08
+2018,underemployed,new_haven_county,Income,$100K-$200K,0.04
+2018,underemployed,new_haven_county,Race/Ethnicity,White,0.14
+2018,underemployed,new_haven_county,Race/Ethnicity,Black,0.25
+2018,underemployed,new_haven_county,Race/Ethnicity,Latino,0.26
+2018,underemployed,new_haven_county,With children,No children,0.18
+2018,underemployed,new_haven_county,With children,Children in household,0.14
+2018,underemployed,new_haven_inner_ring,Total,Total,0.19
+2018,underemployed,new_haven_outer_ring,Total,Total,0.1
+2018,underemployed,new_london_county,Total,Total,0.15
+2018,underemployed,new_london_county,Gender,Male,0.12
+2018,underemployed,new_london_county,Gender,Female,0.2
+2018,underemployed,new_london_county,Age,Ages 18-34,0.26
+2018,underemployed,new_london_county,Age,Ages 50-64,0.11
+2018,underemployed,new_london_county,Education,Bachelor's or higher,0.09
+2018,underemployed,new_london_county,Education,Some college or Associate's,0.14
+2018,underemployed,new_london_county,Income,$75K+,0.07
+2018,underemployed,new_london_county,Income,$30K-$75K,0.17
+2018,underemployed,new_london_county,With children,No children,0.15
+2018,underemployed,new_london_county,With children,Children in household,0.17
+2018,underemployed,norwalk,Total,Total,0.14
+2018,underemployed,nyborder,Total,Total,0.15
+2018,underemployed,stamford,Total,Total,0.17
+2018,underemployed,tolland_county,Total,Total,0.12
+2018,underemployed,valley,Total,Total,0.12
+2018,underemployed,waterbury,Total,Total,0.23
+2018,underemployed,waterbury,Gender,Male,0.2
+2018,underemployed,waterbury,Gender,Female,0.26
+2018,underemployed,waterbury,Education,High school or less,0.37
+2018,underemployed,waterbury,Education,Some college or Associate's,0.18
+2018,underemployed,waterbury,With children,No children,0.22
+2018,underemployed,waterbury,With children,Children in household,0.23
+2018,underemployed,windham_county,Total,Total,0.19
+2018,access_to_car,5ct,Wealthy,Wealthy,0.93
+2018,access_to_car,5ct,Suburban,Suburban,0.9400000000000001
+2018,access_to_car,5ct,Rural,Rural,0.92
+2018,access_to_car,5ct,Urban Periphery,Urban Periphery,0.8899999999999999
+2018,access_to_car,5ct,Urban Core,Urban Core,0.7575757575757576
+2018,access_to_car,ansonia,Total,Total,0.9191919191919191
+2018,access_to_car,ansonia,Gender,Male,0.9696969696969697
+2018,access_to_car,ansonia,Gender,Female,0.87
+2018,access_to_car,ansonia,Age,Under age 55,0.9099999999999999
+2018,access_to_car,ansonia,Age,Age 55 or older,0.9387755102040816
+2018,access_to_car,ansonia,Education,Some college or less,0.888888888888889
+2018,access_to_car,ansonia,Education,Bachelor's or higher,0.9595959595959597
+2018,access_to_car,ansonia,Income,<$75K,0.86
+2018,access_to_car,ansonia,Income,$75K+,0.98
+2018,access_to_car,bridgeport,Total,Total,0.7653061224489796
+2018,access_to_car,bridgeport,Gender,Male,0.7575757575757576
+2018,access_to_car,bridgeport,Gender,Female,0.7551020408163265
+2018,access_to_car,bridgeport,Age,Ages 18-34,0.66
+2018,access_to_car,bridgeport,Age,Ages 35-49,0.8181818181818182
+2018,access_to_car,bridgeport,Age,Ages 50-64,0.8265306122448979
+2018,access_to_car,bridgeport,Age,Ages 65+,0.78125
+2018,access_to_car,bridgeport,Education,Bachelor's or higher,0.85
+2018,access_to_car,bridgeport,Education,High school or less,0.6836734693877552
+2018,access_to_car,bridgeport,Education,Some college or Associate's,0.7835051546391752
+2018,access_to_car,bridgeport,Income,$75K+,0.94
+2018,access_to_car,bridgeport,Income,<$30K,0.6060606060606061
+2018,access_to_car,bridgeport,Income,$30K-$75K,0.8265306122448979
+2018,access_to_car,bridgeport,Race/Ethnicity,White,0.84
+2018,access_to_car,bridgeport,Race/Ethnicity,Black,0.6969696969696969
+2018,access_to_car,bridgeport,Race/Ethnicity,Latino,0.7575757575757576
+2018,access_to_car,bridgeport,With children,No children,0.7755102040816326
+2018,access_to_car,bridgeport,With children,Children in household,0.72
+2018,access_to_car,bristol,Total,Total,0.8899999999999999
+2018,access_to_car,bristol,Gender,Male,0.89
+2018,access_to_car,bristol,Gender,Female,0.9
+2018,access_to_car,bristol,Age,Under age 55,0.89
+2018,access_to_car,bristol,Age,Age 55 or older,0.89
+2018,access_to_car,bristol,Education,Some college or less,0.87
+2018,access_to_car,bristol,Education,Bachelor's or higher,0.9500000000000001
+2018,access_to_car,bristol,Income,<$75K,0.85
+2018,access_to_car,bristol,Income,$75K+,0.9600000000000001
+2018,access_to_car,bristol,With children,No children,0.8700000000000001
+2018,access_to_car,bristol,With children,Children in household,0.9199999999999999
+2018,access_to_car,cchd_central_ct_health_district,Total,Total,0.93
+2018,access_to_car,cchd_central_ct_health_district,Gender,Male,0.9393939393939394
+2018,access_to_car,cchd_central_ct_health_district,Gender,Female,0.9400000000000001
+2018,access_to_car,cchd_central_ct_health_district,Age,Under age 55,0.9400000000000001
+2018,access_to_car,cchd_central_ct_health_district,Age,Age 55 or older,0.9393939393939394
+2018,access_to_car,cchd_central_ct_health_district,Education,Some college or less,0.9191919191919192
+2018,access_to_car,cchd_central_ct_health_district,Education,Bachelor's or higher,0.9600000000000001
+2018,access_to_car,cchd_central_ct_health_district,Income,<$75K,0.88
+2018,access_to_car,cchd_central_ct_health_district,Income,$75K+,0.9696969696969698
+2018,access_to_car,cchd_central_ct_health_district,With children,No children,0.93
+2018,access_to_car,cchd_central_ct_health_district,With children,Children in household,0.95
+2018,access_to_car,chesprocott,Total,Total,0.9494949494949496
+2018,access_to_car,chesprocott,Gender,Male,0.9797979797979798
+2018,access_to_car,chesprocott,Gender,Female,0.9387755102040816
+2018,access_to_car,chesprocott,Age,Under age 55,0.96
+2018,access_to_car,chesprocott,Age,Age 55 or older,0.9587628865979382
+2018,access_to_car,chesprocott,Education,Some college or less,0.92
+2018,access_to_car,chesprocott,Education,Bachelor's or higher,0.9696969696969698
+2018,access_to_car,chesprocott,Income,<$75K,0.9393939393939393
+2018,access_to_car,chesprocott,Income,$75K+,0.9696969696969697
+2018,access_to_car,chesprocott,With children,No children,0.9191919191919192
+2018,access_to_car,chesprocott,With children,Children in household,0.98
+2018,access_to_car,connecticut,Total,Total,0.8799999999999999
+2018,access_to_car,connecticut,Gender,Male,0.8899999999999999
+2018,access_to_car,connecticut,Gender,Female,0.8799999999999999
+2018,access_to_car,connecticut,Age,Ages 18-34,0.84
+2018,access_to_car,connecticut,Age,Ages 35-49,0.91
+2018,access_to_car,connecticut,Age,Ages 50-64,0.92
+2018,access_to_car,connecticut,Age,Ages 65+,0.888888888888889
+2018,access_to_car,connecticut,Education,Bachelor's or higher,0.9500000000000001
+2018,access_to_car,connecticut,Education,High school or less,0.7676767676767677
+2018,access_to_car,connecticut,Education,Some college or Associate's,0.8800000000000001
+2018,access_to_car,connecticut,Income,<$15K,0.5959595959595959
+2018,access_to_car,connecticut,Income,$15K-$30K,0.787878787878788
+2018,access_to_car,connecticut,Income,$30K-$50K,0.88
+2018,access_to_car,connecticut,Income,$50K-$75K,0.9299999999999999
+2018,access_to_car,connecticut,Income,$75K-$100K,0.96
+2018,access_to_car,connecticut,Income,$100K-$200K,0.97
+2018,access_to_car,connecticut,Income,$200K+,0.97
+2018,access_to_car,connecticut,Race/Ethnicity,White,0.92
+2018,access_to_car,connecticut,Race/Ethnicity,Black,0.7676767676767677
+2018,access_to_car,connecticut,Race/Ethnicity,Latino,0.78
+2018,access_to_car,connecticut,With children,No children,0.8799999999999999
+2018,access_to_car,connecticut,With children,Children in household,0.8999999999999999
+2018,access_to_car,danbury,Total,Total,0.95
+2018,access_to_car,danbury,Gender,Male,0.95
+2018,access_to_car,danbury,Gender,Female,0.96
+2018,access_to_car,danbury,Age,Ages 18-34,0.97
+2018,access_to_car,danbury,Age,Ages 35-49,0.96
+2018,access_to_car,danbury,Age,Ages 50-64,0.9500000000000001
+2018,access_to_car,danbury,Age,Ages 65+,0.9292929292929294
+2018,access_to_car,danbury,Education,Bachelor's or higher,0.98
+2018,access_to_car,danbury,Education,High school or less,0.87
+2018,access_to_car,danbury,Education,Some college or Associate's,1
+2018,access_to_car,danbury,Income,$75K+,0.99
+2018,access_to_car,danbury,Income,<$30K,0.9
+2018,access_to_car,danbury,Income,$30K-$75K,0.96
+2018,access_to_car,danbury,Race/Ethnicity,White,0.9600000000000001
+2018,access_to_car,danbury,Race/Ethnicity,Not white,0.9400000000000001
+2018,access_to_car,danbury,With children,No children,0.95
+2018,access_to_car,danbury,With children,Children in household,0.9700000000000001
+2018,access_to_car,darien,Total,Total,0.9797979797979798
+2018,access_to_car,darien,Gender,Male,0.9696969696969698
+2018,access_to_car,darien,Gender,Female,0.99
+2018,access_to_car,derby,Total,Total,0.9393939393939393
+2018,access_to_car,derby,Gender,Male,0.94
+2018,access_to_car,derby,Gender,Female,0.9587628865979382
+2018,access_to_car,derby,Age,Under age 55,0.9600000000000001
+2018,access_to_car,derby,Age,Age 55 or older,0.9270833333333334
+2018,access_to_car,derby,Education,Some college or less,0.9278350515463918
+2018,access_to_car,derby,Education,Bachelor's or higher,0.99
+2018,access_to_car,east_hartford,Total,Total,0.8181818181818182
+2018,access_to_car,east_haven,Total,Total,0.91
+2018,access_to_car,east_haven,Gender,Male,0.93
+2018,access_to_car,east_haven,Gender,Female,0.9090909090909092
+2018,access_to_car,east_haven,Age,Under age 55,0.92
+2018,access_to_car,east_haven,Age,Age 55 or older,0.9191919191919192
+2018,access_to_car,east_haven,Education,High school or less,0.8181818181818182
+2018,access_to_car,east_haven,Education,Some college or higher,0.9600000000000001
+2018,access_to_car,east_haven,Income,<$75K,0.898989898989899
+2018,access_to_car,east_haven,Income,$75K+,0.9500000000000001
+2018,access_to_car,ehhd,Total,Total,0.92
+2018,access_to_car,ehhd,Gender,Male,0.87
+2018,access_to_car,ehhd,Gender,Female,0.97
+2018,access_to_car,ehhd,Age,Under age 55,0.9
+2018,access_to_car,ehhd,Age,Age 55 or older,0.9400000000000001
+2018,access_to_car,ehhd,Education,Some college or less,0.8500000000000001
+2018,access_to_car,ehhd,Education,Bachelor's or higher,0.97
+2018,access_to_car,ehhd,Income,<$75K,0.8200000000000001
+2018,access_to_car,ehhd,Income,$75K+,1
+2018,access_to_car,ehhd,With children,No children,0.93
+2018,access_to_car,ehhd,With children,Children in household,0.89
+2018,access_to_car,fairfield,Total,Total,0.95
+2018,access_to_car,fairfield,Gender,Male,0.95
+2018,access_to_car,fairfield,Gender,Female,0.9500000000000001
+2018,access_to_car,fairfield,Age,Under age 55,0.94
+2018,access_to_car,fairfield,Age,Age 55 or older,0.9600000000000001
+2018,access_to_car,fairfield,Education,Some college or less,0.8999999999999999
+2018,access_to_car,fairfield,Education,Bachelor's or higher,0.9700000000000001
+2018,access_to_car,fairfield,Income,<$75K,0.87
+2018,access_to_car,fairfield,Income,$75K+,0.99
+2018,access_to_car,fairfield,With children,No children,0.95
+2018,access_to_car,fairfield,With children,Children in household,0.96
+2018,access_to_car,fairfield_county,Total,Total,0.8999999999999999
+2018,access_to_car,fairfield_county,Gender,Male,0.8999999999999999
+2018,access_to_car,fairfield_county,Gender,Female,0.8899999999999999
+2018,access_to_car,fairfield_county,Age,Ages 18-34,0.83
+2018,access_to_car,fairfield_county,Age,Ages 35-49,0.92
+2018,access_to_car,fairfield_county,Age,Ages 50-64,0.91
+2018,access_to_car,fairfield_county,Age,Ages 65+,0.89
+2018,access_to_car,fairfield_county,Education,Bachelor's or higher,0.9500000000000001
+2018,access_to_car,fairfield_county,Education,High school or less,0.75
+2018,access_to_car,fairfield_county,Education,Some college or Associate's,0.8800000000000001
+2018,access_to_car,fairfield_county,Income,<$15K,0.5959595959595959
+2018,access_to_car,fairfield_county,Income,$15K-$30K,0.72
+2018,access_to_car,fairfield_county,Income,$30K-$50K,0.88
+2018,access_to_car,fairfield_county,Income,$50K-$75K,0.9191919191919191
+2018,access_to_car,fairfield_county,Income,$75K-$100K,0.96
+2018,access_to_car,fairfield_county,Income,$100K-$200K,0.97
+2018,access_to_car,fairfield_county,Income,$200K+,0.99
+2018,access_to_car,fairfield_county,Race/Ethnicity,White,0.9400000000000001
+2018,access_to_car,fairfield_county,Race/Ethnicity,Black,0.7474747474747475
+2018,access_to_car,fairfield_county,Race/Ethnicity,Latino,0.797979797979798
+2018,access_to_car,fairfield_county,With children,No children,0.8799999999999999
+2018,access_to_car,fairfield_county,With children,Children in household,0.8999999999999999
+2018,access_to_car,fcht,Total,Total,0.8600000000000001
+2018,access_to_car,fcht,Gender,Male,0.8400000000000001
+2018,access_to_car,fcht,Gender,Female,0.9183673469387755
+2018,access_to_car,fcht,Age,Under age 55,0.7999999999999999
+2018,access_to_car,fcht,Age,Age 55 or older,0.9387755102040817
+2018,access_to_car,fcht,Education,Some college or less,0.8181818181818181
+2018,access_to_car,fcht,Education,Bachelor's or higher,0.9393939393939394
+2018,access_to_car,fcht,Income,<$75K,0.898989898989899
+2018,access_to_car,fcht,Income,$75K+,0.9191919191919192
+2018,access_to_car,greater_bridgeport,Total,Total,0.85
+2018,access_to_car,greater_bridgeport,Gender,Male,0.86
+2018,access_to_car,greater_bridgeport,Gender,Female,0.8383838383838385
+2018,access_to_car,greater_bridgeport,Age,Ages 18-34,0.76
+2018,access_to_car,greater_bridgeport,Age,Ages 35-49,0.8989898989898989
+2018,access_to_car,greater_bridgeport,Age,Ages 50-64,0.9
+2018,access_to_car,greater_bridgeport,Age,Ages 65+,0.8686868686868688
+2018,access_to_car,greater_bridgeport,Education,Bachelor's or higher,0.93
+2018,access_to_car,greater_bridgeport,Education,High school or less,0.7
+2018,access_to_car,greater_bridgeport,Education,Some college or Associate's,0.8673469387755102
+2018,access_to_car,greater_bridgeport,Income,<$15K,0.5555555555555556
+2018,access_to_car,greater_bridgeport,Income,$15K-$30K,0.7070707070707071
+2018,access_to_car,greater_bridgeport,Income,$30K-$50K,0.87
+2018,access_to_car,greater_bridgeport,Income,$50K-$75K,0.9285714285714285
+2018,access_to_car,greater_bridgeport,Income,$75K-$100K,0.97
+2018,access_to_car,greater_bridgeport,Income,$100K-$200K,0.99
+2018,access_to_car,greater_bridgeport,Income,$200K+,0.9500000000000001
+2018,access_to_car,greater_bridgeport,Race/Ethnicity,White,0.9199999999999999
+2018,access_to_car,greater_bridgeport,Race/Ethnicity,Black,0.7272727272727273
+2018,access_to_car,greater_bridgeport,Race/Ethnicity,Latino,0.7676767676767677
+2018,access_to_car,greater_bridgeport,With children,No children,0.8500000000000001
+2018,access_to_car,greater_bridgeport,With children,Children in household,0.84
+2018,access_to_car,greater_danbury,Total,Total,0.9400000000000001
+2018,access_to_car,greater_danbury,Gender,Male,0.9400000000000001
+2018,access_to_car,greater_danbury,Gender,Female,0.9400000000000001
+2018,access_to_car,greater_danbury,Age,Ages 18-34,0.95
+2018,access_to_car,greater_danbury,Age,Ages 35-49,0.9600000000000001
+2018,access_to_car,greater_danbury,Age,Ages 50-64,0.96
+2018,access_to_car,greater_danbury,Age,Ages 65+,0.9191919191919192
+2018,access_to_car,greater_danbury,Education,Bachelor's or higher,0.9600000000000001
+2018,access_to_car,greater_danbury,Education,High school or less,0.8600000000000001
+2018,access_to_car,greater_danbury,Education,Some college or Associate's,0.9600000000000001
+2018,access_to_car,greater_danbury,Income,<$30K,0.8080808080808082
+2018,access_to_car,greater_danbury,Income,$30K-$50K,0.9199999999999999
+2018,access_to_car,greater_danbury,Income,$50K-$75K,0.95
+2018,access_to_car,greater_danbury,Income,$75K-$100K,0.98
+2018,access_to_car,greater_danbury,Income,$100K-$200K,0.99
+2018,access_to_car,greater_danbury,Income,$200K+,0.97
+2018,access_to_car,greater_danbury,Race/Ethnicity,White,0.9500000000000001
+2018,access_to_car,greater_danbury,Race/Ethnicity,Not white,0.9292929292929293
+2018,access_to_car,greater_danbury,With children,No children,0.93
+2018,access_to_car,greater_danbury,With children,Children in household,0.97
+2018,access_to_car,greater_greenwich,Total,Total,0.88
+2018,access_to_car,greater_greenwich,Gender,Male,0.86
+2018,access_to_car,greater_greenwich,Gender,Female,0.9
+2018,access_to_car,greater_greenwich,Age,Ages 18-34,0.8300000000000001
+2018,access_to_car,greater_greenwich,Age,Ages 35-49,0.9099999999999999
+2018,access_to_car,greater_greenwich,Age,Ages 50-64,0.9
+2018,access_to_car,greater_greenwich,Age,Ages 65+,0.89
+2018,access_to_car,greater_greenwich,Education,Bachelor's or higher,0.94
+2018,access_to_car,greater_greenwich,Education,High school or less,0.7346938775510206
+2018,access_to_car,greater_greenwich,Education,Some college or Associate's,0.85
+2018,access_to_car,greater_greenwich,Income,$75K+,0.9600000000000001
+2018,access_to_car,greater_greenwich,Income,<$30K,0.6799999999999999
+2018,access_to_car,greater_greenwich,Income,$30K-$75K,0.8585858585858586
+2018,access_to_car,greater_greenwich,Race/Ethnicity,White,0.9400000000000001
+2018,access_to_car,greater_greenwich,Race/Ethnicity,Black,0.7551020408163265
+2018,access_to_car,greater_greenwich,Race/Ethnicity,Latino,0.7575757575757576
+2018,access_to_car,greater_greenwich,With children,No children,0.88
+2018,access_to_car,greater_greenwich,With children,Children in household,0.89
+2018,access_to_car,greater_hartford,Total,Total,0.8800000000000001
+2018,access_to_car,greater_hartford,Gender,Male,0.8888888888888888
+2018,access_to_car,greater_hartford,Gender,Female,0.8800000000000001
+2018,access_to_car,greater_hartford,Age,Ages 18-34,0.8181818181818181
+2018,access_to_car,greater_hartford,Age,Ages 35-49,0.9
+2018,access_to_car,greater_hartford,Age,Ages 50-64,0.92
+2018,access_to_car,greater_hartford,Age,Ages 65+,0.888888888888889
+2018,access_to_car,greater_hartford,Education,Bachelor's or higher,0.9595959595959597
+2018,access_to_car,greater_hartford,Education,High school or less,0.7474747474747475
+2018,access_to_car,greater_hartford,Education,Some college or Associate's,0.8800000000000001
+2018,access_to_car,greater_hartford,Income,<$15K,0.5656565656565657
+2018,access_to_car,greater_hartford,Income,$15K-$30K,0.7777777777777778
+2018,access_to_car,greater_hartford,Income,$30K-$50K,0.8800000000000001
+2018,access_to_car,greater_hartford,Income,$50K-$75K,0.9099999999999999
+2018,access_to_car,greater_hartford,Income,$75K-$100K,0.9600000000000001
+2018,access_to_car,greater_hartford,Income,$100K-$200K,0.98
+2018,access_to_car,greater_hartford,Income,$200K+,0.9595959595959597
+2018,access_to_car,greater_hartford,Race/Ethnicity,White,0.92
+2018,access_to_car,greater_hartford,Race/Ethnicity,Black,0.7346938775510204
+2018,access_to_car,greater_hartford,Race/Ethnicity,Latino,0.79
+2018,access_to_car,greater_hartford,With children,No children,0.8787878787878789
+2018,access_to_car,greater_hartford,With children,Children in household,0.8999999999999999
+2018,access_to_car,greater_new_haven,Total,Total,0.86
+2018,access_to_car,greater_new_haven,Gender,Male,0.87
+2018,access_to_car,greater_new_haven,Gender,Female,0.8585858585858587
+2018,access_to_car,greater_new_haven,Age,Ages 18-34,0.8181818181818182
+2018,access_to_car,greater_new_haven,Age,Ages 35-49,0.8899999999999999
+2018,access_to_car,greater_new_haven,Age,Ages 50-64,0.88
+2018,access_to_car,greater_new_haven,Age,Ages 65+,0.8775510204081632
+2018,access_to_car,greater_new_haven,Education,Bachelor's or higher,0.94
+2018,access_to_car,greater_new_haven,Education,High school or less,0.7551020408163265
+2018,access_to_car,greater_new_haven,Education,Some college or Associate's,0.8484848484848485
+2018,access_to_car,greater_new_haven,Income,<$15K,0.5360824742268041
+2018,access_to_car,greater_new_haven,Income,$15K-$30K,0.74
+2018,access_to_car,greater_new_haven,Income,$30K-$50K,0.87
+2018,access_to_car,greater_new_haven,Income,$50K-$75K,0.89
+2018,access_to_car,greater_new_haven,Income,$75K-$100K,0.9299999999999999
+2018,access_to_car,greater_new_haven,Income,$100K-$200K,0.99
+2018,access_to_car,greater_new_haven,Income,$200K+,0.9600000000000001
+2018,access_to_car,greater_new_haven,Race/Ethnicity,White,0.9
+2018,access_to_car,greater_new_haven,Race/Ethnicity,Black,0.787878787878788
+2018,access_to_car,greater_new_haven,Race/Ethnicity,Latino,0.74
+2018,access_to_car,greater_new_haven,With children,No children,0.8585858585858587
+2018,access_to_car,greater_new_haven,With children,Children in household,0.89
+2018,access_to_car,greater_new_london,Total,Total,0.9299999999999999
+2018,access_to_car,greater_new_london,Gender,Male,0.95
+2018,access_to_car,greater_new_london,Gender,Female,0.9292929292929293
+2018,access_to_car,greater_new_london,Age,Ages 18-34,0.91
+2018,access_to_car,greater_new_london,Age,Ages 35-49,0.9600000000000001
+2018,access_to_car,greater_new_london,Age,Ages 50-64,0.9500000000000001
+2018,access_to_car,greater_new_london,Age,Ages 65+,0.9393939393939394
+2018,access_to_car,greater_new_london,Education,Bachelor's or higher,0.9494949494949496
+2018,access_to_car,greater_new_london,Education,High school or less,0.8999999999999999
+2018,access_to_car,greater_new_london,Education,Some college or Associate's,0.94
+2018,access_to_car,greater_new_london,Income,$75K+,0.99
+2018,access_to_car,greater_new_london,Income,<$30K,0.8585858585858586
+2018,access_to_car,greater_new_london,Income,$30K-$75K,0.94
+2018,access_to_car,greater_new_london,Race/Ethnicity,White,0.9500000000000001
+2018,access_to_car,greater_new_london,Race/Ethnicity,Not white,0.88
+2018,access_to_car,greater_new_london,With children,No children,0.9393939393939393
+2018,access_to_car,greater_new_london,With children,Children in household,0.9600000000000001
+2018,access_to_car,greater_waterbury,Total,Total,0.8989898989898989
+2018,access_to_car,greater_waterbury,Gender,Male,0.9191919191919191
+2018,access_to_car,greater_waterbury,Gender,Female,0.8700000000000001
+2018,access_to_car,greater_waterbury,Age,Ages 18-34,0.86
+2018,access_to_car,greater_waterbury,Age,Ages 35-49,0.92
+2018,access_to_car,greater_waterbury,Age,Ages 50-64,0.9191919191919192
+2018,access_to_car,greater_waterbury,Age,Ages 65+,0.8979591836734694
+2018,access_to_car,greater_waterbury,Education,Bachelor's or higher,0.9600000000000001
+2018,access_to_car,greater_waterbury,Education,High school or less,0.7979797979797979
+2018,access_to_car,greater_waterbury,Education,Some college or Associate's,0.8899999999999999
+2018,access_to_car,greater_waterbury,Income,<$15K,0.6
+2018,access_to_car,greater_waterbury,Income,$15K-$30K,0.836734693877551
+2018,access_to_car,greater_waterbury,Income,$30K-$50K,0.9199999999999999
+2018,access_to_car,greater_waterbury,Income,$50K-$75K,0.95
+2018,access_to_car,greater_waterbury,Income,$75K-$100K,0.9600000000000001
+2018,access_to_car,greater_waterbury,Income,$100K-$200K,0.98
+2018,access_to_car,greater_waterbury,Income,$200K+,0.92
+2018,access_to_car,greater_waterbury,Race/Ethnicity,White,0.92
+2018,access_to_car,greater_waterbury,Race/Ethnicity,Black,0.7575757575757576
+2018,access_to_car,greater_waterbury,Race/Ethnicity,Latino,0.7777777777777778
+2018,access_to_car,greater_waterbury,With children,No children,0.8888888888888888
+2018,access_to_car,greater_waterbury,With children,Children in household,0.9099999999999999
+2018,access_to_car,greenwich,Total,Total,0.9199999999999999
+2018,access_to_car,greenwich,Gender,Male,0.888888888888889
+2018,access_to_car,greenwich,Gender,Female,0.9500000000000001
+2018,access_to_car,greenwich,Age,Ages 18-34,0.82
+2018,access_to_car,greenwich,Age,Ages 35-54,0.9600000000000001
+2018,access_to_car,greenwich,Age,Ages 55+,0.9393939393939394
+2018,access_to_car,greenwich,Income,<$75K,0.87
+2018,access_to_car,greenwich,Income,$75K+,0.9500000000000001
+2018,access_to_car,greenwich,Race/Ethnicity,White,0.96
+2018,access_to_car,greenwich,Race/Ethnicity,Not white,0.8
+2018,access_to_car,greenwich,With children,No children,0.8999999999999999
+2018,access_to_car,greenwich,With children,Children in household,0.94
+2018,access_to_car,groton,Total,Total,0.9696969696969697
+2018,access_to_car,groton,Gender,Male,0.98989898989899
+2018,access_to_car,groton,Gender,Female,0.9500000000000001
+2018,access_to_car,groton,Age,Under age 55,0.96
+2018,access_to_car,groton,Age,Age 55 or older,0.9693877551020409
+2018,access_to_car,groton,Education,Some college or less,0.9696969696969697
+2018,access_to_car,groton,Education,Bachelor's or higher,0.9700000000000001
+2018,access_to_car,groton,Income,<$75K,0.9393939393939394
+2018,access_to_car,groton,Income,$75K+,1
+2018,access_to_car,hamden,Total,Total,0.9191919191919192
+2018,access_to_car,hamden,Gender,Male,0.898989898989899
+2018,access_to_car,hamden,Gender,Female,0.9292929292929293
+2018,access_to_car,hamden,Age,Under age 55,0.9292929292929294
+2018,access_to_car,hamden,Age,Age 55 or older,0.898989898989899
+2018,access_to_car,hamden,Education,Bachelor's or higher,0.97
+2018,access_to_car,hamden,Education,High school or less,0.7373737373737373
+2018,access_to_car,hamden,Education,Some college or Associate's,0.9587628865979382
+2018,access_to_car,hamden,Income,<$75K,0.8787878787878788
+2018,access_to_car,hamden,Income,$75K+,0.98989898989899
+2018,access_to_car,hamden,Race/Ethnicity,White,0.9292929292929294
+2018,access_to_car,hamden,Race/Ethnicity,Not white,0.9081632653061223
+2018,access_to_car,hamden,With children,No children,0.8979591836734694
+2018,access_to_car,hamden,With children,Children in household,0.9700000000000001
+2018,access_to_car,hartford,Total,Total,0.6868686868686869
+2018,access_to_car,hartford,Gender,Male,0.7070707070707071
+2018,access_to_car,hartford,Gender,Female,0.6666666666666667
+2018,access_to_car,hartford,Age,Ages 18-34,0.64
+2018,access_to_car,hartford,Age,Ages 35-49,0.78
+2018,access_to_car,hartford,Age,Ages 50-64,0.6326530612244898
+2018,access_to_car,hartford,Age,Ages 65+,0.6666666666666667
+2018,access_to_car,hartford,Education,Bachelor's or higher,0.8686868686868687
+2018,access_to_car,hartford,Education,High school or less,0.5353535353535354
+2018,access_to_car,hartford,Education,Some college or Associate's,0.72
+2018,access_to_car,hartford,Income,$75K+,0.96
+2018,access_to_car,hartford,Income,<$30K,0.494949494949495
+2018,access_to_car,hartford,Income,$30K-$75K,0.7999999999999999
+2018,access_to_car,hartford,Race/Ethnicity,White,0.787878787878788
+2018,access_to_car,hartford,Race/Ethnicity,Black,0.65
+2018,access_to_car,hartford,Race/Ethnicity,Latino,0.7
+2018,access_to_car,hartford,With children,No children,0.6666666666666667
+2018,access_to_car,hartford,With children,Children in household,0.71
+2018,access_to_car,hartford_inner_ring,Total,Total,0.88
+2018,access_to_car,hartford_inner_ring,Gender,Male,0.888888888888889
+2018,access_to_car,hartford_inner_ring,Gender,Female,0.8799999999999999
+2018,access_to_car,hartford_inner_ring,Age,Ages 18-34,0.8282828282828283
+2018,access_to_car,hartford_inner_ring,Age,Ages 35-49,0.9199999999999999
+2018,access_to_car,hartford_inner_ring,Age,Ages 50-64,0.9099999999999999
+2018,access_to_car,hartford_inner_ring,Age,Ages 65+,0.8787878787878788
+2018,access_to_car,hartford_inner_ring,Education,Bachelor's or higher,0.9494949494949495
+2018,access_to_car,hartford_inner_ring,Education,High school or less,0.8265306122448979
+2018,access_to_car,hartford_inner_ring,Education,Some college or Associate's,0.8600000000000001
+2018,access_to_car,hartford_inner_ring,Income,<$15K,0.5959595959595959
+2018,access_to_car,hartford_inner_ring,Income,$15K-$30K,0.8080808080808082
+2018,access_to_car,hartford_inner_ring,Income,$30K-$50K,0.85
+2018,access_to_car,hartford_inner_ring,Income,$50K-$75K,0.9199999999999999
+2018,access_to_car,hartford_inner_ring,Income,$75K-$100K,0.9400000000000001
+2018,access_to_car,hartford_inner_ring,Income,$100K+,0.9696969696969698
+2018,access_to_car,hartford_inner_ring,Race/Ethnicity,White,0.8989898989898989
+2018,access_to_car,hartford_inner_ring,Race/Ethnicity,Black,0.8282828282828283
+2018,access_to_car,hartford_inner_ring,Race/Ethnicity,Latino,0.85
+2018,access_to_car,hartford_inner_ring,With children,No children,0.8787878787878789
+2018,access_to_car,hartford_inner_ring,With children,Children in household,0.91
+2018,access_to_car,hartford_outer_ring,Total,Total,0.9400000000000001
+2018,access_to_car,hartford_outer_ring,Gender,Male,0.9393939393939394
+2018,access_to_car,hartford_outer_ring,Gender,Female,0.95
+2018,access_to_car,hartford_outer_ring,Age,Ages 18-34,0.9183673469387755
+2018,access_to_car,hartford_outer_ring,Age,Ages 35-49,0.92
+2018,access_to_car,hartford_outer_ring,Age,Ages 50-64,0.97
+2018,access_to_car,hartford_outer_ring,Age,Ages 65+,0.9595959595959597
+2018,access_to_car,hartford_outer_ring,Education,Bachelor's or higher,0.9797979797979798
+2018,access_to_car,hartford_outer_ring,Education,High school or less,0.83
+2018,access_to_car,hartford_outer_ring,Education,Some college or Associate's,0.9500000000000001
+2018,access_to_car,hartford_outer_ring,Income,$75K+,0.97
+2018,access_to_car,hartford_outer_ring,Income,<$30K,0.78
+2018,access_to_car,hartford_outer_ring,Income,$30K-$75K,0.95
+2018,access_to_car,hartford_outer_ring,Race/Ethnicity,White,0.9500000000000001
+2018,access_to_car,hartford_outer_ring,Race/Ethnicity,Not white,0.865979381443299
+2018,access_to_car,hartford_outer_ring,With children,No children,0.9494949494949496
+2018,access_to_car,hartford_outer_ring,With children,Children in household,0.9500000000000001
+2018,access_to_car,litchfield_county,Total,Total,0.888888888888889
+2018,access_to_car,litchfield_county,Gender,Male,0.888888888888889
+2018,access_to_car,litchfield_county,Gender,Female,0.8989898989898989
+2018,access_to_car,litchfield_county,Age,Ages 18-34,0.91
+2018,access_to_car,litchfield_county,Age,Ages 35-49,0.89
+2018,access_to_car,litchfield_county,Age,Ages 50-64,0.9
+2018,access_to_car,litchfield_county,Age,Ages 65+,0.8762886597938145
+2018,access_to_car,litchfield_county,Education,Bachelor's or higher,0.96
+2018,access_to_car,litchfield_county,Education,High school or less,0.7474747474747475
+2018,access_to_car,litchfield_county,Education,Some college or Associate's,0.9285714285714285
+2018,access_to_car,litchfield_county,Income,$75K+,0.9489795918367347
+2018,access_to_car,litchfield_county,Income,<$30K,0.7272727272727273
+2018,access_to_car,litchfield_county,Income,$30K-$75K,0.9292929292929293
+2018,access_to_car,litchfield_county,Race/Ethnicity,White,0.898989898989899
+2018,access_to_car,litchfield_county,Race/Ethnicity,Not white,0.74
+2018,access_to_car,litchfield_county,With children,No children,0.888888888888889
+2018,access_to_car,litchfield_county,With children,Children in household,0.9
+2018,access_to_car,manchester,Total,Total,0.9081632653061225
+2018,access_to_car,manchester,Gender,Male,0.9387755102040817
+2018,access_to_car,manchester,Gender,Female,0.8787878787878788
+2018,access_to_car,manchester,Age,Under age 55,0.89
+2018,access_to_car,manchester,Age,Age 55 or older,0.9270833333333334
+2018,access_to_car,manchester,Education,Some college or less,0.826530612244898
+2018,access_to_car,manchester,Education,Bachelor's or higher,1
+2018,access_to_car,manchester,Income,<$75K,0.8282828282828284
+2018,access_to_car,manchester,Income,$75K+,1
+2018,access_to_car,meriden,Total,Total,0.8500000000000001
+2018,access_to_car,meriden,Gender,Male,0.8200000000000001
+2018,access_to_car,meriden,Gender,Female,0.8888888888888891
+2018,access_to_car,meriden,Age,Under age 55,0.87
+2018,access_to_car,meriden,Age,Age 55 or older,0.8367346938775511
+2018,access_to_car,meriden,Education,Bachelor's or higher,0.9595959595959597
+2018,access_to_car,meriden,Education,High school or less,0.71
+2018,access_to_car,meriden,Education,Some college or Associate's,0.8775510204081634
+2018,access_to_car,meriden,Income,$75K+,0.9400000000000001
+2018,access_to_car,meriden,Income,<$30K,0.6734693877551021
+2018,access_to_car,meriden,Income,$30K-$75K,0.91
+2018,access_to_car,meriden,Race/Ethnicity,White,0.87
+2018,access_to_car,meriden,Race/Ethnicity,Not white,0.8181818181818182
+2018,access_to_car,meriden,With children,No children,0.8181818181818182
+2018,access_to_car,meriden,With children,Children in household,0.9199999999999999
+2018,access_to_car,middlesex_county,Total,Total,0.9400000000000001
+2018,access_to_car,middlesex_county,Gender,Male,0.9500000000000001
+2018,access_to_car,middlesex_county,Gender,Female,0.93
+2018,access_to_car,middlesex_county,Age,Under age 55,0.9600000000000001
+2018,access_to_car,middlesex_county,Age,Age 55 or older,0.93
+2018,access_to_car,middlesex_county,Education,Bachelor's or higher,1
+2018,access_to_car,middlesex_county,Education,High school or less,0.86
+2018,access_to_car,middlesex_county,Education,Some college or Associate's,0.92
+2018,access_to_car,middlesex_county,Income,<$75K,0.91
+2018,access_to_car,middlesex_county,Income,$75K+,0.99
+2018,access_to_car,middlesex_county,With children,No children,0.9400000000000001
+2018,access_to_car,middlesex_county,With children,Children in household,0.97
+2018,access_to_car,middletown,Total,Total,0.93
+2018,access_to_car,middletown,Gender,Male,0.98989898989899
+2018,access_to_car,middletown,Gender,Female,0.89
+2018,access_to_car,middletown,Age,Under age 55,0.9500000000000001
+2018,access_to_car,middletown,Age,Age 55 or older,0.8979591836734694
+2018,access_to_car,middletown,Education,Some college or less,0.8700000000000001
+2018,access_to_car,middletown,Education,Bachelor's or higher,1
+2018,access_to_car,middletown,Income,<$75K,0.8899999999999999
+2018,access_to_car,middletown,Income,$75K+,1
+2018,access_to_car,milford,Total,Total,0.9400000000000001
+2018,access_to_car,milford,Gender,Male,0.92
+2018,access_to_car,milford,Gender,Female,0.9600000000000001
+2018,access_to_car,milford,Age,Under age 55,0.92
+2018,access_to_car,milford,Age,Age 55 or older,0.98
+2018,access_to_car,milford,Education,Some college or less,0.9199999999999999
+2018,access_to_car,milford,Education,Bachelor's or higher,0.98
+2018,access_to_car,milford,Income,<$75K,0.92
+2018,access_to_car,milford,Income,$75K+,0.9600000000000001
+2018,access_to_car,milford,With children,No children,0.9400000000000001
+2018,access_to_car,milford,With children,Children in household,0.9500000000000001
+2018,access_to_car,monroe,Total,Total,0.9400000000000001
+2018,access_to_car,naugatuck,Total,Total,0.89
+2018,access_to_car,naugatuck,Gender,Male,0.9
+2018,access_to_car,naugatuck,Gender,Female,0.89
+2018,access_to_car,naugatuck,Age,Under age 55,0.9
+2018,access_to_car,naugatuck,Age,Age 55 or older,0.8999999999999999
+2018,access_to_car,naugatuck,Education,Bachelor's or higher,0.9600000000000001
+2018,access_to_car,naugatuck,Education,High school or less,0.8500000000000001
+2018,access_to_car,naugatuck,Education,Some college or Associate's,0.8787878787878788
+2018,access_to_car,naugatuck,Income,$75K+,0.99
+2018,access_to_car,naugatuck,Income,<$30K,0.77
+2018,access_to_car,naugatuck,Income,$30K-$75K,0.9090909090909092
+2018,access_to_car,naugatuck,With children,No children,0.89
+2018,access_to_car,naugatuck,With children,Children in household,0.9
+2018,access_to_car,ncdhd,Total,Total,0.8787878787878789
+2018,access_to_car,ncdhd,Gender,Male,0.8469387755102041
+2018,access_to_car,ncdhd,Gender,Female,0.89
+2018,access_to_car,ncdhd,Age,Under age 55,0.8585858585858587
+2018,access_to_car,ncdhd,Age,Age 55 or older,0.8899999999999999
+2018,access_to_car,ncdhd,Education,Bachelor's or higher,0.9285714285714286
+2018,access_to_car,ncdhd,Education,High school or less,0.7799999999999999
+2018,access_to_car,ncdhd,Education,Some college or Associate's,0.8600000000000001
+2018,access_to_car,ncdhd,Income,$75K+,0.9600000000000001
+2018,access_to_car,ncdhd,Income,<$30K,0.6699999999999999
+2018,access_to_car,ncdhd,Income,$30K-$75K,0.8999999999999999
+2018,access_to_car,ncdhd,Race/Ethnicity,White,0.8999999999999999
+2018,access_to_car,ncdhd,Race/Ethnicity,Not white,0.7473684210526316
+2018,access_to_car,ncdhd,With children,No children,0.8484848484848486
+2018,access_to_car,ncdhd,With children,Children in household,0.9199999999999999
+2018,access_to_car,nddh,Total,Total,0.91
+2018,access_to_car,nddh,Gender,Male,0.9400000000000001
+2018,access_to_car,nddh,Gender,Female,0.88
+2018,access_to_car,nddh,Age,Under age 55,0.89
+2018,access_to_car,nddh,Age,Age 55 or older,0.9400000000000001
+2018,access_to_car,nddh,Education,Bachelor's or higher,0.9500000000000001
+2018,access_to_car,nddh,Education,High school or less,0.8400000000000001
+2018,access_to_car,nddh,Education,Some college or Associate's,0.92
+2018,access_to_car,nddh,Income,$75K+,1
+2018,access_to_car,nddh,Income,<$30K,0.77
+2018,access_to_car,nddh,Income,$30K-$75K,0.93
+2018,access_to_car,nddh,With children,No children,0.89
+2018,access_to_car,nddh,With children,Children in household,0.9400000000000001
+2018,access_to_car,new_britain,Total,Total,0.8200000000000001
+2018,access_to_car,new_britain,Gender,Male,0.8999999999999999
+2018,access_to_car,new_britain,Gender,Female,0.7676767676767677
+2018,access_to_car,new_britain,Age,Under age 55,0.84
+2018,access_to_car,new_britain,Age,Age 55 or older,0.787878787878788
+2018,access_to_car,new_britain,Education,Bachelor's or higher,0.91
+2018,access_to_car,new_britain,Education,High school or less,0.6969696969696969
+2018,access_to_car,new_britain,Education,Some college or Associate's,0.9099999999999999
+2018,access_to_car,new_britain,Income,$75K+,0.9500000000000001
+2018,access_to_car,new_britain,Income,<$30K,0.6699999999999999
+2018,access_to_car,new_britain,Income,$30K-$75K,0.8999999999999999
+2018,access_to_car,new_britain,Race/Ethnicity,White,0.8600000000000001
+2018,access_to_car,new_britain,Race/Ethnicity,Not white,0.8080808080808081
+2018,access_to_car,new_britain,With children,No children,0.81
+2018,access_to_car,new_britain,With children,Children in household,0.87
+2018,access_to_car,new_haven,Total,Total,0.7474747474747475
+2018,access_to_car,new_haven,Gender,Male,0.7676767676767677
+2018,access_to_car,new_haven,Gender,Female,0.72
+2018,access_to_car,new_haven,Age,Ages 18-34,0.72
+2018,access_to_car,new_haven,Age,Ages 35-49,0.73
+2018,access_to_car,new_haven,Age,Ages 50-64,0.7777777777777777
+2018,access_to_car,new_haven,Age,Ages 65+,0.78125
+2018,access_to_car,new_haven,Education,Bachelor's or higher,0.8484848484848485
+2018,access_to_car,new_haven,Education,High school or less,0.6122448979591837
+2018,access_to_car,new_haven,Education,Some college or Associate's,0.7300000000000001
+2018,access_to_car,new_haven,Income,$75K+,0.9191919191919192
+2018,access_to_car,new_haven,Income,<$30K,0.5151515151515151
+2018,access_to_car,new_haven,Income,$30K-$75K,0.8600000000000001
+2018,access_to_car,new_haven,Race/Ethnicity,White,0.8282828282828283
+2018,access_to_car,new_haven,Race/Ethnicity,Black,0.6938775510204083
+2018,access_to_car,new_haven,Race/Ethnicity,Latino,0.65
+2018,access_to_car,new_haven,With children,No children,0.7346938775510204
+2018,access_to_car,new_haven,With children,Children in household,0.787878787878788
+2018,access_to_car,new_haven_county,Total,Total,0.8686868686868688
+2018,access_to_car,new_haven_county,Gender,Male,0.88
+2018,access_to_car,new_haven_county,Gender,Female,0.8686868686868688
+2018,access_to_car,new_haven_county,Age,Ages 18-34,0.83
+2018,access_to_car,new_haven_county,Age,Ages 35-49,0.8999999999999999
+2018,access_to_car,new_haven_county,Age,Ages 50-64,0.88
+2018,access_to_car,new_haven_county,Age,Ages 65+,0.8673469387755103
+2018,access_to_car,new_haven_county,Education,Bachelor's or higher,0.94
+2018,access_to_car,new_haven_county,Education,High school or less,0.7575757575757576
+2018,access_to_car,new_haven_county,Education,Some college or Associate's,0.8686868686868688
+2018,access_to_car,new_haven_county,Income,<$15K,0.5714285714285715
+2018,access_to_car,new_haven_county,Income,$15K-$30K,0.7575757575757576
+2018,access_to_car,new_haven_county,Income,$30K-$50K,0.88
+2018,access_to_car,new_haven_county,Income,$50K-$75K,0.9199999999999999
+2018,access_to_car,new_haven_county,Income,$75K-$100K,0.95
+2018,access_to_car,new_haven_county,Income,$100K-$200K,0.98
+2018,access_to_car,new_haven_county,Income,$200K+,0.9400000000000001
+2018,access_to_car,new_haven_county,Race/Ethnicity,White,0.9
+2018,access_to_car,new_haven_county,Race/Ethnicity,Black,0.787878787878788
+2018,access_to_car,new_haven_county,Race/Ethnicity,Latino,0.77
+2018,access_to_car,new_haven_county,With children,No children,0.8585858585858587
+2018,access_to_car,new_haven_county,With children,Children in household,0.9
+2018,access_to_car,new_haven_inner_ring,Total,Total,0.8787878787878789
+2018,access_to_car,new_haven_inner_ring,Gender,Male,0.8787878787878789
+2018,access_to_car,new_haven_inner_ring,Gender,Female,0.8686868686868688
+2018,access_to_car,new_haven_inner_ring,Age,Ages 18-34,0.846938775510204
+2018,access_to_car,new_haven_inner_ring,Age,Ages 35-49,0.93
+2018,access_to_car,new_haven_inner_ring,Age,Ages 50-64,0.88
+2018,access_to_car,new_haven_inner_ring,Age,Ages 65+,0.8775510204081632
+2018,access_to_car,new_haven_inner_ring,Education,Bachelor's or higher,0.95
+2018,access_to_car,new_haven_inner_ring,Education,High school or less,0.7474747474747475
+2018,access_to_car,new_haven_inner_ring,Education,Some college or Associate's,0.8775510204081634
+2018,access_to_car,new_haven_inner_ring,Income,$75K+,0.96
+2018,access_to_car,new_haven_inner_ring,Income,<$30K,0.6804123711340205
+2018,access_to_car,new_haven_inner_ring,Income,$30K-$75K,0.8799999999999999
+2018,access_to_car,new_haven_inner_ring,Race/Ethnicity,White,0.88
+2018,access_to_car,new_haven_inner_ring,Race/Ethnicity,Black,0.9
+2018,access_to_car,new_haven_inner_ring,Race/Ethnicity,Latino,0.87
+2018,access_to_car,new_haven_inner_ring,With children,No children,0.8585858585858586
+2018,access_to_car,new_haven_inner_ring,With children,Children in household,0.92
+2018,access_to_car,new_haven_outer_ring,Total,Total,0.95
+2018,access_to_car,new_haven_outer_ring,Gender,Male,0.95
+2018,access_to_car,new_haven_outer_ring,Gender,Female,0.9393939393939394
+2018,access_to_car,new_haven_outer_ring,Age,Ages 18-34,0.93
+2018,access_to_car,new_haven_outer_ring,Age,Ages 35-49,0.9600000000000001
+2018,access_to_car,new_haven_outer_ring,Age,Ages 50-64,0.95
+2018,access_to_car,new_haven_outer_ring,Age,Ages 65+,0.9393939393939394
+2018,access_to_car,new_haven_outer_ring,Education,Bachelor's or higher,0.98
+2018,access_to_car,new_haven_outer_ring,Education,High school or less,0.8969072164948454
+2018,access_to_car,new_haven_outer_ring,Education,Some college or Associate's,0.9299999999999999
+2018,access_to_car,new_haven_outer_ring,Income,$75K+,0.98
+2018,access_to_car,new_haven_outer_ring,Income,<$30K,0.87
+2018,access_to_car,new_haven_outer_ring,Income,$30K-$75K,0.94
+2018,access_to_car,new_haven_outer_ring,With children,No children,0.9393939393939394
+2018,access_to_car,new_haven_outer_ring,With children,Children in household,0.96
+2018,access_to_car,new_london,Total,Total,0.8686868686868687
+2018,access_to_car,new_london,Gender,Male,0.9299999999999999
+2018,access_to_car,new_london,Gender,Female,0.8163265306122449
+2018,access_to_car,new_london,Age,Under age 55,0.8600000000000001
+2018,access_to_car,new_london,Age,Age 55 or older,0.888888888888889
+2018,access_to_car,new_london,Education,Bachelor's or higher,0.8979591836734694
+2018,access_to_car,new_london,Education,Less than Bachelor's degree,0.8600000000000001
+2018,access_to_car,new_london,Income,<$75K,0.8400000000000001
+2018,access_to_car,new_london,Income,$75K+,0.99
+2018,access_to_car,new_london,Race/Ethnicity,White,0.9292929292929294
+2018,access_to_car,new_london,Race/Ethnicity,Not white,0.797979797979798
+2018,access_to_car,new_london_county,Total,Total,0.9292929292929293
+2018,access_to_car,new_london_county,Gender,Male,0.9292929292929293
+2018,access_to_car,new_london_county,Gender,Female,0.9
+2018,access_to_car,new_london_county,Age,Ages 18-34,0.8686868686868687
+2018,access_to_car,new_london_county,Age,Ages 35-49,0.95
+2018,access_to_car,new_london_county,Age,Ages 50-64,0.9400000000000001
+2018,access_to_car,new_london_county,Age,Ages 65+,0.91
+2018,access_to_car,new_london_county,Education,Bachelor's or higher,0.9600000000000001
+2018,access_to_car,new_london_county,Education,High school or less,0.8700000000000001
+2018,access_to_car,new_london_county,Education,Some college or Associate's,0.9090909090909091
+2018,access_to_car,new_london_county,Income,$75K+,0.99
+2018,access_to_car,new_london_county,Income,<$30K,0.8061224489795917
+2018,access_to_car,new_london_county,Income,$30K-$75K,0.94
+2018,access_to_car,new_london_county,Race/Ethnicity,White,0.93
+2018,access_to_car,new_london_county,Race/Ethnicity,Not white,0.836734693877551
+2018,access_to_car,new_london_county,With children,No children,0.9199999999999999
+2018,access_to_car,new_london_county,With children,Children in household,0.9191919191919192
+2018,access_to_car,new_milford,Total,Total,0.9393939393939393
+2018,access_to_car,new_milford,Gender,Male,0.9494949494949496
+2018,access_to_car,new_milford,Gender,Female,0.9199999999999999
+2018,access_to_car,new_milford,Age,Under age 55,0.9393939393939393
+2018,access_to_car,new_milford,Age,Age 55 or older,0.9400000000000001
+2018,access_to_car,new_milford,Education,Bachelor's or higher,0.9797979797979798
+2018,access_to_car,new_milford,Education,High school or less,0.8500000000000001
+2018,access_to_car,new_milford,Education,Some college or Associate's,0.93
+2018,access_to_car,new_milford,Income,<$75K,0.88
+2018,access_to_car,new_milford,Income,$75K+,0.99
+2018,access_to_car,new_milford,With children,No children,0.9099999999999999
+2018,access_to_car,new_milford,With children,Children in household,0.9897959183673469
+2018,access_to_car,newtown,Total,Total,0.9400000000000001
+2018,access_to_car,newtown,Gender,Male,0.9494949494949496
+2018,access_to_car,newtown,Gender,Female,0.9299999999999999
+2018,access_to_car,newtown,Age,Under age 55,0.95
+2018,access_to_car,newtown,Age,Age 55 or older,0.9292929292929294
+2018,access_to_car,newtown,Education,Some college or less,0.89
+2018,access_to_car,newtown,Education,Bachelor's or higher,0.97
+2018,access_to_car,newtown,Income,<$75K,0.9
+2018,access_to_car,newtown,Income,$75K+,0.9700000000000001
+2018,access_to_car,newtown,With children,No children,0.9292929292929294
+2018,access_to_car,newtown,With children,Children in household,0.96
+2018,access_to_car,norwalk,Total,Total,0.9090909090909092
+2018,access_to_car,norwalk,Gender,Male,0.9199999999999999
+2018,access_to_car,norwalk,Gender,Female,0.8787878787878788
+2018,access_to_car,norwalk,Age,Ages 18-34,0.7999999999999999
+2018,access_to_car,norwalk,Age,Ages 35-49,0.95
+2018,access_to_car,norwalk,Age,Ages 50-64,0.9292929292929293
+2018,access_to_car,norwalk,Age,Ages 65+,0.9393939393939393
+2018,access_to_car,norwalk,Education,Bachelor's or higher,0.96
+2018,access_to_car,norwalk,Education,High school or less,0.663265306122449
+2018,access_to_car,norwalk,Education,Some college or Associate's,0.9199999999999999
+2018,access_to_car,norwalk,Income,$75K+,0.9700000000000001
+2018,access_to_car,norwalk,Income,<$30K,0.6734693877551021
+2018,access_to_car,norwalk,Income,$30K-$75K,0.9400000000000001
+2018,access_to_car,norwalk,Race/Ethnicity,White,0.91
+2018,access_to_car,norwalk,Race/Ethnicity,Not white,0.8686868686868687
+2018,access_to_car,norwalk,With children,No children,0.9090909090909091
+2018,access_to_car,norwalk,With children,Children in household,0.888888888888889
+2018,access_to_car,norwich,Total,Total,0.8571428571428572
+2018,access_to_car,norwich,Gender,Male,0.8865979381443299
+2018,access_to_car,norwich,Gender,Female,0.8200000000000001
+2018,access_to_car,norwich,Age,Under age 55,0.8163265306122449
+2018,access_to_car,norwich,Age,Age 55 or older,0.8999999999999999
+2018,access_to_car,norwich,Education,Bachelor's or higher,0.95
+2018,access_to_car,norwich,Education,High school or less,0.78
+2018,access_to_car,norwich,Education,Some college or Associate's,0.8421052631578947
+2018,access_to_car,norwich,Income,$75K+,0.9500000000000001
+2018,access_to_car,norwich,Income,<$30K,0.6947368421052632
+2018,access_to_car,norwich,Income,$30K-$75K,0.9199999999999999
+2018,access_to_car,norwich,With children,No children,0.83
+2018,access_to_car,norwich,With children,Children in household,0.8958333333333335
+2018,access_to_car,nyborder,Total,Total,0.8787878787878788
+2018,access_to_car,nyborder,Gender,Male,0.8585858585858586
+2018,access_to_car,nyborder,Gender,Female,0.88
+2018,access_to_car,nyborder,Age,Ages 18-34,0.8500000000000001
+2018,access_to_car,nyborder,Age,Ages 35-49,0.8484848484848485
+2018,access_to_car,nyborder,Age,Ages 50-64,0.9183673469387755
+2018,access_to_car,nyborder,Age,Ages 65+,0.89
+2018,access_to_car,nyborder,Education,Bachelor's or higher,0.9494949494949495
+2018,access_to_car,nyborder,Education,High school or less,0.6868686868686869
+2018,access_to_car,nyborder,Education,Some college or Associate's,0.8999999999999999
+2018,access_to_car,nyborder,Income,$75K+,0.9591836734693877
+2018,access_to_car,nyborder,Income,<$30K,0.7
+2018,access_to_car,nyborder,Income,$30K-$75K,0.85
+2018,access_to_car,nyborder,Race/Ethnicity,White,0.91
+2018,access_to_car,nyborder,Race/Ethnicity,Not white,0.787878787878788
+2018,access_to_car,nyborder,With children,No children,0.9
+2018,access_to_car,nyborder,With children,Children in household,0.865979381443299
+2018,access_to_car,oxford,Total,Total,0.9400000000000001
+2018,access_to_car,pomperaug,Total,Total,0.9393939393939394
+2018,access_to_car,pomperaug,Gender,Male,0.9494949494949496
+2018,access_to_car,pomperaug,Gender,Female,0.93
+2018,access_to_car,pomperaug,Age,Under age 55,0.9400000000000001
+2018,access_to_car,pomperaug,Age,Age 55 or older,0.9292929292929294
+2018,access_to_car,pomperaug,Education,Some college or less,0.91
+2018,access_to_car,pomperaug,Education,Bachelor's or higher,0.9595959595959597
+2018,access_to_car,pomperaug,Income,<$75K,0.8877551020408163
+2018,access_to_car,pomperaug,Income,$75K+,0.96
+2018,access_to_car,pomperaug,With children,No children,0.9393939393939394
+2018,access_to_car,pomperaug,With children,Children in household,0.9500000000000001
+2018,access_to_car,port_chester_ny,Total,Total,0.8585858585858586
+2018,access_to_car,port_chester_ny,Gender,Male,0.8673469387755102
+2018,access_to_car,port_chester_ny,Gender,Female,0.8400000000000001
+2018,access_to_car,port_chester_ny,Age,Under age 55,0.8400000000000001
+2018,access_to_car,port_chester_ny,Age,Age 55 or older,0.8775510204081632
+2018,access_to_car,port_chester_ny,Education,Bachelor's or higher,0.94
+2018,access_to_car,port_chester_ny,Education,High school or less,0.7142857142857143
+2018,access_to_car,port_chester_ny,Education,Some college or Associate's,0.92
+2018,access_to_car,port_chester_ny,Income,<$75K,0.79
+2018,access_to_car,port_chester_ny,Income,$75K+,0.9489795918367347
+2018,access_to_car,port_chester_ny,Race/Ethnicity,White,0.91
+2018,access_to_car,port_chester_ny,Race/Ethnicity,Not white,0.8061224489795918
+2018,access_to_car,port_chester_ny,With children,No children,0.88
+2018,access_to_car,port_chester_ny,With children,Children in household,0.8571428571428572
+2018,access_to_car,seymour,Total,Total,0.9292929292929293
+2018,access_to_car,seymour,Gender,Male,0.93
+2018,access_to_car,seymour,Gender,Female,0.9278350515463918
+2018,access_to_car,seymour,Age,Under age 55,0.9191919191919192
+2018,access_to_car,seymour,Age,Age 55 or older,0.9387755102040816
+2018,access_to_car,shelton,Total,Total,0.96
+2018,access_to_car,shelton,Gender,Male,0.97
+2018,access_to_car,shelton,Gender,Female,0.9500000000000001
+2018,access_to_car,shelton,Age,Under age 55,0.96
+2018,access_to_car,shelton,Age,Age 55 or older,0.9595959595959597
+2018,access_to_car,shelton,Education,Some college or less,0.9299999999999999
+2018,access_to_car,shelton,Education,Bachelor's or higher,1
+2018,access_to_car,shelton,Income,<$75K,0.9292929292929294
+2018,access_to_car,shelton,Income,$75K+,0.98
+2018,access_to_car,shelton,With children,No children,0.9500000000000001
+2018,access_to_car,shelton,With children,Children in household,0.98
+2018,access_to_car,stamford,Total,Total,0.87
+2018,access_to_car,stamford,Gender,Male,0.8585858585858587
+2018,access_to_car,stamford,Gender,Female,0.88
+2018,access_to_car,stamford,Age,Ages 18-34,0.8282828282828284
+2018,access_to_car,stamford,Age,Ages 35-49,0.9199999999999999
+2018,access_to_car,stamford,Age,Ages 50-64,0.87
+2018,access_to_car,stamford,Age,Ages 65+,0.88
+2018,access_to_car,stamford,Education,Bachelor's or higher,0.94
+2018,access_to_car,stamford,Education,High school or less,0.7040816326530612
+2018,access_to_car,stamford,Education,Some college or Associate's,0.8099999999999999
+2018,access_to_car,stamford,Income,$75K+,0.9800000000000001
+2018,access_to_car,stamford,Income,<$30K,0.6000000000000001
+2018,access_to_car,stamford,Income,$30K-$75K,0.8163265306122448
+2018,access_to_car,stamford,Race/Ethnicity,White,0.9494949494949496
+2018,access_to_car,stamford,Race/Ethnicity,Black,0.7448979591836736
+2018,access_to_car,stamford,Race/Ethnicity,Latino,0.7200000000000001
+2018,access_to_car,stamford,With children,No children,0.8600000000000001
+2018,access_to_car,stamford,With children,Children in household,0.8787878787878788
+2018,access_to_car,stratford,Total,Total,0.87
+2018,access_to_car,stratford,Gender,Male,0.9
+2018,access_to_car,stratford,Gender,Female,0.8400000000000001
+2018,access_to_car,stratford,Age,Under age 55,0.84
+2018,access_to_car,stratford,Age,Age 55 or older,0.9
+2018,access_to_car,stratford,Education,Bachelor's or higher,0.97
+2018,access_to_car,stratford,Education,High school or less,0.71
+2018,access_to_car,stratford,Education,Some college or Associate's,0.89
+2018,access_to_car,stratford,Income,<$75K,0.7799999999999999
+2018,access_to_car,stratford,Income,$75K+,0.98
+2018,access_to_car,stratford,With children,No children,0.8700000000000001
+2018,access_to_car,stratford,With children,Children in household,0.85
+2018,access_to_car,tolland_county,Total,Total,0.92
+2018,access_to_car,tolland_county,Gender,Male,0.9
+2018,access_to_car,tolland_county,Gender,Female,0.9400000000000001
+2018,access_to_car,tolland_county,Age,Under age 55,0.92
+2018,access_to_car,tolland_county,Age,Age 55 or older,0.9400000000000001
+2018,access_to_car,tolland_county,Education,Bachelor's or higher,0.99
+2018,access_to_car,tolland_county,Education,High school or less,0.7899999999999999
+2018,access_to_car,tolland_county,Education,Some college or Associate's,0.9
+2018,access_to_car,tolland_county,Income,$75K+,0.98
+2018,access_to_car,tolland_county,Income,<$30K,0.73
+2018,access_to_car,tolland_county,Income,$30K-$75K,0.93
+2018,access_to_car,tolland_county,With children,No children,0.93
+2018,access_to_car,tolland_county,With children,Children in household,0.92
+2018,access_to_car,trumbull,Total,Total,0.9600000000000001
+2018,access_to_car,trumbull,Gender,Male,0.97
+2018,access_to_car,trumbull,Gender,Female,0.9600000000000001
+2018,access_to_car,trumbull,Age,Under age 55,0.9700000000000001
+2018,access_to_car,trumbull,Age,Age 55 or older,0.9500000000000001
+2018,access_to_car,trumbull,Education,Some college or less,0.9299999999999999
+2018,access_to_car,trumbull,Education,Bachelor's or higher,0.9800000000000001
+2018,access_to_car,trumbull,Income,$100K+,0.97
+2018,access_to_car,trumbull,Income,<$100K,0.94
+2018,access_to_car,valley,Total,Total,0.9299999999999999
+2018,access_to_car,valley,Gender,Male,0.94
+2018,access_to_car,valley,Gender,Female,0.9199999999999999
+2018,access_to_car,valley,Age,Ages 18-34,0.92
+2018,access_to_car,valley,Age,Ages 35-49,0.9393939393939394
+2018,access_to_car,valley,Age,Ages 50-64,0.93
+2018,access_to_car,valley,Age,Ages 65+,0.9489795918367346
+2018,access_to_car,valley,Education,Bachelor's or higher,0.9700000000000001
+2018,access_to_car,valley,Education,High school or less,0.88
+2018,access_to_car,valley,Education,Some college or Associate's,0.9191919191919191
+2018,access_to_car,valley,Income,$75K+,0.9700000000000001
+2018,access_to_car,valley,Income,<$30K,0.8282828282828283
+2018,access_to_car,valley,Income,$30K-$75K,0.94
+2018,access_to_car,valley,Race/Ethnicity,White,0.94
+2018,access_to_car,valley,Race/Ethnicity,Not white,0.9
+2018,access_to_car,valley,With children,No children,0.94
+2018,access_to_car,valley,With children,Children in household,0.9393939393939393
+2018,access_to_car,wallingford,Total,Total,0.9591836734693878
+2018,access_to_car,wallingford,Gender,Male,0.9696969696969698
+2018,access_to_car,wallingford,Gender,Female,0.9489795918367347
+2018,access_to_car,wallingford,Age,Under age 55,0.97
+2018,access_to_car,wallingford,Age,Age 55 or older,0.9381443298969073
+2018,access_to_car,wallingford,Education,Some college or less,0.9494949494949496
+2018,access_to_car,wallingford,Education,Bachelor's or higher,0.9595959595959597
+2018,access_to_car,wallingford,Income,<$75K,0.9183673469387755
+2018,access_to_car,wallingford,Income,$75K+,1
+2018,access_to_car,waterbury,Total,Total,0.7777777777777777
+2018,access_to_car,waterbury,Gender,Male,0.836734693877551
+2018,access_to_car,waterbury,Gender,Female,0.7575757575757576
+2018,access_to_car,waterbury,Age,Ages 18-34,0.7373737373737373
+2018,access_to_car,waterbury,Age,Ages 35-49,0.8500000000000001
+2018,access_to_car,waterbury,Age,Ages 50-64,0.8061224489795918
+2018,access_to_car,waterbury,Age,Ages 65+,0.7835051546391752
+2018,access_to_car,waterbury,Education,Bachelor's or higher,0.9
+2018,access_to_car,waterbury,Education,High school or less,0.6868686868686869
+2018,access_to_car,waterbury,Education,Some college or Associate's,0.8181818181818182
+2018,access_to_car,waterbury,Income,$75K+,0.94
+2018,access_to_car,waterbury,Income,<$30K,0.6161616161616161
+2018,access_to_car,waterbury,Income,$30K-$75K,0.9199999999999999
+2018,access_to_car,waterbury,Race/Ethnicity,White,0.8383838383838385
+2018,access_to_car,waterbury,Race/Ethnicity,Black,0.7373737373737373
+2018,access_to_car,waterbury,Race/Ethnicity,Latino,0.7171717171717171
+2018,access_to_car,waterbury,With children,No children,0.7676767676767677
+2018,access_to_car,waterbury,With children,Children in household,0.8080808080808082
+2018,access_to_car,west_hartford,Total,Total,0.93
+2018,access_to_car,west_hartford,Gender,Male,0.93
+2018,access_to_car,west_hartford,Gender,Female,0.9292929292929293
+2018,access_to_car,west_hartford,Age,Under age 55,0.9299999999999999
+2018,access_to_car,west_hartford,Age,Age 55 or older,0.9191919191919192
+2018,access_to_car,west_hartford,Education,Some college or less,0.79
+2018,access_to_car,west_hartford,Education,Bachelor's or higher,0.98
+2018,access_to_car,west_hartford,Income,<$75K,0.8686868686868687
+2018,access_to_car,west_hartford,Income,$75K+,0.96
+2018,access_to_car,west_hartford,With children,No children,0.92
+2018,access_to_car,west_hartford,With children,Children in household,0.94
+2018,access_to_car,west_haven,Total,Total,0.8400000000000001
+2018,access_to_car,west_haven,Gender,Male,0.8585858585858587
+2018,access_to_car,west_haven,Gender,Female,0.8200000000000001
+2018,access_to_car,west_haven,Age,Under age 55,0.84
+2018,access_to_car,west_haven,Age,Age 55 or older,0.8484848484848485
+2018,access_to_car,west_haven,Education,Bachelor's or higher,0.9500000000000001
+2018,access_to_car,west_haven,Education,High school or less,0.7575757575757576
+2018,access_to_car,west_haven,Education,Some college or Associate's,0.8099999999999999
+2018,access_to_car,west_haven,Income,<$75K,0.75
+2018,access_to_car,west_haven,Income,$75K+,0.9500000000000001
+2018,access_to_car,west_haven,Race/Ethnicity,White,0.8300000000000001
+2018,access_to_car,west_haven,Race/Ethnicity,Not white,0.83
+2018,access_to_car,west_haven,With children,No children,0.8400000000000001
+2018,access_to_car,west_haven,With children,Children in household,0.83
+2018,access_to_car,windham,Total,Total,0.76
+2018,access_to_car,windham_county,Total,Total,0.88
+2018,access_to_car,windham_county,Gender,Male,0.88
+2018,access_to_car,windham_county,Gender,Female,0.88
+2018,access_to_car,windham_county,Age,Under age 55,0.85
+2018,access_to_car,windham_county,Age,Age 55 or older,0.92
+2018,access_to_car,windham_county,Education,Bachelor's or higher,0.9400000000000001
+2018,access_to_car,windham_county,Education,High school or less,0.78
+2018,access_to_car,windham_county,Education,Some college or Associate's,0.9
+2018,access_to_car,windham_county,Income,$75K+,0.99
+2018,access_to_car,windham_county,Income,<$30K,0.74
+2018,access_to_car,windham_county,Income,$30K-$75K,0.91
+2018,access_to_car,windham_county,With children,No children,0.88
+2018,access_to_car,windham_county,With children,Children in household,0.91

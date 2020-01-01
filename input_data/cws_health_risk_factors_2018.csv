@@ -1,0 +1,1523 @@
+indicator,year,proper_name,name,category,group,response,value
+self_rated_health,2018,5ct,5ct,Wealthy,Wealthy,excellent_or_v_good,0.76
+self_rated_health,2018,5ct,5ct,Suburban,Suburban,excellent_or_v_good,0.65
+self_rated_health,2018,5ct,5ct,Rural,Rural,excellent_or_v_good,0.59
+self_rated_health,2018,5ct,5ct,Urban Periphery,Urban Periphery,excellent_or_v_good,0.57
+self_rated_health,2018,5ct,5ct,Urban Core,Urban Core,excellent_or_v_good,0.5
+self_rated_health,2018,Ansonia,ansonia,Total,Ansonia,excellent_or_v_good,0.53
+self_rated_health,2018,Bridgeport,bridgeport,Total,Bridgeport,excellent_or_v_good,0.44
+self_rated_health,2018,Bristol,bristol,Total,Bristol,excellent_or_v_good,0.6
+self_rated_health,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,excellent_or_v_good,0.63
+self_rated_health,2018,Chesprocott,chesprocott,Total,Chesprocott,excellent_or_v_good,0.66
+self_rated_health,2018,Connecticut,connecticut,Total,Connecticut,excellent_or_v_good,0.59
+self_rated_health,2018,Connecticut,connecticut,Gender,Male,excellent_or_v_good,0.61
+self_rated_health,2018,Connecticut,connecticut,Gender,Female,excellent_or_v_good,0.57
+self_rated_health,2018,Connecticut,connecticut,Age,Ages 18-34,excellent_or_v_good,0.62
+self_rated_health,2018,Connecticut,connecticut,Age,Ages 35-49,excellent_or_v_good,0.6
+self_rated_health,2018,Connecticut,connecticut,Age,Ages 50-64,excellent_or_v_good,0.59
+self_rated_health,2018,Connecticut,connecticut,Age,Ages 65+,excellent_or_v_good,0.53
+self_rated_health,2018,Connecticut,connecticut,Race/Ethnicity,White,excellent_or_v_good,0.6
+self_rated_health,2018,Connecticut,connecticut,Race/Ethnicity,Black,excellent_or_v_good,0.52
+self_rated_health,2018,Connecticut,connecticut,Race/Ethnicity,Latino,excellent_or_v_good,0.57
+self_rated_health,2018,Connecticut,connecticut,Education,High school or less,excellent_or_v_good,0.48
+self_rated_health,2018,Connecticut,connecticut,Education,Some college or Associate's,excellent_or_v_good,0.54
+self_rated_health,2018,Connecticut,connecticut,Education,Bachelor's or higher,excellent_or_v_good,0.68
+self_rated_health,2018,Connecticut,connecticut,Income,Under $30K,excellent_or_v_good,0.4
+self_rated_health,2018,Connecticut,connecticut,Income,$30K-$100K,excellent_or_v_good,0.58
+self_rated_health,2018,Connecticut,connecticut,Income,$100K+,excellent_or_v_good,0.74
+self_rated_health,2018,Connecticut,connecticut,With children,No children,excellent_or_v_good,0.57
+self_rated_health,2018,Connecticut,connecticut,With children,Children in household,excellent_or_v_good,0.64
+self_rated_health,2018,Danbury,danbury,Total,Danbury,excellent_or_v_good,0.65
+self_rated_health,2018,Darien,darien,Total,Darien,excellent_or_v_good,0.76
+self_rated_health,2018,Derby,derby,Total,Derby,excellent_or_v_good,0.56
+self_rated_health,2018,East Hartford,east_hartford,Total,East Hartford,excellent_or_v_good,0.56
+self_rated_health,2018,East Haven,east_haven,Total,East Haven,excellent_or_v_good,0.54
+self_rated_health,2018,Ehhd,ehhd,Total,Ehhd,excellent_or_v_good,0.64
+self_rated_health,2018,Fairfield,fairfield,Total,Fairfield,excellent_or_v_good,0.69
+self_rated_health,2018,Fairfield County,fairfield_county,Total,Fairfield County,excellent_or_v_good,0.63
+self_rated_health,2018,Fairfield County,fairfield_county,Gender,Male,excellent_or_v_good,0.63
+self_rated_health,2018,Fairfield County,fairfield_county,Gender,Female,excellent_or_v_good,0.65
+self_rated_health,2018,Fairfield County,fairfield_county,Age,Ages 18-34,excellent_or_v_good,0.65
+self_rated_health,2018,Fairfield County,fairfield_county,Age,Ages 35-49,excellent_or_v_good,0.66
+self_rated_health,2018,Fairfield County,fairfield_county,Age,Ages 50-64,excellent_or_v_good,0.64
+self_rated_health,2018,Fairfield County,fairfield_county,Age,Ages 65+,excellent_or_v_good,0.56
+self_rated_health,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,excellent_or_v_good,0.68
+self_rated_health,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,excellent_or_v_good,0.5
+self_rated_health,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,excellent_or_v_good,0.58
+self_rated_health,2018,Fairfield County,fairfield_county,Education,High school or less,excellent_or_v_good,0.49
+self_rated_health,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,excellent_or_v_good,0.58
+self_rated_health,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,excellent_or_v_good,0.7
+self_rated_health,2018,Fairfield County,fairfield_county,Income,Under $30K,excellent_or_v_good,0.41
+self_rated_health,2018,Fairfield County,fairfield_county,Income,$30K-$100K,excellent_or_v_good,0.62
+self_rated_health,2018,Fairfield County,fairfield_county,Income,$100K+,excellent_or_v_good,0.76
+self_rated_health,2018,Fairfield County,fairfield_county,With children,No children,excellent_or_v_good,0.6
+self_rated_health,2018,Fairfield County,fairfield_county,With children,Children in household,excellent_or_v_good,0.68
+self_rated_health,2018,Fcht,fcht,Total,Fcht,excellent_or_v_good,0.73
+self_rated_health,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,excellent_or_v_good,0.55
+self_rated_health,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,excellent_or_v_good,0.64
+self_rated_health,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,excellent_or_v_good,0.67
+self_rated_health,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,excellent_or_v_good,0.59
+self_rated_health,2018,Greater Hartford,greater_hartford,Gender,Male,excellent_or_v_good,0.62
+self_rated_health,2018,Greater Hartford,greater_hartford,Gender,Female,excellent_or_v_good,0.56
+self_rated_health,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,excellent_or_v_good,0.65
+self_rated_health,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,excellent_or_v_good,0.59
+self_rated_health,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,excellent_or_v_good,0.57
+self_rated_health,2018,Greater Hartford,greater_hartford,Age,Ages 65+,excellent_or_v_good,0.52
+self_rated_health,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,excellent_or_v_good,0.6
+self_rated_health,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,excellent_or_v_good,0.53
+self_rated_health,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,excellent_or_v_good,0.59
+self_rated_health,2018,Greater Hartford,greater_hartford,Education,High school or less,excellent_or_v_good,0.48
+self_rated_health,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,excellent_or_v_good,0.53
+self_rated_health,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,excellent_or_v_good,0.69
+self_rated_health,2018,Greater Hartford,greater_hartford,Income,Under $30K,excellent_or_v_good,0.42
+self_rated_health,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,excellent_or_v_good,0.6
+self_rated_health,2018,Greater Hartford,greater_hartford,Income,$100K+,excellent_or_v_good,0.72
+self_rated_health,2018,Greater Hartford,greater_hartford,With children,No children,excellent_or_v_good,0.57
+self_rated_health,2018,Greater Hartford,greater_hartford,With children,Children in household,excellent_or_v_good,0.63
+self_rated_health,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,excellent_or_v_good,0.58
+self_rated_health,2018,Greater New Haven,greater_new_haven,Gender,Male,excellent_or_v_good,0.6
+self_rated_health,2018,Greater New Haven,greater_new_haven,Gender,Female,excellent_or_v_good,0.57
+self_rated_health,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,excellent_or_v_good,0.62
+self_rated_health,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,excellent_or_v_good,0.58
+self_rated_health,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,excellent_or_v_good,0.61
+self_rated_health,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,excellent_or_v_good,0.5
+self_rated_health,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,excellent_or_v_good,0.61
+self_rated_health,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,excellent_or_v_good,0.51
+self_rated_health,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,excellent_or_v_good,0.51
+self_rated_health,2018,Greater New Haven,greater_new_haven,Education,High school or less,excellent_or_v_good,0.47
+self_rated_health,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,excellent_or_v_good,0.54
+self_rated_health,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,excellent_or_v_good,0.67
+self_rated_health,2018,Greater New Haven,greater_new_haven,Income,Under $30K,excellent_or_v_good,0.42
+self_rated_health,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,excellent_or_v_good,0.58
+self_rated_health,2018,Greater New Haven,greater_new_haven,Income,$100K+,excellent_or_v_good,0.73
+self_rated_health,2018,Greater New Haven,greater_new_haven,With children,No children,excellent_or_v_good,0.57
+self_rated_health,2018,Greater New Haven,greater_new_haven,With children,Children in household,excellent_or_v_good,0.63
+self_rated_health,2018,Greater New London,greater_new_london,Total,Greater New London,excellent_or_v_good,0.57
+self_rated_health,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,excellent_or_v_good,0.57
+self_rated_health,2018,Greenwich,greenwich,Total,Greenwich,excellent_or_v_good,0.74
+self_rated_health,2018,Groton,groton,Total,Groton,excellent_or_v_good,0.55
+self_rated_health,2018,Hamden,hamden,Total,Hamden,excellent_or_v_good,0.56
+self_rated_health,2018,Hartford,hartford,Total,Hartford,excellent_or_v_good,0.52
+self_rated_health,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,excellent_or_v_good,0.53
+self_rated_health,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,excellent_or_v_good,0.67
+self_rated_health,2018,Litchfield County,litchfield_county,Total,Litchfield County,excellent_or_v_good,0.62
+self_rated_health,2018,Manchester,manchester,Total,Manchester,excellent_or_v_good,0.6
+self_rated_health,2018,Meriden,meriden,Total,Meriden,excellent_or_v_good,0.52
+self_rated_health,2018,Middlesex County,middlesex_county,Total,Middlesex County,excellent_or_v_good,0.58
+self_rated_health,2018,Middletown,middletown,Total,Middletown,excellent_or_v_good,0.53
+self_rated_health,2018,Milford,milford,Total,Milford,excellent_or_v_good,0.67
+self_rated_health,2018,Monroe,monroe,Total,Monroe,excellent_or_v_good,0.69
+self_rated_health,2018,Naugatuck,naugatuck,Total,Naugatuck,excellent_or_v_good,0.57
+self_rated_health,2018,Ncdhd,ncdhd,Total,Ncdhd,excellent_or_v_good,0.48
+self_rated_health,2018,Nddh,nddh,Total,Nddh,excellent_or_v_good,0.54
+self_rated_health,2018,New Britain,new_britain,Total,New Britain,excellent_or_v_good,0.51
+self_rated_health,2018,New Haven,new_haven,Total,New Haven,excellent_or_v_good,0.55
+self_rated_health,2018,New Haven County,new_haven_county,Total,New Haven County,excellent_or_v_good,0.57
+self_rated_health,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,excellent_or_v_good,0.52
+self_rated_health,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,excellent_or_v_good,0.67
+self_rated_health,2018,New London,new_london,Total,New London,excellent_or_v_good,0.51
+self_rated_health,2018,New London County,new_london_county,Total,New London County,excellent_or_v_good,0.56
+self_rated_health,2018,New Milford,new_milford,Total,New Milford,excellent_or_v_good,0.6
+self_rated_health,2018,Newtown,newtown,Total,Newtown,excellent_or_v_good,0.7
+self_rated_health,2018,Norwalk,norwalk,Total,Norwalk,excellent_or_v_good,0.62
+self_rated_health,2018,Norwich,norwich,Total,Norwich,excellent_or_v_good,0.5
+self_rated_health,2018,Nyborder,nyborder,Total,Nyborder,excellent_or_v_good,0.58
+self_rated_health,2018,Oxford,oxford,Total,Oxford,excellent_or_v_good,0.56
+self_rated_health,2018,Pomperaug,pomperaug,Total,Pomperaug,excellent_or_v_good,0.6
+self_rated_health,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,excellent_or_v_good,0.54
+self_rated_health,2018,Seymour,seymour,Total,Seymour,excellent_or_v_good,0.63
+self_rated_health,2018,Shelton,shelton,Total,Shelton,excellent_or_v_good,0.65
+self_rated_health,2018,Stamford,stamford,Total,Stamford,excellent_or_v_good,0.67
+self_rated_health,2018,Stratford,stratford,Total,Stratford,excellent_or_v_good,0.51
+self_rated_health,2018,Tolland County,tolland_county,Total,Tolland County,excellent_or_v_good,0.61
+self_rated_health,2018,Trumbull,trumbull,Total,Trumbull,excellent_or_v_good,0.57
+self_rated_health,2018,Valley,valley,Total,Valley,excellent_or_v_good,0.6
+self_rated_health,2018,Valley,valley,Gender,Male,excellent_or_v_good,0.61
+self_rated_health,2018,Valley,valley,Gender,Female,excellent_or_v_good,0.57
+self_rated_health,2018,Valley,valley,Age,Ages 18-34,excellent_or_v_good,0.67
+self_rated_health,2018,Valley,valley,Age,Ages 35-49,excellent_or_v_good,0.62
+self_rated_health,2018,Valley,valley,Age,Ages 50-64,excellent_or_v_good,0.56
+self_rated_health,2018,Valley,valley,Age,Ages 65+,excellent_or_v_good,0.5
+self_rated_health,2018,Valley,valley,Race/Ethnicity,White,excellent_or_v_good,0.58
+self_rated_health,2018,Valley,valley,Race/Ethnicity,Not white,excellent_or_v_good,0.62
+self_rated_health,2018,Valley,valley,Education,High school or less,excellent_or_v_good,0.53
+self_rated_health,2018,Valley,valley,Education,Some college or Associate's,excellent_or_v_good,0.57
+self_rated_health,2018,Valley,valley,Education,Bachelor's or higher,excellent_or_v_good,0.64
+self_rated_health,2018,Valley,valley,Income,Under $30K,excellent_or_v_good,0.47
+self_rated_health,2018,Valley,valley,Income,$30K-$75K,excellent_or_v_good,0.57
+self_rated_health,2018,Valley,valley,Income,$75K+,excellent_or_v_good,0.67
+self_rated_health,2018,Valley,valley,With children,No children,excellent_or_v_good,0.56
+self_rated_health,2018,Valley,valley,With children,Children in household,excellent_or_v_good,0.65
+self_rated_health,2018,Wallingford,wallingford,Total,Wallingford,excellent_or_v_good,0.58
+self_rated_health,2018,Waterbury,waterbury,Total,Waterbury,excellent_or_v_good,0.49
+self_rated_health,2018,West Hartford,west_hartford,Total,West Hartford,excellent_or_v_good,0.76
+self_rated_health,2018,West Haven,west_haven,Total,West Haven,excellent_or_v_good,0.45
+self_rated_health,2018,Windham,windham,Total,Windham,excellent_or_v_good,0.47
+self_rated_health,2018,Windham County,windham_county,Total,Windham County,excellent_or_v_good,0.54
+anxiety,2018,5ct,5ct,Wealthy,Wealthy,mostly_completely,0.12
+anxiety,2018,5ct,5ct,Suburban,Suburban,mostly_completely,0.1
+anxiety,2018,5ct,5ct,Rural,Rural,mostly_completely,0.11
+anxiety,2018,5ct,5ct,Urban Periphery,Urban Periphery,mostly_completely,0.12
+anxiety,2018,5ct,5ct,Urban Core,Urban Core,mostly_completely,0.16
+anxiety,2018,Ansonia,ansonia,Total,Ansonia,mostly_completely,0.17
+anxiety,2018,Bridgeport,bridgeport,Total,Bridgeport,mostly_completely,0.17
+anxiety,2018,Bristol,bristol,Total,Bristol,mostly_completely,0.11
+anxiety,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,mostly_completely,0.12
+anxiety,2018,Chesprocott,chesprocott,Total,Chesprocott,mostly_completely,0.12
+anxiety,2018,Connecticut,connecticut,Total,Connecticut,mostly_completely,0.12
+anxiety,2018,Connecticut,connecticut,Gender,Male,mostly_completely,0.12
+anxiety,2018,Connecticut,connecticut,Gender,Female,mostly_completely,0.13
+anxiety,2018,Connecticut,connecticut,Age,Ages 18-34,mostly_completely,0.18
+anxiety,2018,Connecticut,connecticut,Age,Ages 35-49,mostly_completely,0.11
+anxiety,2018,Connecticut,connecticut,Age,Ages 50-64,mostly_completely,0.09
+anxiety,2018,Connecticut,connecticut,Age,Ages 65+,mostly_completely,0.1
+anxiety,2018,Connecticut,connecticut,Race/Ethnicity,White,mostly_completely,0.11
+anxiety,2018,Connecticut,connecticut,Race/Ethnicity,Black,mostly_completely,0.13
+anxiety,2018,Connecticut,connecticut,Race/Ethnicity,Latino,mostly_completely,0.2
+anxiety,2018,Connecticut,connecticut,Education,High school or less,mostly_completely,0.17
+anxiety,2018,Connecticut,connecticut,Education,Some college or Associate's,mostly_completely,0.14
+anxiety,2018,Connecticut,connecticut,Education,Bachelor's or higher,mostly_completely,0.09
+anxiety,2018,Connecticut,connecticut,Income,Under $30K,mostly_completely,0.21
+anxiety,2018,Connecticut,connecticut,Income,$30K-$100K,mostly_completely,0.12
+anxiety,2018,Connecticut,connecticut,Income,$100K+,mostly_completely,0.08
+anxiety,2018,Connecticut,connecticut,With children,No children,mostly_completely,0.12
+anxiety,2018,Connecticut,connecticut,With children,Children in household,mostly_completely,0.13
+anxiety,2018,Danbury,danbury,Total,Danbury,mostly_completely,0.12
+anxiety,2018,Darien,darien,Total,Darien,mostly_completely,0.1
+anxiety,2018,Derby,derby,Total,Derby,mostly_completely,0.08
+anxiety,2018,East Hartford,east_hartford,Total,East Hartford,mostly_completely,0.14
+anxiety,2018,East Haven,east_haven,Total,East Haven,mostly_completely,0.11
+anxiety,2018,Ehhd,ehhd,Total,Ehhd,mostly_completely,0.13
+anxiety,2018,Fairfield,fairfield,Total,Fairfield,mostly_completely,0.05
+anxiety,2018,Fairfield County,fairfield_county,Total,Fairfield County,mostly_completely,0.12
+anxiety,2018,Fairfield County,fairfield_county,Gender,Male,mostly_completely,0.12
+anxiety,2018,Fairfield County,fairfield_county,Gender,Female,mostly_completely,0.11
+anxiety,2018,Fairfield County,fairfield_county,Age,Ages 18-34,mostly_completely,0.16
+anxiety,2018,Fairfield County,fairfield_county,Age,Ages 35-49,mostly_completely,0.13
+anxiety,2018,Fairfield County,fairfield_county,Age,Ages 50-64,mostly_completely,0.11
+anxiety,2018,Fairfield County,fairfield_county,Age,Ages 65+,mostly_completely,0.12
+anxiety,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,mostly_completely,0.11
+anxiety,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,mostly_completely,0.15
+anxiety,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,mostly_completely,0.21
+anxiety,2018,Fairfield County,fairfield_county,Education,High school or less,mostly_completely,0.19
+anxiety,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,mostly_completely,0.14
+anxiety,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,mostly_completely,0.09
+anxiety,2018,Fairfield County,fairfield_county,Income,Under $30K,mostly_completely,0.21
+anxiety,2018,Fairfield County,fairfield_county,Income,$30K-$100K,mostly_completely,0.12
+anxiety,2018,Fairfield County,fairfield_county,Income,$100K+,mostly_completely,0.09
+anxiety,2018,Fairfield County,fairfield_county,With children,No children,mostly_completely,0.12
+anxiety,2018,Fairfield County,fairfield_county,With children,Children in household,mostly_completely,0.11
+anxiety,2018,Fcht,fcht,Total,Fcht,mostly_completely,0.07
+anxiety,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,mostly_completely,0.14
+anxiety,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,mostly_completely,0.11
+anxiety,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,mostly_completely,0.11
+anxiety,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,mostly_completely,0.13
+anxiety,2018,Greater Hartford,greater_hartford,Gender,Male,mostly_completely,0.12
+anxiety,2018,Greater Hartford,greater_hartford,Gender,Female,mostly_completely,0.13
+anxiety,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,mostly_completely,0.19
+anxiety,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,mostly_completely,0.09
+anxiety,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,mostly_completely,0.09
+anxiety,2018,Greater Hartford,greater_hartford,Age,Ages 65+,mostly_completely,0.1
+anxiety,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,mostly_completely,0.11
+anxiety,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,mostly_completely,0.14
+anxiety,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,mostly_completely,0.22
+anxiety,2018,Greater Hartford,greater_hartford,Education,High school or less,mostly_completely,0.17
+anxiety,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,mostly_completely,0.14
+anxiety,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,mostly_completely,0.09
+anxiety,2018,Greater Hartford,greater_hartford,Income,Under $30K,mostly_completely,0.22
+anxiety,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,mostly_completely,0.12
+anxiety,2018,Greater Hartford,greater_hartford,Income,$100K+,mostly_completely,0.08
+anxiety,2018,Greater Hartford,greater_hartford,With children,No children,mostly_completely,0.12
+anxiety,2018,Greater Hartford,greater_hartford,With children,Children in household,mostly_completely,0.13
+anxiety,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,mostly_completely,0.14
+anxiety,2018,Greater New Haven,greater_new_haven,Gender,Male,mostly_completely,0.14
+anxiety,2018,Greater New Haven,greater_new_haven,Gender,Female,mostly_completely,0.13
+anxiety,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,mostly_completely,0.19
+anxiety,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,mostly_completely,0.16
+anxiety,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,mostly_completely,0.1
+anxiety,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,mostly_completely,0.08
+anxiety,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,mostly_completely,0.13
+anxiety,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,mostly_completely,0.13
+anxiety,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,mostly_completely,0.21
+anxiety,2018,Greater New Haven,greater_new_haven,Education,High school or less,mostly_completely,0.18
+anxiety,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,mostly_completely,0.17
+anxiety,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,mostly_completely,0.1
+anxiety,2018,Greater New Haven,greater_new_haven,Income,Under $30K,mostly_completely,0.21
+anxiety,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,mostly_completely,0.13
+anxiety,2018,Greater New Haven,greater_new_haven,Income,$100K+,mostly_completely,0.11
+anxiety,2018,Greater New Haven,greater_new_haven,With children,No children,mostly_completely,0.13
+anxiety,2018,Greater New Haven,greater_new_haven,With children,Children in household,mostly_completely,0.15
+anxiety,2018,Greater New London,greater_new_london,Total,Greater New London,mostly_completely,0.12
+anxiety,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,mostly_completely,0.13
+anxiety,2018,Greenwich,greenwich,Total,Greenwich,mostly_completely,0.1
+anxiety,2018,Groton,groton,Total,Groton,mostly_completely,0.16
+anxiety,2018,Hamden,hamden,Total,Hamden,mostly_completely,0.14
+anxiety,2018,Hartford,hartford,Total,Hartford,mostly_completely,0.15
+anxiety,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,mostly_completely,0.15
+anxiety,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,mostly_completely,0.09
+anxiety,2018,Litchfield County,litchfield_county,Total,Litchfield County,mostly_completely,0.1
+anxiety,2018,Manchester,manchester,Total,Manchester,mostly_completely,0.21
+anxiety,2018,Meriden,meriden,Total,Meriden,mostly_completely,0.14
+anxiety,2018,Middlesex County,middlesex_county,Total,Middlesex County,mostly_completely,0.09
+anxiety,2018,Middletown,middletown,Total,Middletown,mostly_completely,0.09
+anxiety,2018,Milford,milford,Total,Milford,mostly_completely,0.1
+anxiety,2018,Monroe,monroe,Total,Monroe,mostly_completely,0.11
+anxiety,2018,Naugatuck,naugatuck,Total,Naugatuck,mostly_completely,0.12
+anxiety,2018,Ncdhd,ncdhd,Total,Ncdhd,mostly_completely,0.19
+anxiety,2018,Nddh,nddh,Total,Nddh,mostly_completely,0.11
+anxiety,2018,New Britain,new_britain,Total,New Britain,mostly_completely,0.14
+anxiety,2018,New Haven,new_haven,Total,New Haven,mostly_completely,0.15
+anxiety,2018,New Haven County,new_haven_county,Total,New Haven County,mostly_completely,0.13
+anxiety,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,mostly_completely,0.15
+anxiety,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,mostly_completely,0.12
+anxiety,2018,New London,new_london,Total,New London,mostly_completely,0.24
+anxiety,2018,New London County,new_london_county,Total,New London County,mostly_completely,0.12
+anxiety,2018,New Milford,new_milford,Total,New Milford,mostly_completely,0.14
+anxiety,2018,Newtown,newtown,Total,Newtown,mostly_completely,0.12
+anxiety,2018,Norwalk,norwalk,Total,Norwalk,mostly_completely,0.13
+anxiety,2018,Norwich,norwich,Total,Norwich,mostly_completely,0.13
+anxiety,2018,Nyborder,nyborder,Total,Nyborder,mostly_completely,0.13
+anxiety,2018,Oxford,oxford,Total,Oxford,mostly_completely,0.08
+anxiety,2018,Pomperaug,pomperaug,Total,Pomperaug,mostly_completely,0.14
+anxiety,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,mostly_completely,0.14
+anxiety,2018,Seymour,seymour,Total,Seymour,mostly_completely,0.07
+anxiety,2018,Shelton,shelton,Total,Shelton,mostly_completely,0.09
+anxiety,2018,Stamford,stamford,Total,Stamford,mostly_completely,0.1
+anxiety,2018,Stratford,stratford,Total,Stratford,mostly_completely,0.16
+anxiety,2018,Tolland County,tolland_county,Total,Tolland County,mostly_completely,0.14
+anxiety,2018,Trumbull,trumbull,Total,Trumbull,mostly_completely,0.07
+anxiety,2018,Valley,valley,Total,Valley,mostly_completely,0.1
+anxiety,2018,Valley,valley,Gender,Male,mostly_completely,0.1
+anxiety,2018,Valley,valley,Gender,Female,mostly_completely,0.1
+anxiety,2018,Valley,valley,Age,Ages 18-34,mostly_completely,0.16
+anxiety,2018,Valley,valley,Age,Ages 35-49,mostly_completely,0.09
+anxiety,2018,Valley,valley,Age,Ages 50-64,mostly_completely,0.06
+anxiety,2018,Valley,valley,Age,Ages 65+,mostly_completely,0.1
+anxiety,2018,Valley,valley,Race/Ethnicity,White,mostly_completely,0.11
+anxiety,2018,Valley,valley,Race/Ethnicity,Not white,mostly_completely,0.07
+anxiety,2018,Valley,valley,Education,High school or less,mostly_completely,0.13
+anxiety,2018,Valley,valley,Education,Some college or Associate's,mostly_completely,0.12
+anxiety,2018,Valley,valley,Education,Bachelor's or higher,mostly_completely,0.06
+anxiety,2018,Valley,valley,Income,Under $30K,mostly_completely,0.13
+anxiety,2018,Valley,valley,Income,$30K-$75K,mostly_completely,0.13
+anxiety,2018,Valley,valley,Income,$75K+,mostly_completely,0.06
+anxiety,2018,Valley,valley,With children,No children,mostly_completely,0.1
+anxiety,2018,Valley,valley,With children,Children in household,mostly_completely,0.1
+anxiety,2018,Wallingford,wallingford,Total,Wallingford,mostly_completely,0.12
+anxiety,2018,Waterbury,waterbury,Total,Waterbury,mostly_completely,0.17
+anxiety,2018,West Hartford,west_hartford,Total,West Hartford,mostly_completely,0.08
+anxiety,2018,West Haven,west_haven,Total,West Haven,mostly_completely,0.17
+anxiety,2018,Windham,windham,Total,Windham,mostly_completely,0.17
+anxiety,2018,Windham County,windham_county,Total,Windham County,mostly_completely,0.12
+diabetes,2018,5ct,5ct,Wealthy,Wealthy,has_diabetes,0.05
+diabetes,2018,5ct,5ct,Suburban,Suburban,has_diabetes,0.08
+diabetes,2018,5ct,5ct,Rural,Rural,has_diabetes,0.1
+diabetes,2018,5ct,5ct,Urban Periphery,Urban Periphery,has_diabetes,0.11
+diabetes,2018,5ct,5ct,Urban Core,Urban Core,has_diabetes,0.12
+diabetes,2018,Ansonia,ansonia,Total,Ansonia,has_diabetes,0.15
+diabetes,2018,Bridgeport,bridgeport,Total,Bridgeport,has_diabetes,0.13
+diabetes,2018,Bristol,bristol,Total,Bristol,has_diabetes,0.13
+diabetes,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,has_diabetes,0.13
+diabetes,2018,Chesprocott,chesprocott,Total,Chesprocott,has_diabetes,0.07
+diabetes,2018,Connecticut,connecticut,Total,Connecticut,has_diabetes,0.1
+diabetes,2018,Connecticut,connecticut,Gender,Male,has_diabetes,0.11
+diabetes,2018,Connecticut,connecticut,Gender,Female,has_diabetes,0.09
+diabetes,2018,Connecticut,connecticut,Age,Ages 18-34,has_diabetes,0.03
+diabetes,2018,Connecticut,connecticut,Age,Ages 35-49,has_diabetes,0.06
+diabetes,2018,Connecticut,connecticut,Age,Ages 50-64,has_diabetes,0.12
+diabetes,2018,Connecticut,connecticut,Age,Ages 65+,has_diabetes,0.21
+diabetes,2018,Connecticut,connecticut,Race/Ethnicity,White,has_diabetes,0.09
+diabetes,2018,Connecticut,connecticut,Race/Ethnicity,Black,has_diabetes,0.14
+diabetes,2018,Connecticut,connecticut,Race/Ethnicity,Latino,has_diabetes,0.09
+diabetes,2018,Connecticut,connecticut,Education,High school or less,has_diabetes,0.14
+diabetes,2018,Connecticut,connecticut,Education,Some college or Associate's,has_diabetes,0.1
+diabetes,2018,Connecticut,connecticut,Education,Bachelor's or higher,has_diabetes,0.07
+diabetes,2018,Connecticut,connecticut,Income,Under $30K,has_diabetes,0.16
+diabetes,2018,Connecticut,connecticut,Income,$30K-$100K,has_diabetes,0.1
+diabetes,2018,Connecticut,connecticut,Income,$100K+,has_diabetes,0.05
+diabetes,2018,Connecticut,connecticut,With children,No children,has_diabetes,0.12
+diabetes,2018,Connecticut,connecticut,With children,Children in household,has_diabetes,0.06
+diabetes,2018,Danbury,danbury,Total,Danbury,has_diabetes,0.07
+diabetes,2018,Darien,darien,Total,Darien,has_diabetes,0.03
+diabetes,2018,Derby,derby,Total,Derby,has_diabetes,0.08
+diabetes,2018,East Hartford,east_hartford,Total,East Hartford,has_diabetes,0.2
+diabetes,2018,East Haven,east_haven,Total,East Haven,has_diabetes,0.13
+diabetes,2018,Ehhd,ehhd,Total,Ehhd,has_diabetes,0.08
+diabetes,2018,Fairfield,fairfield,Total,Fairfield,has_diabetes,0.06
+diabetes,2018,Fairfield County,fairfield_county,Total,Fairfield County,has_diabetes,0.09
+diabetes,2018,Fairfield County,fairfield_county,Gender,Male,has_diabetes,0.1
+diabetes,2018,Fairfield County,fairfield_county,Gender,Female,has_diabetes,0.07
+diabetes,2018,Fairfield County,fairfield_county,Age,Ages 18-34,has_diabetes,0.03
+diabetes,2018,Fairfield County,fairfield_county,Age,Ages 35-49,has_diabetes,0.04
+diabetes,2018,Fairfield County,fairfield_county,Age,Ages 50-64,has_diabetes,0.11
+diabetes,2018,Fairfield County,fairfield_county,Age,Ages 65+,has_diabetes,0.18
+diabetes,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,has_diabetes,0.08
+diabetes,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,has_diabetes,0.12
+diabetes,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,has_diabetes,0.1
+diabetes,2018,Fairfield County,fairfield_county,Education,High school or less,has_diabetes,0.14
+diabetes,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,has_diabetes,0.09
+diabetes,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,has_diabetes,0.06
+diabetes,2018,Fairfield County,fairfield_county,Income,Under $30K,has_diabetes,0.16
+diabetes,2018,Fairfield County,fairfield_county,Income,$30K-$100K,has_diabetes,0.09
+diabetes,2018,Fairfield County,fairfield_county,Income,$100K+,has_diabetes,0.05
+diabetes,2018,Fairfield County,fairfield_county,With children,No children,has_diabetes,0.1
+diabetes,2018,Fairfield County,fairfield_county,With children,Children in household,has_diabetes,0.06
+diabetes,2018,Fcht,fcht,Total,Fcht,has_diabetes,0.07
+diabetes,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,has_diabetes,0.11
+diabetes,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,has_diabetes,0.08
+diabetes,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,has_diabetes,0.08
+diabetes,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,has_diabetes,0.11
+diabetes,2018,Greater Hartford,greater_hartford,Gender,Male,has_diabetes,0.12
+diabetes,2018,Greater Hartford,greater_hartford,Gender,Female,has_diabetes,0.1
+diabetes,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,has_diabetes,0.04
+diabetes,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,has_diabetes,0.07
+diabetes,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,has_diabetes,0.13
+diabetes,2018,Greater Hartford,greater_hartford,Age,Ages 65+,has_diabetes,0.23
+diabetes,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,has_diabetes,0.1
+diabetes,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,has_diabetes,0.15
+diabetes,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,has_diabetes,0.08
+diabetes,2018,Greater Hartford,greater_hartford,Education,High school or less,has_diabetes,0.16
+diabetes,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,has_diabetes,0.12
+diabetes,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,has_diabetes,0.08
+diabetes,2018,Greater Hartford,greater_hartford,Income,Under $30K,has_diabetes,0.18
+diabetes,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,has_diabetes,0.11
+diabetes,2018,Greater Hartford,greater_hartford,Income,$100K+,has_diabetes,0.05
+diabetes,2018,Greater Hartford,greater_hartford,With children,No children,has_diabetes,0.13
+diabetes,2018,Greater Hartford,greater_hartford,With children,Children in household,has_diabetes,0.06
+diabetes,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,has_diabetes,0.09
+diabetes,2018,Greater New Haven,greater_new_haven,Gender,Male,has_diabetes,0.1
+diabetes,2018,Greater New Haven,greater_new_haven,Gender,Female,has_diabetes,0.09
+diabetes,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,has_diabetes,0.02
+diabetes,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,has_diabetes,0.05
+diabetes,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,has_diabetes,0.11
+diabetes,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,has_diabetes,0.23
+diabetes,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,has_diabetes,0.09
+diabetes,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,has_diabetes,0.13
+diabetes,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,has_diabetes,0.11
+diabetes,2018,Greater New Haven,greater_new_haven,Education,High school or less,has_diabetes,0.13
+diabetes,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,has_diabetes,0.1
+diabetes,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,has_diabetes,0.08
+diabetes,2018,Greater New Haven,greater_new_haven,Income,Under $30K,has_diabetes,0.16
+diabetes,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,has_diabetes,0.08
+diabetes,2018,Greater New Haven,greater_new_haven,Income,$100K+,has_diabetes,0.04
+diabetes,2018,Greater New Haven,greater_new_haven,With children,No children,has_diabetes,0.12
+diabetes,2018,Greater New Haven,greater_new_haven,With children,Children in household,has_diabetes,0.04
+diabetes,2018,Greater New London,greater_new_london,Total,Greater New London,has_diabetes,0.11
+diabetes,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,has_diabetes,0.1
+diabetes,2018,Greenwich,greenwich,Total,Greenwich,has_diabetes,0.06
+diabetes,2018,Groton,groton,Total,Groton,has_diabetes,0.1
+diabetes,2018,Hamden,hamden,Total,Hamden,has_diabetes,0.1
+diabetes,2018,Hartford,hartford,Total,Hartford,has_diabetes,0.13
+diabetes,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,has_diabetes,0.13
+diabetes,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,has_diabetes,0.08
+diabetes,2018,Litchfield County,litchfield_county,Total,Litchfield County,has_diabetes,0.07
+diabetes,2018,Manchester,manchester,Total,Manchester,has_diabetes,0.08
+diabetes,2018,Meriden,meriden,Total,Meriden,has_diabetes,0.13
+diabetes,2018,Middlesex County,middlesex_county,Total,Middlesex County,has_diabetes,0.07
+diabetes,2018,Middletown,middletown,Total,Middletown,has_diabetes,0.09
+diabetes,2018,Milford,milford,Total,Milford,has_diabetes,0.1
+diabetes,2018,Monroe,monroe,Total,Monroe,has_diabetes,0.1
+diabetes,2018,Naugatuck,naugatuck,Total,Naugatuck,has_diabetes,0.11
+diabetes,2018,Ncdhd,ncdhd,Total,Ncdhd,has_diabetes,0.09
+diabetes,2018,Nddh,nddh,Total,Nddh,has_diabetes,0.15
+diabetes,2018,New Britain,new_britain,Total,New Britain,has_diabetes,0.11
+diabetes,2018,New Haven,new_haven,Total,New Haven,has_diabetes,0.1
+diabetes,2018,New Haven County,new_haven_county,Total,New Haven County,has_diabetes,0.1
+diabetes,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,has_diabetes,0.11
+diabetes,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,has_diabetes,0.09
+diabetes,2018,New London,new_london,Total,New London,has_diabetes,0.12
+diabetes,2018,New London County,new_london_county,Total,New London County,has_diabetes,0.12
+diabetes,2018,New Milford,new_milford,Total,New Milford,has_diabetes,0.08
+diabetes,2018,Newtown,newtown,Total,Newtown,has_diabetes,0.07
+diabetes,2018,Norwalk,norwalk,Total,Norwalk,has_diabetes,0.09
+diabetes,2018,Norwich,norwich,Total,Norwich,has_diabetes,0.17
+diabetes,2018,Nyborder,nyborder,Total,Nyborder,has_diabetes,0.11
+diabetes,2018,Oxford,oxford,Total,Oxford,has_diabetes,0.07
+diabetes,2018,Pomperaug,pomperaug,Total,Pomperaug,has_diabetes,0.12
+diabetes,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,has_diabetes,0.11
+diabetes,2018,Seymour,seymour,Total,Seymour,has_diabetes,0.07
+diabetes,2018,Shelton,shelton,Total,Shelton,has_diabetes,0.1
+diabetes,2018,Stamford,stamford,Total,Stamford,has_diabetes,0.09
+diabetes,2018,Stratford,stratford,Total,Stratford,has_diabetes,0.14
+diabetes,2018,Tolland County,tolland_county,Total,Tolland County,has_diabetes,0.08
+diabetes,2018,Trumbull,trumbull,Total,Trumbull,has_diabetes,0.1
+diabetes,2018,Valley,valley,Total,Valley,has_diabetes,0.1
+diabetes,2018,Valley,valley,Gender,Male,has_diabetes,0.12
+diabetes,2018,Valley,valley,Gender,Female,has_diabetes,0.08
+diabetes,2018,Valley,valley,Age,Ages 18-34,has_diabetes,0.01
+diabetes,2018,Valley,valley,Age,Ages 35-49,has_diabetes,0.04
+diabetes,2018,Valley,valley,Age,Ages 50-64,has_diabetes,0.17
+diabetes,2018,Valley,valley,Age,Ages 65+,has_diabetes,0.17
+diabetes,2018,Valley,valley,Race/Ethnicity,White,has_diabetes,0.1
+diabetes,2018,Valley,valley,Race/Ethnicity,Not white,has_diabetes,0.09
+diabetes,2018,Valley,valley,Education,High school or less,has_diabetes,0.11
+diabetes,2018,Valley,valley,Education,Some college or Associate's,has_diabetes,0.11
+diabetes,2018,Valley,valley,Education,Bachelor's or higher,has_diabetes,0.08
+diabetes,2018,Valley,valley,Income,Under $30K,has_diabetes,0.14
+diabetes,2018,Valley,valley,Income,$30K-$75K,has_diabetes,0.09
+diabetes,2018,Valley,valley,Income,$75K+,has_diabetes,0.08
+diabetes,2018,Valley,valley,With children,No children,has_diabetes,0.12
+diabetes,2018,Valley,valley,With children,Children in household,has_diabetes,0.05
+diabetes,2018,Wallingford,wallingford,Total,Wallingford,has_diabetes,0.11
+diabetes,2018,Waterbury,waterbury,Total,Waterbury,has_diabetes,0.12
+diabetes,2018,West Hartford,west_hartford,Total,West Hartford,has_diabetes,0.06
+diabetes,2018,West Haven,west_haven,Total,West Haven,has_diabetes,0.14
+diabetes,2018,Windham,windham,Total,Windham,has_diabetes,0.13
+diabetes,2018,Windham County,windham_county,Total,Windham County,has_diabetes,0.14
+asthma,2018,5ct,5ct,Wealthy,Wealthy,asthma,0.05
+asthma,2018,5ct,5ct,Suburban,Suburban,asthma,0.08
+asthma,2018,5ct,5ct,Rural,Rural,asthma,0.12
+asthma,2018,5ct,5ct,Urban Periphery,Urban Periphery,asthma,0.1
+asthma,2018,5ct,5ct,Urban Core,Urban Core,asthma,0.15
+asthma,2018,Ansonia,ansonia,Total,Ansonia,asthma,0.13
+asthma,2018,Bridgeport,bridgeport,Total,Bridgeport,asthma,0.14
+asthma,2018,Bristol,bristol,Total,Bristol,asthma,0.11
+asthma,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,asthma,0.08
+asthma,2018,Chesprocott,chesprocott,Total,Chesprocott,asthma,0.11
+asthma,2018,Connecticut,connecticut,Total,Connecticut,asthma,0.11
+asthma,2018,Connecticut,connecticut,Gender,Male,asthma,0.07
+asthma,2018,Connecticut,connecticut,Gender,Female,asthma,0.13
+asthma,2018,Connecticut,connecticut,Age,Ages 18-34,asthma,0.13
+asthma,2018,Connecticut,connecticut,Age,Ages 35-49,asthma,0.12
+asthma,2018,Connecticut,connecticut,Age,Ages 50-64,asthma,0.09
+asthma,2018,Connecticut,connecticut,Age,Ages 65+,asthma,0.07
+asthma,2018,Connecticut,connecticut,Race/Ethnicity,White,asthma,0.1
+asthma,2018,Connecticut,connecticut,Race/Ethnicity,Black,asthma,0.11
+asthma,2018,Connecticut,connecticut,Race/Ethnicity,Latino,asthma,0.17
+asthma,2018,Connecticut,connecticut,Education,High school or less,asthma,0.12
+asthma,2018,Connecticut,connecticut,Education,Some college or Associate's,asthma,0.12
+asthma,2018,Connecticut,connecticut,Education,Bachelor's or higher,asthma,0.09
+asthma,2018,Connecticut,connecticut,Income,Under $30K,asthma,0.16
+asthma,2018,Connecticut,connecticut,Income,$30K-$100K,asthma,0.1
+asthma,2018,Connecticut,connecticut,Income,$100K+,asthma,0.08
+asthma,2018,Connecticut,connecticut,With children,No children,asthma,0.1
+asthma,2018,Connecticut,connecticut,With children,Children in household,asthma,0.12
+asthma,2018,Danbury,danbury,Total,Danbury,asthma,0.09
+asthma,2018,Darien,darien,Total,Darien,asthma,0.04
+asthma,2018,Derby,derby,Total,Derby,asthma,0.09
+asthma,2018,East Hartford,east_hartford,Total,East Hartford,asthma,0.11
+asthma,2018,East Haven,east_haven,Total,East Haven,asthma,0.09
+asthma,2018,Ehhd,ehhd,Total,Ehhd,asthma,0.08
+asthma,2018,Fairfield,fairfield,Total,Fairfield,asthma,0.09
+asthma,2018,Fairfield County,fairfield_county,Total,Fairfield County,asthma,0.09
+asthma,2018,Fairfield County,fairfield_county,Gender,Male,asthma,0.06
+asthma,2018,Fairfield County,fairfield_county,Gender,Female,asthma,0.11
+asthma,2018,Fairfield County,fairfield_county,Age,Ages 18-34,asthma,0.1
+asthma,2018,Fairfield County,fairfield_county,Age,Ages 35-49,asthma,0.08
+asthma,2018,Fairfield County,fairfield_county,Age,Ages 50-64,asthma,0.09
+asthma,2018,Fairfield County,fairfield_county,Age,Ages 65+,asthma,0.07
+asthma,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,asthma,0.08
+asthma,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,asthma,0.1
+asthma,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,asthma,0.14
+asthma,2018,Fairfield County,fairfield_county,Education,High school or less,asthma,0.1
+asthma,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,asthma,0.09
+asthma,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,asthma,0.07
+asthma,2018,Fairfield County,fairfield_county,Income,Under $30K,asthma,0.12
+asthma,2018,Fairfield County,fairfield_county,Income,$30K-$100K,asthma,0.08
+asthma,2018,Fairfield County,fairfield_county,Income,$100K+,asthma,0.07
+asthma,2018,Fairfield County,fairfield_county,With children,No children,asthma,0.09
+asthma,2018,Fairfield County,fairfield_county,With children,Children in household,asthma,0.09
+asthma,2018,Fcht,fcht,Total,Fcht,asthma,0.1
+asthma,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,asthma,0.12
+asthma,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,asthma,0.08
+asthma,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,asthma,0.06
+asthma,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,asthma,0.11
+asthma,2018,Greater Hartford,greater_hartford,Gender,Male,asthma,0.08
+asthma,2018,Greater Hartford,greater_hartford,Gender,Female,asthma,0.13
+asthma,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,asthma,0.15
+asthma,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,asthma,0.14
+asthma,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,asthma,0.07
+asthma,2018,Greater Hartford,greater_hartford,Age,Ages 65+,asthma,0.07
+asthma,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,asthma,0.1
+asthma,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,asthma,0.11
+asthma,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,asthma,0.19
+asthma,2018,Greater Hartford,greater_hartford,Education,High school or less,asthma,0.1
+asthma,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,asthma,0.12
+asthma,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,asthma,0.1
+asthma,2018,Greater Hartford,greater_hartford,Income,Under $30K,asthma,0.14
+asthma,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,asthma,0.11
+asthma,2018,Greater Hartford,greater_hartford,Income,$100K+,asthma,0.08
+asthma,2018,Greater Hartford,greater_hartford,With children,No children,asthma,0.1
+asthma,2018,Greater Hartford,greater_hartford,With children,Children in household,asthma,0.12
+asthma,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,asthma,0.11
+asthma,2018,Greater New Haven,greater_new_haven,Gender,Male,asthma,0.09
+asthma,2018,Greater New Haven,greater_new_haven,Gender,Female,asthma,0.13
+asthma,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,asthma,0.14
+asthma,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,asthma,0.12
+asthma,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,asthma,0.1
+asthma,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,asthma,0.08
+asthma,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,asthma,0.1
+asthma,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,asthma,0.13
+asthma,2018,Greater New Haven,greater_new_haven,Education,High school or less,asthma,0.13
+asthma,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,asthma,0.14
+asthma,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,asthma,0.08
+asthma,2018,Greater New Haven,greater_new_haven,With children,No children,asthma,0.1
+asthma,2018,Greater New Haven,greater_new_haven,With children,Children in household,asthma,0.13
+asthma,2018,Greater New London,greater_new_london,Total,Greater New London,asthma,0.12
+asthma,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,asthma,0.11
+asthma,2018,Groton,groton,Total,Groton,asthma,0.12
+asthma,2018,Hamden,hamden,Total,Hamden,asthma,0.11
+asthma,2018,Hartford,hartford,Total,Hartford,asthma,0.16
+asthma,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,asthma,0.1
+asthma,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,asthma,0.09
+asthma,2018,Litchfield County,litchfield_county,Total,Litchfield County,asthma,0.1
+asthma,2018,Manchester,manchester,Total,Manchester,asthma,0.12
+asthma,2018,Middlesex County,middlesex_county,Total,Middlesex County,asthma,0.09
+asthma,2018,Middletown,middletown,Total,Middletown,asthma,0.13
+asthma,2018,Milford,milford,Total,Milford,asthma,0.13
+asthma,2018,Monroe,monroe,Total,Monroe,asthma,0.15
+asthma,2018,Naugatuck,naugatuck,Total,Naugatuck,asthma,0.12
+asthma,2018,Ncdhd,ncdhd,Total,Ncdhd,asthma,0.13
+asthma,2018,Nddh,nddh,Total,Nddh,asthma,0.14
+asthma,2018,New Britain,new_britain,Total,New Britain,asthma,0.12
+asthma,2018,New Haven,new_haven,Total,New Haven,asthma,0.14
+asthma,2018,New Haven County,new_haven_county,Total,New Haven County,asthma,0.11
+asthma,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,asthma,0.1
+asthma,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,asthma,0.12
+asthma,2018,New London County,new_london_county,Total,New London County,asthma,0.11
+asthma,2018,New Milford,new_milford,Total,New Milford,asthma,0.09
+asthma,2018,Newtown,newtown,Total,Newtown,asthma,0.12
+asthma,2018,Norwalk,norwalk,Total,Norwalk,asthma,0.07
+asthma,2018,Norwich,norwich,Total,Norwich,asthma,0.16
+asthma,2018,Nyborder,nyborder,Total,Nyborder,asthma,0.07
+asthma,2018,Oxford,oxford,Total,Oxford,asthma,0.15
+asthma,2018,Pomperaug,pomperaug,Total,Pomperaug,asthma,0.08
+asthma,2018,Seymour,seymour,Total,Seymour,asthma,0.09
+asthma,2018,Shelton,shelton,Total,Shelton,asthma,0.08
+asthma,2018,Stamford,stamford,Total,Stamford,asthma,0.08
+asthma,2018,Stratford,stratford,Total,Stratford,asthma,0.11
+asthma,2018,Tolland County,tolland_county,Total,Tolland County,asthma,0.13
+asthma,2018,Trumbull,trumbull,Total,Trumbull,asthma,0.07
+asthma,2018,Valley,valley,Total,Valley,asthma,0.11
+asthma,2018,Wallingford,wallingford,Total,Wallingford,asthma,0.07
+asthma,2018,Waterbury,waterbury,Total,Waterbury,asthma,0.13
+asthma,2018,West Hartford,west_hartford,Total,West Hartford,asthma,0.07
+asthma,2018,West Haven,west_haven,Total,West Haven,asthma,0.12
+asthma,2018,Windham,windham,Total,Windham,asthma,0.2
+asthma,2018,Windham County,windham_county,Total,Windham County,asthma,0.15
+obesity,2018,5ct,5ct,Wealthy,Wealthy,obesity,0.17
+obesity,2018,5ct,5ct,Suburban,Suburban,obesity,0.25
+obesity,2018,5ct,5ct,Rural,Rural,obesity,0.29
+obesity,2018,5ct,5ct,Urban Periphery,Urban Periphery,obesity,0.3
+obesity,2018,5ct,5ct,Urban Core,Urban Core,obesity,0.37
+obesity,2018,Ansonia,ansonia,Total,Ansonia,obesity,0.31
+obesity,2018,Bridgeport,bridgeport,Total,Bridgeport,obesity,0.4
+obesity,2018,Bristol,bristol,Total,Bristol,obesity,0.34
+obesity,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,obesity,0.3
+obesity,2018,Chesprocott,chesprocott,Total,Chesprocott,obesity,0.32
+obesity,2018,Connecticut,connecticut,Total,Connecticut,obesity,0.29
+obesity,2018,Connecticut,connecticut,Gender,Male,obesity,0.29
+obesity,2018,Connecticut,connecticut,Gender,Female,obesity,0.29
+obesity,2018,Connecticut,connecticut,Age,Ages 18-34,obesity,0.25
+obesity,2018,Connecticut,connecticut,Age,Ages 35-49,obesity,0.32
+obesity,2018,Connecticut,connecticut,Age,Ages 50-64,obesity,0.32
+obesity,2018,Connecticut,connecticut,Age,Ages 65+,obesity,0.27
+obesity,2018,Connecticut,connecticut,Race/Ethnicity,White,obesity,0.28
+obesity,2018,Connecticut,connecticut,Race/Ethnicity,Black,obesity,0.35
+obesity,2018,Connecticut,connecticut,Race/Ethnicity,Latino,obesity,0.36
+obesity,2018,Connecticut,connecticut,Education,High school or less,obesity,0.34
+obesity,2018,Connecticut,connecticut,Education,Some college or Associate's,obesity,0.32
+obesity,2018,Connecticut,connecticut,Education,Bachelor's or higher,obesity,0.25
+obesity,2018,Connecticut,connecticut,Income,Under $30K,obesity,0.36
+obesity,2018,Connecticut,connecticut,Income,$30K-$100K,obesity,0.31
+obesity,2018,Connecticut,connecticut,Income,$100K+,obesity,0.24
+obesity,2018,Connecticut,connecticut,With children,No children,obesity,0.29
+obesity,2018,Connecticut,connecticut,With children,Children in household,obesity,0.3
+obesity,2018,Danbury,danbury,Total,Danbury,obesity,0.27
+obesity,2018,Darien,darien,Total,Darien,obesity,0.12
+obesity,2018,Derby,derby,Total,Derby,obesity,0.35
+obesity,2018,East Hartford,east_hartford,Total,East Hartford,obesity,0.35
+obesity,2018,East Haven,east_haven,Total,East Haven,obesity,0.34
+obesity,2018,Ehhd,ehhd,Total,Ehhd,obesity,0.21
+obesity,2018,Fairfield,fairfield,Total,Fairfield,obesity,0.26
+obesity,2018,Fairfield County,fairfield_county,Total,Fairfield County,obesity,0.27
+obesity,2018,Fairfield County,fairfield_county,Gender,Male,obesity,0.27
+obesity,2018,Fairfield County,fairfield_county,Gender,Female,obesity,0.26
+obesity,2018,Fairfield County,fairfield_county,Age,Ages 18-34,obesity,0.23
+obesity,2018,Fairfield County,fairfield_county,Age,Ages 35-49,obesity,0.31
+obesity,2018,Fairfield County,fairfield_county,Age,Ages 50-64,obesity,0.3
+obesity,2018,Fairfield County,fairfield_county,Age,Ages 65+,obesity,0.23
+obesity,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,obesity,0.24
+obesity,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,obesity,0.36
+obesity,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,obesity,0.35
+obesity,2018,Fairfield County,fairfield_county,Education,High school or less,obesity,0.34
+obesity,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,obesity,0.3
+obesity,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,obesity,0.22
+obesity,2018,Fairfield County,fairfield_county,Income,Under $30K,obesity,0.42
+obesity,2018,Fairfield County,fairfield_county,Income,$30K-$100K,obesity,0.29
+obesity,2018,Fairfield County,fairfield_county,Income,$100K+,obesity,0.2
+obesity,2018,Fairfield County,fairfield_county,With children,No children,obesity,0.26
+obesity,2018,Fairfield County,fairfield_county,With children,Children in household,obesity,0.27
+obesity,2018,Fcht,fcht,Total,Fcht,obesity,0.19
+obesity,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,obesity,0.33
+obesity,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,obesity,0.27
+obesity,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,obesity,0.2
+obesity,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,obesity,0.28
+obesity,2018,Greater Hartford,greater_hartford,Gender,Male,obesity,0.27
+obesity,2018,Greater Hartford,greater_hartford,Gender,Female,obesity,0.29
+obesity,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,obesity,0.23
+obesity,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,obesity,0.32
+obesity,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,obesity,0.3
+obesity,2018,Greater Hartford,greater_hartford,Age,Ages 65+,obesity,0.29
+obesity,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,obesity,0.27
+obesity,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,obesity,0.32
+obesity,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,obesity,0.32
+obesity,2018,Greater Hartford,greater_hartford,Education,High school or less,obesity,0.34
+obesity,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,obesity,0.32
+obesity,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,obesity,0.23
+obesity,2018,Greater Hartford,greater_hartford,Income,Under $30K,obesity,0.32
+obesity,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,obesity,0.29
+obesity,2018,Greater Hartford,greater_hartford,Income,$100K+,obesity,0.25
+obesity,2018,Greater Hartford,greater_hartford,With children,No children,obesity,0.28
+obesity,2018,Greater Hartford,greater_hartford,With children,Children in household,obesity,0.27
+obesity,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,obesity,0.3
+obesity,2018,Greater New Haven,greater_new_haven,Gender,Male,obesity,0.31
+obesity,2018,Greater New Haven,greater_new_haven,Gender,Female,obesity,0.28
+obesity,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,obesity,0.27
+obesity,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,obesity,0.31
+obesity,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,obesity,0.34
+obesity,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,obesity,0.29
+obesity,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,obesity,0.27
+obesity,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,obesity,0.4
+obesity,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,obesity,0.39
+obesity,2018,Greater New Haven,greater_new_haven,Education,High school or less,obesity,0.34
+obesity,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,obesity,0.31
+obesity,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,obesity,0.26
+obesity,2018,Greater New Haven,greater_new_haven,Income,Under $30K,obesity,0.38
+obesity,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,obesity,0.28
+obesity,2018,Greater New Haven,greater_new_haven,Income,$100K+,obesity,0.28
+obesity,2018,Greater New Haven,greater_new_haven,With children,No children,obesity,0.29
+obesity,2018,Greater New Haven,greater_new_haven,With children,Children in household,obesity,0.31
+obesity,2018,Greater New London,greater_new_london,Total,Greater New London,obesity,0.31
+obesity,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,obesity,0.33
+obesity,2018,Greenwich,greenwich,Total,Greenwich,obesity,0.14
+obesity,2018,Groton,groton,Total,Groton,obesity,0.35
+obesity,2018,Hamden,hamden,Total,Hamden,obesity,0.31
+obesity,2018,Hartford,hartford,Total,Hartford,obesity,0.35
+obesity,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,obesity,0.34
+obesity,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,obesity,0.22
+obesity,2018,Litchfield County,litchfield_county,Total,Litchfield County,obesity,0.3
+obesity,2018,Manchester,manchester,Total,Manchester,obesity,0.28
+obesity,2018,Meriden,meriden,Total,Meriden,obesity,0.35
+obesity,2018,Middlesex County,middlesex_county,Total,Middlesex County,obesity,0.24
+obesity,2018,Middletown,middletown,Total,Middletown,obesity,0.28
+obesity,2018,Milford,milford,Total,Milford,obesity,0.29
+obesity,2018,Monroe,monroe,Total,Monroe,obesity,0.21
+obesity,2018,Naugatuck,naugatuck,Total,Naugatuck,obesity,0.36
+obesity,2018,Ncdhd,ncdhd,Total,Ncdhd,obesity,0.31
+obesity,2018,Nddh,nddh,Total,Nddh,obesity,0.31
+obesity,2018,New Britain,new_britain,Total,New Britain,obesity,0.29
+obesity,2018,New Haven,new_haven,Total,New Haven,obesity,0.31
+obesity,2018,New Haven County,new_haven_county,Total,New Haven County,obesity,0.32
+obesity,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,obesity,0.35
+obesity,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,obesity,0.28
+obesity,2018,New London,new_london,Total,New London,obesity,0.39
+obesity,2018,New London County,new_london_county,Total,New London County,obesity,0.31
+obesity,2018,New Milford,new_milford,Total,New Milford,obesity,0.35
+obesity,2018,Newtown,newtown,Total,Newtown,obesity,0.27
+obesity,2018,Norwalk,norwalk,Total,Norwalk,obesity,0.24
+obesity,2018,Norwich,norwich,Total,Norwich,obesity,0.34
+obesity,2018,Nyborder,nyborder,Total,Nyborder,obesity,0.22
+obesity,2018,Oxford,oxford,Total,Oxford,obesity,0.23
+obesity,2018,Pomperaug,pomperaug,Total,Pomperaug,obesity,0.27
+obesity,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,obesity,0.23
+obesity,2018,Seymour,seymour,Total,Seymour,obesity,0.28
+obesity,2018,Shelton,shelton,Total,Shelton,obesity,0.3
+obesity,2018,Stamford,stamford,Total,Stamford,obesity,0.23
+obesity,2018,Stratford,stratford,Total,Stratford,obesity,0.37
+obesity,2018,Tolland County,tolland_county,Total,Tolland County,obesity,0.27
+obesity,2018,Trumbull,trumbull,Total,Trumbull,obesity,0.2
+obesity,2018,Valley,valley,Total,Valley,obesity,0.32
+obesity,2018,Valley,valley,Gender,Male,obesity,0.3
+obesity,2018,Valley,valley,Gender,Female,obesity,0.34
+obesity,2018,Valley,valley,Age,Ages 18-34,obesity,0.22
+obesity,2018,Valley,valley,Age,Ages 35-49,obesity,0.36
+obesity,2018,Valley,valley,Age,Ages 50-64,obesity,0.41
+obesity,2018,Valley,valley,Age,Ages 65+,obesity,0.29
+obesity,2018,Valley,valley,Race/Ethnicity,White,obesity,0.32
+obesity,2018,Valley,valley,Race/Ethnicity,Not white,obesity,0.3
+obesity,2018,Valley,valley,Education,High school or less,obesity,0.34
+obesity,2018,Valley,valley,Education,Some college or Associate's,obesity,0.36
+obesity,2018,Valley,valley,Education,Bachelor's or higher,obesity,0.27
+obesity,2018,Valley,valley,Income,Under $30K,obesity,0.32
+obesity,2018,Valley,valley,Income,$30K-$75K,obesity,0.36
+obesity,2018,Valley,valley,Income,$75K+,obesity,0.31
+obesity,2018,Valley,valley,With children,No children,obesity,0.3
+obesity,2018,Valley,valley,With children,Children in household,obesity,0.35
+obesity,2018,Wallingford,wallingford,Total,Wallingford,obesity,0.31
+obesity,2018,Waterbury,waterbury,Total,Waterbury,obesity,0.41
+obesity,2018,West Hartford,west_hartford,Total,West Hartford,obesity,0.15
+obesity,2018,West Haven,west_haven,Total,West Haven,obesity,0.4
+obesity,2018,Windham,windham,Total,Windham,obesity,0.35
+obesity,2018,Windham County,windham_county,Total,Windham County,obesity,0.31
+health_insurance,2018,5ct,5ct,Wealthy,Wealthy,has_insurance,0.95
+health_insurance,2018,5ct,5ct,Suburban,Suburban,has_insurance,0.96
+health_insurance,2018,5ct,5ct,Rural,Rural,has_insurance,0.96
+health_insurance,2018,5ct,5ct,Urban Periphery,Urban Periphery,has_insurance,0.96
+health_insurance,2018,5ct,5ct,Urban Core,Urban Core,has_insurance,0.91
+health_insurance,2018,Ansonia,ansonia,Total,Ansonia,has_insurance,0.95
+health_insurance,2018,Bridgeport,bridgeport,Total,Bridgeport,has_insurance,0.89
+health_insurance,2018,Bristol,bristol,Total,Bristol,has_insurance,0.93
+health_insurance,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,has_insurance,0.99
+health_insurance,2018,Chesprocott,chesprocott,Total,Chesprocott,has_insurance,0.97
+health_insurance,2018,Connecticut,connecticut,Total,Connecticut,has_insurance,0.95
+health_insurance,2018,Connecticut,connecticut,Gender,Male,has_insurance,0.94
+health_insurance,2018,Connecticut,connecticut,Gender,Female,has_insurance,0.96
+health_insurance,2018,Connecticut,connecticut,Age,Ages 18-34,has_insurance,0.92
+health_insurance,2018,Connecticut,connecticut,Age,Ages 35-49,has_insurance,0.95
+health_insurance,2018,Connecticut,connecticut,Age,Ages 50-64,has_insurance,0.96
+health_insurance,2018,Connecticut,connecticut,Age,Ages 65+,has_insurance,0.98
+health_insurance,2018,Connecticut,connecticut,Race/Ethnicity,White,has_insurance,0.96
+health_insurance,2018,Connecticut,connecticut,Race/Ethnicity,Black,has_insurance,0.9
+health_insurance,2018,Connecticut,connecticut,Race/Ethnicity,Latino,has_insurance,0.89
+health_insurance,2018,Connecticut,connecticut,Education,High school or less,has_insurance,0.9
+health_insurance,2018,Connecticut,connecticut,Education,Some college or Associate's,has_insurance,0.94
+health_insurance,2018,Connecticut,connecticut,Education,Bachelor's or higher,has_insurance,0.97
+health_insurance,2018,Connecticut,connecticut,Income,Under $30K,has_insurance,0.9
+health_insurance,2018,Connecticut,connecticut,Income,$30K-$100K,has_insurance,0.95
+health_insurance,2018,Connecticut,connecticut,Income,$100K+,has_insurance,0.98
+health_insurance,2018,Connecticut,connecticut,With children,No children,has_insurance,0.95
+health_insurance,2018,Connecticut,connecticut,With children,Children in household,has_insurance,0.94
+health_insurance,2018,Danbury,danbury,Total,Danbury,has_insurance,0.95
+health_insurance,2018,Darien,darien,Total,Darien,has_insurance,0.98
+health_insurance,2018,Derby,derby,Total,Derby,has_insurance,0.97
+health_insurance,2018,East Hartford,east_hartford,Total,East Hartford,has_insurance,0.91
+health_insurance,2018,East Haven,east_haven,Total,East Haven,has_insurance,0.95
+health_insurance,2018,Ehhd,ehhd,Total,Ehhd,has_insurance,0.97
+health_insurance,2018,Fairfield,fairfield,Total,Fairfield,has_insurance,0.96
+health_insurance,2018,Fairfield County,fairfield_county,Total,Fairfield County,has_insurance,0.94
+health_insurance,2018,Fairfield County,fairfield_county,Gender,Male,has_insurance,0.93
+health_insurance,2018,Fairfield County,fairfield_county,Gender,Female,has_insurance,0.95
+health_insurance,2018,Fairfield County,fairfield_county,Age,Ages 18-34,has_insurance,0.9
+health_insurance,2018,Fairfield County,fairfield_county,Age,Ages 35-49,has_insurance,0.94
+health_insurance,2018,Fairfield County,fairfield_county,Age,Ages 50-64,has_insurance,0.95
+health_insurance,2018,Fairfield County,fairfield_county,Age,Ages 65+,has_insurance,0.99
+health_insurance,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,has_insurance,0.97
+health_insurance,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,has_insurance,0.87
+health_insurance,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,has_insurance,0.86
+health_insurance,2018,Fairfield County,fairfield_county,Education,High school or less,has_insurance,0.89
+health_insurance,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,has_insurance,0.94
+health_insurance,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,has_insurance,0.96
+health_insurance,2018,Fairfield County,fairfield_county,Income,Under $30K,has_insurance,0.85
+health_insurance,2018,Fairfield County,fairfield_county,Income,$30K-$100K,has_insurance,0.94
+health_insurance,2018,Fairfield County,fairfield_county,Income,$100K+,has_insurance,0.98
+health_insurance,2018,Fairfield County,fairfield_county,With children,No children,has_insurance,0.95
+health_insurance,2018,Fairfield County,fairfield_county,With children,Children in household,has_insurance,0.94
+health_insurance,2018,Fcht,fcht,Total,Fcht,has_insurance,0.91
+health_insurance,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,has_insurance,0.92
+health_insurance,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,has_insurance,0.95
+health_insurance,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,has_insurance,0.93
+health_insurance,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,has_insurance,0.96
+health_insurance,2018,Greater Hartford,greater_hartford,Gender,Male,has_insurance,0.94
+health_insurance,2018,Greater Hartford,greater_hartford,Gender,Female,has_insurance,0.97
+health_insurance,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,has_insurance,0.94
+health_insurance,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,has_insurance,0.95
+health_insurance,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,has_insurance,0.95
+health_insurance,2018,Greater Hartford,greater_hartford,Age,Ages 65+,has_insurance,0.99
+health_insurance,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,has_insurance,0.97
+health_insurance,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,has_insurance,0.9
+health_insurance,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,has_insurance,0.89
+health_insurance,2018,Greater Hartford,greater_hartford,Education,High school or less,has_insurance,0.9
+health_insurance,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,has_insurance,0.96
+health_insurance,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,has_insurance,0.98
+health_insurance,2018,Greater Hartford,greater_hartford,Income,Under $30K,has_insurance,0.91
+health_insurance,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,has_insurance,0.96
+health_insurance,2018,Greater Hartford,greater_hartford,Income,$100K+,has_insurance,0.99
+health_insurance,2018,Greater Hartford,greater_hartford,With children,No children,has_insurance,0.96
+health_insurance,2018,Greater Hartford,greater_hartford,With children,Children in household,has_insurance,0.95
+health_insurance,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,has_insurance,0.95
+health_insurance,2018,Greater New Haven,greater_new_haven,Gender,Male,has_insurance,0.93
+health_insurance,2018,Greater New Haven,greater_new_haven,Gender,Female,has_insurance,0.96
+health_insurance,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,has_insurance,0.92
+health_insurance,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,has_insurance,0.95
+health_insurance,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,has_insurance,0.97
+health_insurance,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,has_insurance,0.97
+health_insurance,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,has_insurance,0.96
+health_insurance,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,has_insurance,0.93
+health_insurance,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,has_insurance,0.88
+health_insurance,2018,Greater New Haven,greater_new_haven,Education,High school or less,has_insurance,0.93
+health_insurance,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,has_insurance,0.93
+health_insurance,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,has_insurance,0.97
+health_insurance,2018,Greater New Haven,greater_new_haven,Income,Under $30K,has_insurance,0.91
+health_insurance,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,has_insurance,0.95
+health_insurance,2018,Greater New Haven,greater_new_haven,Income,$100K+,has_insurance,0.98
+health_insurance,2018,Greater New Haven,greater_new_haven,With children,No children,has_insurance,0.95
+health_insurance,2018,Greater New Haven,greater_new_haven,With children,Children in household,has_insurance,0.95
+health_insurance,2018,Greater New London,greater_new_london,Total,Greater New London,has_insurance,0.94
+health_insurance,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,has_insurance,0.95
+health_insurance,2018,Greenwich,greenwich,Total,Greenwich,has_insurance,0.94
+health_insurance,2018,Groton,groton,Total,Groton,has_insurance,0.95
+health_insurance,2018,Hamden,hamden,Total,Hamden,has_insurance,0.95
+health_insurance,2018,Hartford,hartford,Total,Hartford,has_insurance,0.91
+health_insurance,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,has_insurance,0.96
+health_insurance,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,has_insurance,0.97
+health_insurance,2018,Litchfield County,litchfield_county,Total,Litchfield County,has_insurance,0.95
+health_insurance,2018,Manchester,manchester,Total,Manchester,has_insurance,0.94
+health_insurance,2018,Meriden,meriden,Total,Meriden,has_insurance,0.97
+health_insurance,2018,Middlesex County,middlesex_county,Total,Middlesex County,has_insurance,0.97
+health_insurance,2018,Middletown,middletown,Total,Middletown,has_insurance,0.98
+health_insurance,2018,Milford,milford,Total,Milford,has_insurance,0.97
+health_insurance,2018,Monroe,monroe,Total,Monroe,has_insurance,0.98
+health_insurance,2018,Naugatuck,naugatuck,Total,Naugatuck,has_insurance,0.95
+health_insurance,2018,Ncdhd,ncdhd,Total,Ncdhd,has_insurance,0.95
+health_insurance,2018,Nddh,nddh,Total,Nddh,has_insurance,0.96
+health_insurance,2018,New Britain,new_britain,Total,New Britain,has_insurance,0.95
+health_insurance,2018,New Haven,new_haven,Total,New Haven,has_insurance,0.93
+health_insurance,2018,New Haven County,new_haven_county,Total,New Haven County,has_insurance,0.95
+health_insurance,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,has_insurance,0.96
+health_insurance,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,has_insurance,0.97
+health_insurance,2018,New London,new_london,Total,New London,has_insurance,0.85
+health_insurance,2018,New London County,new_london_county,Total,New London County,has_insurance,0.95
+health_insurance,2018,New Milford,new_milford,Total,New Milford,has_insurance,0.95
+health_insurance,2018,Newtown,newtown,Total,Newtown,has_insurance,0.98
+health_insurance,2018,Norwalk,norwalk,Total,Norwalk,has_insurance,0.95
+health_insurance,2018,Norwich,norwich,Total,Norwich,has_insurance,0.94
+health_insurance,2018,Nyborder,nyborder,Total,Nyborder,has_insurance,0.91
+health_insurance,2018,Oxford,oxford,Total,Oxford,has_insurance,0.94
+health_insurance,2018,Pomperaug,pomperaug,Total,Pomperaug,has_insurance,0.97
+health_insurance,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,has_insurance,0.87
+health_insurance,2018,Seymour,seymour,Total,Seymour,has_insurance,0.99
+health_insurance,2018,Shelton,shelton,Total,Shelton,has_insurance,0.99
+health_insurance,2018,Stamford,stamford,Total,Stamford,has_insurance,0.94
+health_insurance,2018,Stratford,stratford,Total,Stratford,has_insurance,0.92
+health_insurance,2018,Tolland County,tolland_county,Total,Tolland County,has_insurance,0.96
+health_insurance,2018,Trumbull,trumbull,Total,Trumbull,has_insurance,0.98
+health_insurance,2018,Valley,valley,Total,Valley,has_insurance,0.98
+health_insurance,2018,Valley,valley,Gender,Male,has_insurance,0.96
+health_insurance,2018,Valley,valley,Gender,Female,has_insurance,0.98
+health_insurance,2018,Valley,valley,Age,Ages 18-34,has_insurance,0.95
+health_insurance,2018,Valley,valley,Age,Ages 35-49,has_insurance,0.97
+health_insurance,2018,Valley,valley,Age,Ages 50-64,has_insurance,0.97
+health_insurance,2018,Valley,valley,Age,Ages 65+,has_insurance,0.98
+health_insurance,2018,Valley,valley,Race/Ethnicity,White,has_insurance,0.97
+health_insurance,2018,Valley,valley,Race/Ethnicity,Not white,has_insurance,0.95
+health_insurance,2018,Valley,valley,Education,High school or less,has_insurance,0.93
+health_insurance,2018,Valley,valley,Education,Some college or Associate's,has_insurance,0.97
+health_insurance,2018,Valley,valley,Education,Bachelor's or higher,has_insurance,0.99
+health_insurance,2018,Valley,valley,Income,Under $30K,has_insurance,0.95
+health_insurance,2018,Valley,valley,Income,$30K-$75K,has_insurance,0.96
+health_insurance,2018,Valley,valley,Income,$75K+,has_insurance,0.99
+health_insurance,2018,Valley,valley,With children,No children,has_insurance,0.97
+health_insurance,2018,Valley,valley,With children,Children in household,has_insurance,0.98
+health_insurance,2018,Wallingford,wallingford,Total,Wallingford,has_insurance,0.96
+health_insurance,2018,Waterbury,waterbury,Total,Waterbury,has_insurance,0.91
+health_insurance,2018,West Hartford,west_hartford,Total,West Hartford,has_insurance,0.96
+health_insurance,2018,West Haven,west_haven,Total,West Haven,has_insurance,0.95
+health_insurance,2018,Windham,windham,Total,Windham,has_insurance,0.92
+health_insurance,2018,Windham County,windham_county,Total,Windham County,has_insurance,0.95
+dentist,2018,5ct,5ct,Wealthy,Wealthy,less_than_1yr,0.83
+dentist,2018,5ct,5ct,Suburban,Suburban,less_than_1yr,0.8
+dentist,2018,5ct,5ct,Rural,Rural,less_than_1yr,0.74
+dentist,2018,5ct,5ct,Urban Periphery,Urban Periphery,less_than_1yr,0.74
+dentist,2018,5ct,5ct,Urban Core,Urban Core,less_than_1yr,0.65
+dentist,2018,Ansonia,ansonia,Total,Ansonia,less_than_1yr,0.77
+dentist,2018,Bridgeport,bridgeport,Total,Bridgeport,less_than_1yr,0.62
+dentist,2018,Bristol,bristol,Total,Bristol,less_than_1yr,0.7
+dentist,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,less_than_1yr,0.83
+dentist,2018,Chesprocott,chesprocott,Total,Chesprocott,less_than_1yr,0.81
+dentist,2018,Connecticut,connecticut,Total,Connecticut,less_than_1yr,0.74
+dentist,2018,Connecticut,connecticut,Gender,Male,less_than_1yr,0.74
+dentist,2018,Connecticut,connecticut,Gender,Female,less_than_1yr,0.76
+dentist,2018,Connecticut,connecticut,Age,Ages 18-34,less_than_1yr,0.68
+dentist,2018,Connecticut,connecticut,Age,Ages 35-49,less_than_1yr,0.74
+dentist,2018,Connecticut,connecticut,Age,Ages 50-64,less_than_1yr,0.79
+dentist,2018,Connecticut,connecticut,Age,Ages 65+,less_than_1yr,0.77
+dentist,2018,Connecticut,connecticut,Race/Ethnicity,White,less_than_1yr,0.77
+dentist,2018,Connecticut,connecticut,Race/Ethnicity,Black,less_than_1yr,0.7
+dentist,2018,Connecticut,connecticut,Race/Ethnicity,Latino,less_than_1yr,0.71
+dentist,2018,Connecticut,connecticut,Education,High school or less,less_than_1yr,0.65
+dentist,2018,Connecticut,connecticut,Education,Some college or Associate's,less_than_1yr,0.71
+dentist,2018,Connecticut,connecticut,Education,Bachelor's or higher,less_than_1yr,0.82
+dentist,2018,Connecticut,connecticut,Income,Under $30K,less_than_1yr,0.57
+dentist,2018,Connecticut,connecticut,Income,$30K-$100K,less_than_1yr,0.74
+dentist,2018,Connecticut,connecticut,Income,$100K+,less_than_1yr,0.86
+dentist,2018,Connecticut,connecticut,With children,No children,less_than_1yr,0.74
+dentist,2018,Connecticut,connecticut,With children,Children in household,less_than_1yr,0.75
+dentist,2018,Danbury,danbury,Total,Danbury,less_than_1yr,0.77
+dentist,2018,Darien,darien,Total,Darien,less_than_1yr,0.91
+dentist,2018,Derby,derby,Total,Derby,less_than_1yr,0.69
+dentist,2018,East Hartford,east_hartford,Total,East Hartford,less_than_1yr,0.67
+dentist,2018,East Haven,east_haven,Total,East Haven,less_than_1yr,0.7
+dentist,2018,Ehhd,ehhd,Total,Ehhd,less_than_1yr,0.77
+dentist,2018,Fairfield,fairfield,Total,Fairfield,less_than_1yr,0.8
+dentist,2018,Fairfield County,fairfield_county,Total,Fairfield County,less_than_1yr,0.78
+dentist,2018,Fairfield County,fairfield_county,Gender,Male,less_than_1yr,0.76
+dentist,2018,Fairfield County,fairfield_county,Gender,Female,less_than_1yr,0.78
+dentist,2018,Fairfield County,fairfield_county,Age,Ages 18-34,less_than_1yr,0.7
+dentist,2018,Fairfield County,fairfield_county,Age,Ages 35-49,less_than_1yr,0.76
+dentist,2018,Fairfield County,fairfield_county,Age,Ages 50-64,less_than_1yr,0.82
+dentist,2018,Fairfield County,fairfield_county,Age,Ages 65+,less_than_1yr,0.8
+dentist,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,less_than_1yr,0.81
+dentist,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,less_than_1yr,0.63
+dentist,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,less_than_1yr,0.71
+dentist,2018,Fairfield County,fairfield_county,Education,High school or less,less_than_1yr,0.7
+dentist,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,less_than_1yr,0.74
+dentist,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,less_than_1yr,0.82
+dentist,2018,Fairfield County,fairfield_county,Income,Under $30K,less_than_1yr,0.61
+dentist,2018,Fairfield County,fairfield_county,Income,$30K-$100K,less_than_1yr,0.74
+dentist,2018,Fairfield County,fairfield_county,Income,$100K+,less_than_1yr,0.87
+dentist,2018,Fairfield County,fairfield_county,With children,No children,less_than_1yr,0.76
+dentist,2018,Fairfield County,fairfield_county,With children,Children in household,less_than_1yr,0.78
+dentist,2018,Fcht,fcht,Total,Fcht,less_than_1yr,0.78
+dentist,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,less_than_1yr,0.72
+dentist,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,less_than_1yr,0.79
+dentist,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,less_than_1yr,0.82
+dentist,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,less_than_1yr,0.76
+dentist,2018,Greater Hartford,greater_hartford,Gender,Male,less_than_1yr,0.74
+dentist,2018,Greater Hartford,greater_hartford,Gender,Female,less_than_1yr,0.76
+dentist,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,less_than_1yr,0.69
+dentist,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,less_than_1yr,0.73
+dentist,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,less_than_1yr,0.81
+dentist,2018,Greater Hartford,greater_hartford,Age,Ages 65+,less_than_1yr,0.8
+dentist,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,less_than_1yr,0.76
+dentist,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,less_than_1yr,0.74
+dentist,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,less_than_1yr,0.71
+dentist,2018,Greater Hartford,greater_hartford,Education,High school or less,less_than_1yr,0.62
+dentist,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,less_than_1yr,0.72
+dentist,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,less_than_1yr,0.84
+dentist,2018,Greater Hartford,greater_hartford,Income,Under $30K,less_than_1yr,0.56
+dentist,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,less_than_1yr,0.75
+dentist,2018,Greater Hartford,greater_hartford,Income,$100K+,less_than_1yr,0.88
+dentist,2018,Greater Hartford,greater_hartford,With children,No children,less_than_1yr,0.76
+dentist,2018,Greater Hartford,greater_hartford,With children,Children in household,less_than_1yr,0.74
+dentist,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,less_than_1yr,0.72
+dentist,2018,Greater New Haven,greater_new_haven,Gender,Male,less_than_1yr,0.69
+dentist,2018,Greater New Haven,greater_new_haven,Gender,Female,less_than_1yr,0.76
+dentist,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,less_than_1yr,0.66
+dentist,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,less_than_1yr,0.7
+dentist,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,less_than_1yr,0.78
+dentist,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,less_than_1yr,0.76
+dentist,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,less_than_1yr,0.75
+dentist,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,less_than_1yr,0.7
+dentist,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,less_than_1yr,0.72
+dentist,2018,Greater New Haven,greater_new_haven,Education,High school or less,less_than_1yr,0.64
+dentist,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,less_than_1yr,0.69
+dentist,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,less_than_1yr,0.79
+dentist,2018,Greater New Haven,greater_new_haven,Income,Under $30K,less_than_1yr,0.56
+dentist,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,less_than_1yr,0.71
+dentist,2018,Greater New Haven,greater_new_haven,Income,$100K+,less_than_1yr,0.87
+dentist,2018,Greater New Haven,greater_new_haven,With children,No children,less_than_1yr,0.72
+dentist,2018,Greater New Haven,greater_new_haven,With children,Children in household,less_than_1yr,0.74
+dentist,2018,Greater New London,greater_new_london,Total,Greater New London,less_than_1yr,0.77
+dentist,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,less_than_1yr,0.74
+dentist,2018,Greenwich,greenwich,Total,Greenwich,less_than_1yr,0.87
+dentist,2018,Groton,groton,Total,Groton,less_than_1yr,0.77
+dentist,2018,Hamden,hamden,Total,Hamden,less_than_1yr,0.74
+dentist,2018,Hartford,hartford,Total,Hartford,less_than_1yr,0.65
+dentist,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,less_than_1yr,0.73
+dentist,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,less_than_1yr,0.82
+dentist,2018,Litchfield County,litchfield_county,Total,Litchfield County,less_than_1yr,0.75
+dentist,2018,Manchester,manchester,Total,Manchester,less_than_1yr,0.72
+dentist,2018,Meriden,meriden,Total,Meriden,less_than_1yr,0.71
+dentist,2018,Middlesex County,middlesex_county,Total,Middlesex County,less_than_1yr,0.76
+dentist,2018,Middletown,middletown,Total,Middletown,less_than_1yr,0.75
+dentist,2018,Milford,milford,Total,Milford,less_than_1yr,0.78
+dentist,2018,Monroe,monroe,Total,Monroe,less_than_1yr,0.91
+dentist,2018,Naugatuck,naugatuck,Total,Naugatuck,less_than_1yr,0.62
+dentist,2018,Ncdhd,ncdhd,Total,Ncdhd,less_than_1yr,0.73
+dentist,2018,Nddh,nddh,Total,Nddh,less_than_1yr,0.7
+dentist,2018,New Britain,new_britain,Total,New Britain,less_than_1yr,0.68
+dentist,2018,New Haven,new_haven,Total,New Haven,less_than_1yr,0.66
+dentist,2018,New Haven County,new_haven_county,Total,New Haven County,less_than_1yr,0.73
+dentist,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,less_than_1yr,0.71
+dentist,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,less_than_1yr,0.82
+dentist,2018,New London,new_london,Total,New London,less_than_1yr,0.7
+dentist,2018,New London County,new_london_county,Total,New London County,less_than_1yr,0.74
+dentist,2018,New Milford,new_milford,Total,New Milford,less_than_1yr,0.74
+dentist,2018,Newtown,newtown,Total,Newtown,less_than_1yr,0.8
+dentist,2018,Norwalk,norwalk,Total,Norwalk,less_than_1yr,0.76
+dentist,2018,Norwich,norwich,Total,Norwich,less_than_1yr,0.7
+dentist,2018,Nyborder,nyborder,Total,Nyborder,less_than_1yr,0.76
+dentist,2018,Oxford,oxford,Total,Oxford,less_than_1yr,0.77
+dentist,2018,Pomperaug,pomperaug,Total,Pomperaug,less_than_1yr,0.79
+dentist,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,less_than_1yr,0.71
+dentist,2018,Seymour,seymour,Total,Seymour,less_than_1yr,0.74
+dentist,2018,Shelton,shelton,Total,Shelton,less_than_1yr,0.82
+dentist,2018,Stamford,stamford,Total,Stamford,less_than_1yr,0.8
+dentist,2018,Stratford,stratford,Total,Stratford,less_than_1yr,0.72
+dentist,2018,Tolland County,tolland_county,Total,Tolland County,less_than_1yr,0.78
+dentist,2018,Trumbull,trumbull,Total,Trumbull,less_than_1yr,0.81
+dentist,2018,Valley,valley,Total,Valley,less_than_1yr,0.74
+dentist,2018,Valley,valley,Gender,Male,less_than_1yr,0.71
+dentist,2018,Valley,valley,Gender,Female,less_than_1yr,0.77
+dentist,2018,Valley,valley,Age,Ages 18-34,less_than_1yr,0.67
+dentist,2018,Valley,valley,Age,Ages 35-49,less_than_1yr,0.69
+dentist,2018,Valley,valley,Age,Ages 50-64,less_than_1yr,0.82
+dentist,2018,Valley,valley,Age,Ages 65+,less_than_1yr,0.78
+dentist,2018,Valley,valley,Race/Ethnicity,White,less_than_1yr,0.74
+dentist,2018,Valley,valley,Race/Ethnicity,Not white,less_than_1yr,0.73
+dentist,2018,Valley,valley,Education,High school or less,less_than_1yr,0.68
+dentist,2018,Valley,valley,Education,Some college or Associate's,less_than_1yr,0.7
+dentist,2018,Valley,valley,Education,Bachelor's or higher,less_than_1yr,0.81
+dentist,2018,Valley,valley,Income,Under $30K,less_than_1yr,0.61
+dentist,2018,Valley,valley,Income,$30K-$75K,less_than_1yr,0.67
+dentist,2018,Valley,valley,Income,$75K+,less_than_1yr,0.84
+dentist,2018,Valley,valley,With children,No children,less_than_1yr,0.75
+dentist,2018,Valley,valley,With children,Children in household,less_than_1yr,0.73
+dentist,2018,Wallingford,wallingford,Total,Wallingford,less_than_1yr,0.83
+dentist,2018,Waterbury,waterbury,Total,Waterbury,less_than_1yr,0.68
+dentist,2018,West Hartford,west_hartford,Total,West Hartford,less_than_1yr,0.83
+dentist,2018,West Haven,west_haven,Total,West Haven,less_than_1yr,0.69
+dentist,2018,Windham,windham,Total,Windham,less_than_1yr,0.8
+dentist,2018,Windham County,windham_county,Total,Windham County,less_than_1yr,0.72
+depression,2018,5ct,5ct,Wealthy,Wealthy,at_least_half_days,0.05
+depression,2018,5ct,5ct,Suburban,Suburban,at_least_half_days,0.08
+depression,2018,5ct,5ct,Rural,Rural,at_least_half_days,0.09
+depression,2018,5ct,5ct,Urban Periphery,Urban Periphery,at_least_half_days,0.1
+depression,2018,5ct,5ct,Urban Core,Urban Core,at_least_half_days,0.15
+depression,2018,Ansonia,ansonia,Total,Ansonia,at_least_half_days,0.09
+depression,2018,Bridgeport,bridgeport,Total,Bridgeport,at_least_half_days,0.14
+depression,2018,Bristol,bristol,Total,Bristol,at_least_half_days,0.09
+depression,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,at_least_half_days,0.08
+depression,2018,Chesprocott,chesprocott,Total,Chesprocott,at_least_half_days,0.06
+depression,2018,Connecticut,connecticut,Total,Connecticut,at_least_half_days,0.09
+depression,2018,Connecticut,connecticut,Gender,Male,at_least_half_days,0.09
+depression,2018,Connecticut,connecticut,Gender,Female,at_least_half_days,0.11
+depression,2018,Connecticut,connecticut,Age,Ages 18-34,at_least_half_days,0.16
+depression,2018,Connecticut,connecticut,Age,Ages 35-49,at_least_half_days,0.09
+depression,2018,Connecticut,connecticut,Age,Ages 50-64,at_least_half_days,0.08
+depression,2018,Connecticut,connecticut,Age,Ages 65+,at_least_half_days,0.06
+depression,2018,Connecticut,connecticut,Race/Ethnicity,White,at_least_half_days,0.09
+depression,2018,Connecticut,connecticut,Race/Ethnicity,Black,at_least_half_days,0.12
+depression,2018,Connecticut,connecticut,Race/Ethnicity,Latino,at_least_half_days,0.17
+depression,2018,Connecticut,connecticut,Education,High school or less,at_least_half_days,0.14
+depression,2018,Connecticut,connecticut,Education,Some college or Associate's,at_least_half_days,0.12
+depression,2018,Connecticut,connecticut,Education,Bachelor's or higher,at_least_half_days,0.05
+depression,2018,Connecticut,connecticut,Income,Under $30K,at_least_half_days,0.23
+depression,2018,Connecticut,connecticut,Income,$30K-$100K,at_least_half_days,0.08
+depression,2018,Connecticut,connecticut,Income,$100K+,at_least_half_days,0.04
+depression,2018,Connecticut,connecticut,With children,No children,at_least_half_days,0.1
+depression,2018,Connecticut,connecticut,With children,Children in household,at_least_half_days,0.1
+depression,2018,Danbury,danbury,Total,Danbury,at_least_half_days,0.07
+depression,2018,Darien,darien,Total,Darien,at_least_half_days,0.02
+depression,2018,Derby,derby,Total,Derby,at_least_half_days,0.07
+depression,2018,East Hartford,east_hartford,Total,East Hartford,at_least_half_days,0.11
+depression,2018,East Haven,east_haven,Total,East Haven,at_least_half_days,0.12
+depression,2018,Ehhd,ehhd,Total,Ehhd,at_least_half_days,0.12
+depression,2018,Fairfield,fairfield,Total,Fairfield,at_least_half_days,0.05
+depression,2018,Fairfield County,fairfield_county,Total,Fairfield County,at_least_half_days,0.08
+depression,2018,Fairfield County,fairfield_county,Gender,Male,at_least_half_days,0.09
+depression,2018,Fairfield County,fairfield_county,Gender,Female,at_least_half_days,0.08
+depression,2018,Fairfield County,fairfield_county,Age,Ages 18-34,at_least_half_days,0.15
+depression,2018,Fairfield County,fairfield_county,Age,Ages 35-49,at_least_half_days,0.07
+depression,2018,Fairfield County,fairfield_county,Age,Ages 50-64,at_least_half_days,0.07
+depression,2018,Fairfield County,fairfield_county,Age,Ages 65+,at_least_half_days,0.04
+depression,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,at_least_half_days,0.07
+depression,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,at_least_half_days,0.14
+depression,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,at_least_half_days,0.13
+depression,2018,Fairfield County,fairfield_county,Education,High school or less,at_least_half_days,0.15
+depression,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,at_least_half_days,0.1
+depression,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,at_least_half_days,0.05
+depression,2018,Fairfield County,fairfield_county,Income,Under $30K,at_least_half_days,0.23
+depression,2018,Fairfield County,fairfield_county,Income,$30K-$100K,at_least_half_days,0.08
+depression,2018,Fairfield County,fairfield_county,Income,$100K+,at_least_half_days,0.03
+depression,2018,Fairfield County,fairfield_county,With children,No children,at_least_half_days,0.08
+depression,2018,Fairfield County,fairfield_county,With children,Children in household,at_least_half_days,0.09
+depression,2018,Fcht,fcht,Total,Fcht,at_least_half_days,0.04
+depression,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,at_least_half_days,0.11
+depression,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,at_least_half_days,0.07
+depression,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,at_least_half_days,0.08
+depression,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,at_least_half_days,0.11
+depression,2018,Greater Hartford,greater_hartford,Gender,Male,at_least_half_days,0.08
+depression,2018,Greater Hartford,greater_hartford,Gender,Female,at_least_half_days,0.12
+depression,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,at_least_half_days,0.16
+depression,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,at_least_half_days,0.11
+depression,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,at_least_half_days,0.07
+depression,2018,Greater Hartford,greater_hartford,Age,Ages 65+,at_least_half_days,0.06
+depression,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,at_least_half_days,0.09
+depression,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,at_least_half_days,0.13
+depression,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,at_least_half_days,0.19
+depression,2018,Greater Hartford,greater_hartford,Education,High school or less,at_least_half_days,0.15
+depression,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,at_least_half_days,0.12
+depression,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,at_least_half_days,0.06
+depression,2018,Greater Hartford,greater_hartford,Income,Under $30K,at_least_half_days,0.24
+depression,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,at_least_half_days,0.08
+depression,2018,Greater Hartford,greater_hartford,Income,$100K+,at_least_half_days,0.04
+depression,2018,Greater Hartford,greater_hartford,With children,No children,at_least_half_days,0.1
+depression,2018,Greater Hartford,greater_hartford,With children,Children in household,at_least_half_days,0.12
+depression,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,at_least_half_days,0.11
+depression,2018,Greater New Haven,greater_new_haven,Gender,Male,at_least_half_days,0.11
+depression,2018,Greater New Haven,greater_new_haven,Gender,Female,at_least_half_days,0.12
+depression,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,at_least_half_days,0.17
+depression,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,at_least_half_days,0.12
+depression,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,at_least_half_days,0.09
+depression,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,at_least_half_days,0.06
+depression,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,at_least_half_days,0.1
+depression,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,at_least_half_days,0.12
+depression,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,at_least_half_days,0.22
+depression,2018,Greater New Haven,greater_new_haven,Education,High school or less,at_least_half_days,0.17
+depression,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,at_least_half_days,0.14
+depression,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,at_least_half_days,0.06
+depression,2018,Greater New Haven,greater_new_haven,Income,Under $30K,at_least_half_days,0.21
+depression,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,at_least_half_days,0.11
+depression,2018,Greater New Haven,greater_new_haven,Income,$100K+,at_least_half_days,0.06
+depression,2018,Greater New Haven,greater_new_haven,With children,No children,at_least_half_days,0.11
+depression,2018,Greater New Haven,greater_new_haven,With children,Children in household,at_least_half_days,0.12
+depression,2018,Greater New London,greater_new_london,Total,Greater New London,at_least_half_days,0.09
+depression,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,at_least_half_days,0.1
+depression,2018,Greenwich,greenwich,Total,Greenwich,at_least_half_days,0.05
+depression,2018,Groton,groton,Total,Groton,at_least_half_days,0.12
+depression,2018,Hamden,hamden,Total,Hamden,at_least_half_days,0.09
+depression,2018,Hartford,hartford,Total,Hartford,at_least_half_days,0.15
+depression,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,at_least_half_days,0.12
+depression,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,at_least_half_days,0.07
+depression,2018,Litchfield County,litchfield_county,Total,Litchfield County,at_least_half_days,0.07
+depression,2018,Manchester,manchester,Total,Manchester,at_least_half_days,0.19
+depression,2018,Meriden,meriden,Total,Meriden,at_least_half_days,0.13
+depression,2018,Middlesex County,middlesex_county,Total,Middlesex County,at_least_half_days,0.09
+depression,2018,Middletown,middletown,Total,Middletown,at_least_half_days,0.1
+depression,2018,Milford,milford,Total,Milford,at_least_half_days,0.1
+depression,2018,Monroe,monroe,Total,Monroe,at_least_half_days,0.03
+depression,2018,Naugatuck,naugatuck,Total,Naugatuck,at_least_half_days,0.12
+depression,2018,Ncdhd,ncdhd,Total,Ncdhd,at_least_half_days,0.13
+depression,2018,Nddh,nddh,Total,Nddh,at_least_half_days,0.15
+depression,2018,New Britain,new_britain,Total,New Britain,at_least_half_days,0.12
+depression,2018,New Haven,new_haven,Total,New Haven,at_least_half_days,0.15
+depression,2018,New Haven County,new_haven_county,Total,New Haven County,at_least_half_days,0.11
+depression,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,at_least_half_days,0.11
+depression,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,at_least_half_days,0.1
+depression,2018,New London,new_london,Total,New London,at_least_half_days,0.22
+depression,2018,New London County,new_london_county,Total,New London County,at_least_half_days,0.1
+depression,2018,New Milford,new_milford,Total,New Milford,at_least_half_days,0.07
+depression,2018,Newtown,newtown,Total,Newtown,at_least_half_days,0.07
+depression,2018,Norwalk,norwalk,Total,Norwalk,at_least_half_days,0.07
+depression,2018,Norwich,norwich,Total,Norwich,at_least_half_days,0.11
+depression,2018,Nyborder,nyborder,Total,Nyborder,at_least_half_days,0.1
+depression,2018,Oxford,oxford,Total,Oxford,at_least_half_days,0.12
+depression,2018,Pomperaug,pomperaug,Total,Pomperaug,at_least_half_days,0.05
+depression,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,at_least_half_days,0.08
+depression,2018,Seymour,seymour,Total,Seymour,at_least_half_days,0.06
+depression,2018,Shelton,shelton,Total,Shelton,at_least_half_days,0.09
+depression,2018,Stamford,stamford,Total,Stamford,at_least_half_days,0.07
+depression,2018,Stratford,stratford,Total,Stratford,at_least_half_days,0.14
+depression,2018,Tolland County,tolland_county,Total,Tolland County,at_least_half_days,0.13
+depression,2018,Trumbull,trumbull,Total,Trumbull,at_least_half_days,0.05
+depression,2018,Valley,valley,Total,Valley,at_least_half_days,0.09
+depression,2018,Valley,valley,Gender,Male,at_least_half_days,0.08
+depression,2018,Valley,valley,Gender,Female,at_least_half_days,0.11
+depression,2018,Valley,valley,Age,Ages 18-34,at_least_half_days,0.19
+depression,2018,Valley,valley,Age,Ages 35-49,at_least_half_days,0.07
+depression,2018,Valley,valley,Age,Ages 50-64,at_least_half_days,0.06
+depression,2018,Valley,valley,Age,Ages 65+,at_least_half_days,0.08
+depression,2018,Valley,valley,Race/Ethnicity,White,at_least_half_days,0.1
+depression,2018,Valley,valley,Race/Ethnicity,Not white,at_least_half_days,0.08
+depression,2018,Valley,valley,Education,High school or less,at_least_half_days,0.14
+depression,2018,Valley,valley,Education,Some college or Associate's,at_least_half_days,0.13
+depression,2018,Valley,valley,Education,Bachelor's or higher,at_least_half_days,0.05
+depression,2018,Valley,valley,Income,Under $30K,at_least_half_days,0.17
+depression,2018,Valley,valley,Income,$30K-$75K,at_least_half_days,0.11
+depression,2018,Valley,valley,Income,$75K+,at_least_half_days,0.05
+depression,2018,Valley,valley,With children,No children,at_least_half_days,0.1
+depression,2018,Valley,valley,With children,Children in household,at_least_half_days,0.07
+depression,2018,Wallingford,wallingford,Total,Wallingford,at_least_half_days,0.1
+depression,2018,Waterbury,waterbury,Total,Waterbury,at_least_half_days,0.16
+depression,2018,West Hartford,west_hartford,Total,West Hartford,at_least_half_days,0.03
+depression,2018,West Haven,west_haven,Total,West Haven,at_least_half_days,0.14
+depression,2018,Windham,windham,Total,Windham,at_least_half_days,0.12
+depression,2018,Windham County,windham_county,Total,Windham County,at_least_half_days,0.14
+smoking,2018,5ct,5ct,Wealthy,Wealthy,smoking_rate,0.06
+smoking,2018,5ct,5ct,Suburban,Suburban,smoking_rate,0.1
+smoking,2018,5ct,5ct,Rural,Rural,smoking_rate,0.14
+smoking,2018,5ct,5ct,Urban Periphery,Urban Periphery,smoking_rate,0.15
+smoking,2018,5ct,5ct,Urban Core,Urban Core,smoking_rate,0.21
+smoking,2018,Ansonia,ansonia,Total,Ansonia,smoking_rate,0.16
+smoking,2018,Bridgeport,bridgeport,Total,Bridgeport,smoking_rate,0.21
+smoking,2018,Bristol,bristol,Total,Bristol,smoking_rate,0.15
+smoking,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,smoking_rate,0.08
+smoking,2018,Chesprocott,chesprocott,Total,Chesprocott,smoking_rate,0.11
+smoking,2018,Connecticut,connecticut,Total,Connecticut,smoking_rate,0.14
+smoking,2018,Connecticut,connecticut,Gender,Male,smoking_rate,0.15
+smoking,2018,Connecticut,connecticut,Gender,Female,smoking_rate,0.13
+smoking,2018,Connecticut,connecticut,Age,Ages 18-34,smoking_rate,0.17
+smoking,2018,Connecticut,connecticut,Age,Ages 35-49,smoking_rate,0.18
+smoking,2018,Connecticut,connecticut,Age,Ages 50-64,smoking_rate,0.14
+smoking,2018,Connecticut,connecticut,Age,Ages 65+,smoking_rate,0.08
+smoking,2018,Connecticut,connecticut,Race/Ethnicity,White,smoking_rate,0.13
+smoking,2018,Connecticut,connecticut,Race/Ethnicity,Black,smoking_rate,0.17
+smoking,2018,Connecticut,connecticut,Race/Ethnicity,Latino,smoking_rate,0.16
+smoking,2018,Connecticut,connecticut,Education,High school or less,smoking_rate,0.23
+smoking,2018,Connecticut,connecticut,Education,Some college or Associate's,smoking_rate,0.18
+smoking,2018,Connecticut,connecticut,Education,Bachelor's or higher,smoking_rate,0.07
+smoking,2018,Connecticut,connecticut,Income,Under $30K,smoking_rate,0.24
+smoking,2018,Connecticut,connecticut,Income,$30K-$100K,smoking_rate,0.15
+smoking,2018,Connecticut,connecticut,Income,$100K+,smoking_rate,0.08
+smoking,2018,Connecticut,connecticut,With children,No children,smoking_rate,0.13
+smoking,2018,Connecticut,connecticut,With children,Children in household,smoking_rate,0.15
+smoking,2018,Danbury,danbury,Total,Danbury,smoking_rate,0.15
+smoking,2018,Derby,derby,Total,Derby,smoking_rate,0.1
+smoking,2018,East Hartford,east_hartford,Total,East Hartford,smoking_rate,0.19
+smoking,2018,East Haven,east_haven,Total,East Haven,smoking_rate,0.19
+smoking,2018,Ehhd,ehhd,Total,Ehhd,smoking_rate,0.1
+smoking,2018,Fairfield,fairfield,Total,Fairfield,smoking_rate,0.07
+smoking,2018,Fairfield County,fairfield_county,Total,Fairfield County,smoking_rate,0.12
+smoking,2018,Fairfield County,fairfield_county,Gender,Male,smoking_rate,0.13
+smoking,2018,Fairfield County,fairfield_county,Gender,Female,smoking_rate,0.1
+smoking,2018,Fairfield County,fairfield_county,Age,Ages 18-34,smoking_rate,0.15
+smoking,2018,Fairfield County,fairfield_county,Age,Ages 35-49,smoking_rate,0.12
+smoking,2018,Fairfield County,fairfield_county,Age,Ages 50-64,smoking_rate,0.12
+smoking,2018,Fairfield County,fairfield_county,Age,Ages 65+,smoking_rate,0.08
+smoking,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,smoking_rate,0.1
+smoking,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,smoking_rate,0.19
+smoking,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,smoking_rate,0.14
+smoking,2018,Fairfield County,fairfield_county,Education,High school or less,smoking_rate,0.19
+smoking,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,smoking_rate,0.16
+smoking,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,smoking_rate,0.07
+smoking,2018,Fairfield County,fairfield_county,Income,Under $30K,smoking_rate,0.22
+smoking,2018,Fairfield County,fairfield_county,Income,$30K-$100K,smoking_rate,0.13
+smoking,2018,Fairfield County,fairfield_county,Income,$100K+,smoking_rate,0.07
+smoking,2018,Fairfield County,fairfield_county,With children,No children,smoking_rate,0.12
+smoking,2018,Fairfield County,fairfield_county,With children,Children in household,smoking_rate,0.11
+smoking,2018,Fcht,fcht,Total,Fcht,smoking_rate,0.09
+smoking,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,smoking_rate,0.15
+smoking,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,smoking_rate,0.11
+smoking,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,smoking_rate,0.08
+smoking,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,smoking_rate,0.12
+smoking,2018,Greater Hartford,greater_hartford,Gender,Male,smoking_rate,0.14
+smoking,2018,Greater Hartford,greater_hartford,Gender,Female,smoking_rate,0.11
+smoking,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,smoking_rate,0.14
+smoking,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,smoking_rate,0.16
+smoking,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,smoking_rate,0.13
+smoking,2018,Greater Hartford,greater_hartford,Age,Ages 65+,smoking_rate,0.06
+smoking,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,smoking_rate,0.12
+smoking,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,smoking_rate,0.16
+smoking,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,smoking_rate,0.16
+smoking,2018,Greater Hartford,greater_hartford,Education,High school or less,smoking_rate,0.21
+smoking,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,smoking_rate,0.15
+smoking,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,smoking_rate,0.07
+smoking,2018,Greater Hartford,greater_hartford,Income,Under $30K,smoking_rate,0.22
+smoking,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,smoking_rate,0.12
+smoking,2018,Greater Hartford,greater_hartford,Income,$100K+,smoking_rate,0.07
+smoking,2018,Greater Hartford,greater_hartford,With children,No children,smoking_rate,0.12
+smoking,2018,Greater Hartford,greater_hartford,With children,Children in household,smoking_rate,0.14
+smoking,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,smoking_rate,0.16
+smoking,2018,Greater New Haven,greater_new_haven,Gender,Male,smoking_rate,0.17
+smoking,2018,Greater New Haven,greater_new_haven,Gender,Female,smoking_rate,0.14
+smoking,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,smoking_rate,0.19
+smoking,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,smoking_rate,0.18
+smoking,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,smoking_rate,0.17
+smoking,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,smoking_rate,0.09
+smoking,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,smoking_rate,0.15
+smoking,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,smoking_rate,0.19
+smoking,2018,Greater New Haven,greater_new_haven,Education,High school or less,smoking_rate,0.25
+smoking,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,smoking_rate,0.19
+smoking,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,smoking_rate,0.09
+smoking,2018,Greater New Haven,greater_new_haven,Income,Under $30K,smoking_rate,0.22
+smoking,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,smoking_rate,0.15
+smoking,2018,Greater New Haven,greater_new_haven,Income,$100K+,smoking_rate,0.11
+smoking,2018,Greater New Haven,greater_new_haven,With children,No children,smoking_rate,0.15
+smoking,2018,Greater New Haven,greater_new_haven,With children,Children in household,smoking_rate,0.17
+smoking,2018,Greater New London,greater_new_london,Total,Greater New London,smoking_rate,0.17
+smoking,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,smoking_rate,0.16
+smoking,2018,Greenwich,greenwich,Total,Greenwich,smoking_rate,0.07
+smoking,2018,Groton,groton,Total,Groton,smoking_rate,0.2
+smoking,2018,Hamden,hamden,Total,Hamden,smoking_rate,0.13
+smoking,2018,Hartford,hartford,Total,Hartford,smoking_rate,0.18
+smoking,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,smoking_rate,0.15
+smoking,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,smoking_rate,0.07
+smoking,2018,Litchfield County,litchfield_county,Total,Litchfield County,smoking_rate,0.14
+smoking,2018,Manchester,manchester,Total,Manchester,smoking_rate,0.21
+smoking,2018,Meriden,meriden,Total,Meriden,smoking_rate,0.2
+smoking,2018,Middlesex County,middlesex_county,Total,Middlesex County,smoking_rate,0.13
+smoking,2018,Middletown,middletown,Total,Middletown,smoking_rate,0.17
+smoking,2018,Milford,milford,Total,Milford,smoking_rate,0.12
+smoking,2018,Monroe,monroe,Total,Monroe,smoking_rate,0.02
+smoking,2018,Naugatuck,naugatuck,Total,Naugatuck,smoking_rate,0.24
+smoking,2018,Ncdhd,ncdhd,Total,Ncdhd,smoking_rate,0.16
+smoking,2018,Nddh,nddh,Total,Nddh,smoking_rate,0.15
+smoking,2018,New Britain,new_britain,Total,New Britain,smoking_rate,0.14
+smoking,2018,New Haven,new_haven,Total,New Haven,smoking_rate,0.19
+smoking,2018,New Haven County,new_haven_county,Total,New Haven County,smoking_rate,0.16
+smoking,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,smoking_rate,0.16
+smoking,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,smoking_rate,0.12
+smoking,2018,New London,new_london,Total,New London,smoking_rate,0.2
+smoking,2018,New London County,new_london_county,Total,New London County,smoking_rate,0.17
+smoking,2018,New Milford,new_milford,Total,New Milford,smoking_rate,0.11
+smoking,2018,Newtown,newtown,Total,Newtown,smoking_rate,0.13
+smoking,2018,Norwalk,norwalk,Total,Norwalk,smoking_rate,0.09
+smoking,2018,Norwich,norwich,Total,Norwich,smoking_rate,0.2
+smoking,2018,Nyborder,nyborder,Total,Nyborder,smoking_rate,0.11
+smoking,2018,Oxford,oxford,Total,Oxford,smoking_rate,0.14
+smoking,2018,Pomperaug,pomperaug,Total,Pomperaug,smoking_rate,0.03
+smoking,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,smoking_rate,0.11
+smoking,2018,Seymour,seymour,Total,Seymour,smoking_rate,0.19
+smoking,2018,Shelton,shelton,Total,Shelton,smoking_rate,0.14
+smoking,2018,Stamford,stamford,Total,Stamford,smoking_rate,0.09
+smoking,2018,Stratford,stratford,Total,Stratford,smoking_rate,0.14
+smoking,2018,Tolland County,tolland_county,Total,Tolland County,smoking_rate,0.11
+smoking,2018,Trumbull,trumbull,Total,Trumbull,smoking_rate,0.1
+smoking,2018,Valley,valley,Total,Valley,smoking_rate,0.17
+smoking,2018,Valley,valley,Gender,Male,smoking_rate,0.16
+smoking,2018,Valley,valley,Gender,Female,smoking_rate,0.16
+smoking,2018,Valley,valley,Age,Ages 18-34,smoking_rate,0.2
+smoking,2018,Valley,valley,Age,Ages 35-49,smoking_rate,0.22
+smoking,2018,Valley,valley,Age,Ages 50-64,smoking_rate,0.18
+smoking,2018,Valley,valley,Age,Ages 65+,smoking_rate,0.08
+smoking,2018,Valley,valley,Education,High school or less,smoking_rate,0.24
+smoking,2018,Valley,valley,Education,Some college or Associate's,smoking_rate,0.21
+smoking,2018,Valley,valley,Education,Bachelor's or higher,smoking_rate,0.09
+smoking,2018,Valley,valley,Income,Under $30K,smoking_rate,0.22
+smoking,2018,Valley,valley,Income,$30K-$75K,smoking_rate,0.19
+smoking,2018,Valley,valley,Income,$75K+,smoking_rate,0.13
+smoking,2018,Valley,valley,With children,No children,smoking_rate,0.15
+smoking,2018,Valley,valley,With children,Children in household,smoking_rate,0.19
+smoking,2018,Wallingford,wallingford,Total,Wallingford,smoking_rate,0.1
+smoking,2018,Waterbury,waterbury,Total,Waterbury,smoking_rate,0.26
+smoking,2018,West Hartford,west_hartford,Total,West Hartford,smoking_rate,0.05
+smoking,2018,West Haven,west_haven,Total,West Haven,smoking_rate,0.17
+smoking,2018,Windham,windham,Total,Windham,smoking_rate,0.2
+smoking,2018,Windham County,windham_county,Total,Windham County,smoking_rate,0.16
+food_insecurity,2018,5ct,5ct,Wealthy,Wealthy,food_insecure,0.05
+food_insecurity,2018,5ct,5ct,Suburban,Suburban,food_insecure,0.08
+food_insecurity,2018,5ct,5ct,Rural,Rural,food_insecure,0.11
+food_insecurity,2018,5ct,5ct,Urban Periphery,Urban Periphery,food_insecure,0.13
+food_insecurity,2018,5ct,5ct,Urban Core,Urban Core,food_insecure,0.25
+food_insecurity,2018,Ansonia,ansonia,Total,Ansonia,food_insecure,0.17
+food_insecurity,2018,Bridgeport,bridgeport,Total,Bridgeport,food_insecure,0.28
+food_insecurity,2018,Bristol,bristol,Total,Bristol,food_insecure,0.16
+food_insecurity,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,food_insecure,0.09
+food_insecurity,2018,Chesprocott,chesprocott,Total,Chesprocott,food_insecure,0.06
+food_insecurity,2018,Connecticut,connecticut,Total,Connecticut,food_insecure,0.13
+food_insecurity,2018,Connecticut,connecticut,Gender,Male,food_insecure,0.11
+food_insecurity,2018,Connecticut,connecticut,Gender,Female,food_insecure,0.15
+food_insecurity,2018,Connecticut,connecticut,Age,Ages 18-34,food_insecure,0.21
+food_insecurity,2018,Connecticut,connecticut,Age,Ages 35-49,food_insecure,0.17
+food_insecurity,2018,Connecticut,connecticut,Age,Ages 50-64,food_insecure,0.1
+food_insecurity,2018,Connecticut,connecticut,Age,Ages 65+,food_insecure,0.04
+food_insecurity,2018,Connecticut,connecticut,Race/Ethnicity,White,food_insecure,0.1
+food_insecurity,2018,Connecticut,connecticut,Race/Ethnicity,Black,food_insecure,0.23
+food_insecurity,2018,Connecticut,connecticut,Race/Ethnicity,Latino,food_insecure,0.28
+food_insecurity,2018,Connecticut,connecticut,Education,High school or less,food_insecure,0.21
+food_insecurity,2018,Connecticut,connecticut,Education,Some college or Associate's,food_insecure,0.17
+food_insecurity,2018,Connecticut,connecticut,Education,Bachelor's or higher,food_insecure,0.07
+food_insecurity,2018,Connecticut,connecticut,Income,Under $30K,food_insecure,0.33
+food_insecurity,2018,Connecticut,connecticut,Income,$30K-$100K,food_insecure,0.13
+food_insecurity,2018,Connecticut,connecticut,Income,$100K+,food_insecure,0.03
+food_insecurity,2018,Connecticut,connecticut,With children,No children,food_insecure,0.11
+food_insecurity,2018,Connecticut,connecticut,With children,Children in household,food_insecure,0.17
+food_insecurity,2018,Danbury,danbury,Total,Danbury,food_insecure,0.11
+food_insecurity,2018,Darien,darien,Total,Darien,food_insecure,0.03
+food_insecurity,2018,Derby,derby,Total,Derby,food_insecure,0.08
+food_insecurity,2018,East Hartford,east_hartford,Total,East Hartford,food_insecure,0.18
+food_insecurity,2018,East Haven,east_haven,Total,East Haven,food_insecure,0.11
+food_insecurity,2018,Ehhd,ehhd,Total,Ehhd,food_insecure,0.15
+food_insecurity,2018,Fairfield,fairfield,Total,Fairfield,food_insecure,0.06
+food_insecurity,2018,Fairfield County,fairfield_county,Total,Fairfield County,food_insecure,0.11
+food_insecurity,2018,Fairfield County,fairfield_county,Gender,Male,food_insecure,0.1
+food_insecurity,2018,Fairfield County,fairfield_county,Gender,Female,food_insecure,0.13
+food_insecurity,2018,Fairfield County,fairfield_county,Age,Ages 18-34,food_insecure,0.19
+food_insecurity,2018,Fairfield County,fairfield_county,Age,Ages 35-49,food_insecure,0.13
+food_insecurity,2018,Fairfield County,fairfield_county,Age,Ages 50-64,food_insecure,0.09
+food_insecurity,2018,Fairfield County,fairfield_county,Age,Ages 65+,food_insecure,0.03
+food_insecurity,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,food_insecure,0.07
+food_insecurity,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,food_insecure,0.24
+food_insecurity,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,food_insecure,0.25
+food_insecurity,2018,Fairfield County,fairfield_county,Education,High school or less,food_insecure,0.21
+food_insecurity,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,food_insecure,0.19
+food_insecurity,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,food_insecure,0.04
+food_insecurity,2018,Fairfield County,fairfield_county,Income,Under $30K,food_insecure,0.33
+food_insecurity,2018,Fairfield County,fairfield_county,Income,$30K-$100K,food_insecure,0.12
+food_insecurity,2018,Fairfield County,fairfield_county,Income,$100K+,food_insecure,0.03
+food_insecurity,2018,Fairfield County,fairfield_county,With children,No children,food_insecure,0.09
+food_insecurity,2018,Fairfield County,fairfield_county,With children,Children in household,food_insecure,0.14
+food_insecurity,2018,Fcht,fcht,Total,Fcht,food_insecure,0.07
+food_insecurity,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,food_insecure,0.18
+food_insecurity,2018,Greater Danbury,greater_danbury,Total,Greater Danbury,food_insecure,0.08
+food_insecurity,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,food_insecure,0.08
+food_insecurity,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,food_insecure,0.14
+food_insecurity,2018,Greater Hartford,greater_hartford,Gender,Male,food_insecure,0.11
+food_insecurity,2018,Greater Hartford,greater_hartford,Gender,Female,food_insecure,0.16
+food_insecurity,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,food_insecure,0.22
+food_insecurity,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,food_insecure,0.17
+food_insecurity,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,food_insecure,0.11
+food_insecurity,2018,Greater Hartford,greater_hartford,Age,Ages 65+,food_insecure,0.04
+food_insecurity,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,food_insecure,0.11
+food_insecurity,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,food_insecure,0.23
+food_insecurity,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,food_insecure,0.29
+food_insecurity,2018,Greater Hartford,greater_hartford,Education,High school or less,food_insecure,0.23
+food_insecurity,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,food_insecure,0.15
+food_insecurity,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,food_insecure,0.08
+food_insecurity,2018,Greater Hartford,greater_hartford,Income,Under $30K,food_insecure,0.32
+food_insecurity,2018,Greater Hartford,greater_hartford,Income,$30K-$100K,food_insecure,0.14
+food_insecurity,2018,Greater Hartford,greater_hartford,Income,$100K+,food_insecure,0.02
+food_insecurity,2018,Greater Hartford,greater_hartford,With children,No children,food_insecure,0.11
+food_insecurity,2018,Greater Hartford,greater_hartford,With children,Children in household,food_insecure,0.19
+food_insecurity,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,food_insecure,0.13
+food_insecurity,2018,Greater New Haven,greater_new_haven,Gender,Male,food_insecure,0.12
+food_insecurity,2018,Greater New Haven,greater_new_haven,Gender,Female,food_insecure,0.14
+food_insecurity,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,food_insecure,0.18
+food_insecurity,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,food_insecure,0.2
+food_insecurity,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,food_insecure,0.1
+food_insecurity,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,food_insecure,0.05
+food_insecurity,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,food_insecure,0.09
+food_insecurity,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,food_insecure,0.2
+food_insecurity,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,food_insecure,0.38
+food_insecurity,2018,Greater New Haven,greater_new_haven,Education,High school or less,food_insecure,0.19
+food_insecurity,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,food_insecure,0.19
+food_insecurity,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,food_insecure,0.07
+food_insecurity,2018,Greater New Haven,greater_new_haven,Income,Under $30K,food_insecure,0.29
+food_insecurity,2018,Greater New Haven,greater_new_haven,Income,$30K-$100K,food_insecure,0.13
+food_insecurity,2018,Greater New Haven,greater_new_haven,Income,$100K+,food_insecure,0.04
+food_insecurity,2018,Greater New Haven,greater_new_haven,With children,No children,food_insecure,0.12
+food_insecurity,2018,Greater New Haven,greater_new_haven,With children,Children in household,food_insecure,0.16
+food_insecurity,2018,Greater New London,greater_new_london,Total,Greater New London,food_insecure,0.14
+food_insecurity,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,food_insecure,0.14
+food_insecurity,2018,Greenwich,greenwich,Total,Greenwich,food_insecure,0.07
+food_insecurity,2018,Groton,groton,Total,Groton,food_insecure,0.21
+food_insecurity,2018,Hamden,hamden,Total,Hamden,food_insecure,0.12
+food_insecurity,2018,Hartford,hartford,Total,Hartford,food_insecure,0.23
+food_insecurity,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,food_insecure,0.15
+food_insecurity,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,food_insecure,0.08
+food_insecurity,2018,Litchfield County,litchfield_county,Total,Litchfield County,food_insecure,0.1
+food_insecurity,2018,Manchester,manchester,Total,Manchester,food_insecure,0.23
+food_insecurity,2018,Meriden,meriden,Total,Meriden,food_insecure,0.17
+food_insecurity,2018,Middlesex County,middlesex_county,Total,Middlesex County,food_insecure,0.09
+food_insecurity,2018,Middletown,middletown,Total,Middletown,food_insecure,0.15
+food_insecurity,2018,Milford,milford,Total,Milford,food_insecure,0.09
+food_insecurity,2018,Monroe,monroe,Total,Monroe,food_insecure,0.03
+food_insecurity,2018,Naugatuck,naugatuck,Total,Naugatuck,food_insecure,0.17
+food_insecurity,2018,Ncdhd,ncdhd,Total,Ncdhd,food_insecure,0.15
+food_insecurity,2018,Nddh,nddh,Total,Nddh,food_insecure,0.15
+food_insecurity,2018,New Britain,new_britain,Total,New Britain,food_insecure,0.25
+food_insecurity,2018,New Haven,new_haven,Total,New Haven,food_insecure,0.21
+food_insecurity,2018,New Haven County,new_haven_county,Total,New Haven County,food_insecure,0.14
+food_insecurity,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,food_insecure,0.14
+food_insecurity,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,food_insecure,0.06
+food_insecurity,2018,New London,new_london,Total,New London,food_insecure,0.27
+food_insecurity,2018,New London County,new_london_county,Total,New London County,food_insecure,0.15
+food_insecurity,2018,New Milford,new_milford,Total,New Milford,food_insecure,0.09
+food_insecurity,2018,Newtown,newtown,Total,Newtown,food_insecure,0.09
+food_insecurity,2018,Norwalk,norwalk,Total,Norwalk,food_insecure,0.08
+food_insecurity,2018,Norwich,norwich,Total,Norwich,food_insecure,0.18
+food_insecurity,2018,Nyborder,nyborder,Total,Nyborder,food_insecure,0.08
+food_insecurity,2018,Oxford,oxford,Total,Oxford,food_insecure,0.07
+food_insecurity,2018,Pomperaug,pomperaug,Total,Pomperaug,food_insecure,0.04
+food_insecurity,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,food_insecure,0.11
+food_insecurity,2018,Seymour,seymour,Total,Seymour,food_insecure,0.06
+food_insecurity,2018,Shelton,shelton,Total,Shelton,food_insecure,0.07
+food_insecurity,2018,Stamford,stamford,Total,Stamford,food_insecure,0.09
+food_insecurity,2018,Stratford,stratford,Total,Stratford,food_insecure,0.2
+food_insecurity,2018,Tolland County,tolland_county,Total,Tolland County,food_insecure,0.15
+food_insecurity,2018,Trumbull,trumbull,Total,Trumbull,food_insecure,0.06
+food_insecurity,2018,Valley,valley,Total,Valley,food_insecure,0.11
+food_insecurity,2018,Valley,valley,Gender,Male,food_insecure,0.08
+food_insecurity,2018,Valley,valley,Gender,Female,food_insecure,0.14
+food_insecurity,2018,Valley,valley,Age,Ages 18-34,food_insecure,0.19
+food_insecurity,2018,Valley,valley,Age,Ages 35-49,food_insecure,0.12
+food_insecurity,2018,Valley,valley,Age,Ages 50-64,food_insecure,0.09
+food_insecurity,2018,Valley,valley,Age,Ages 65+,food_insecure,0.03
+food_insecurity,2018,Valley,valley,Race/Ethnicity,White,food_insecure,0.12
+food_insecurity,2018,Valley,valley,Race/Ethnicity,Not white,food_insecure,0.06
+food_insecurity,2018,Valley,valley,Education,High school or less,food_insecure,0.14
+food_insecurity,2018,Valley,valley,Education,Some college or Associate's,food_insecure,0.16
+food_insecurity,2018,Valley,valley,Education,Bachelor's or higher,food_insecure,0.04
+food_insecurity,2018,Valley,valley,Income,Under $30K,food_insecure,0.3
+food_insecurity,2018,Valley,valley,Income,$30K-$75K,food_insecure,0.15
+food_insecurity,2018,Valley,valley,Income,$75K+,food_insecure,0.02
+food_insecurity,2018,Valley,valley,With children,No children,food_insecure,0.1
+food_insecurity,2018,Valley,valley,With children,Children in household,food_insecure,0.12
+food_insecurity,2018,Wallingford,wallingford,Total,Wallingford,food_insecure,0.11
+food_insecurity,2018,Waterbury,waterbury,Total,Waterbury,food_insecure,0.25
+food_insecurity,2018,West Hartford,west_hartford,Total,West Hartford,food_insecure,0.05
+food_insecurity,2018,West Haven,west_haven,Total,West Haven,food_insecure,0.18
+food_insecurity,2018,Windham,windham,Total,Windham,food_insecure,0.23
+food_insecurity,2018,Windham County,windham_county,Total,Windham County,food_insecure,0.17
