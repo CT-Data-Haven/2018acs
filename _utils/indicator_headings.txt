@@ -1,0 +1,38 @@
+topic,indicator,display
+age,estimate total_pop,Total population
+age,estimate ages0_17,Population under age 18
+age,share ages0_17,Percent under age 18
+age,estimate ages65plus,Population ages 65+
+age,share ages65plus,Percent ages 65+
+race,estimate total_pop,Total population
+race,estimate hispanic,Latino population
+race,share hispanic,Percent Latino
+race,estimate white,White population
+race,share white,Percent white
+race,estimate black,Black population
+race,share black,Percent black
+race,estimate other_race,Other race population
+race,share other_race,Percent other race
+immigration,estimate total_pop,Total population
+immigration,estimate foreign_born,Foreign-born population
+immigration,share foreign_born,Percent foreign-born
+housing,estimate total_households,Total households
+housing,estimate owner_occupied,Owner-occupied households
+housing,share owner_occupied,Homeownership rate
+housing,estimate cost_burden,Cost-burdened households
+housing,share cost_burden,Cost-burden rate
+income,estimate poverty_status_determined,Poverty status known
+income,estimate poverty,Population in poverty
+income,share poverty,Poverty rate
+income,estimate low_income,Low-income population
+income,share low_income,Low-income rate
+income_children,estimate ages0_17_poverty_status_determined,"Under 18, poverty status known"
+income_children,estimate ages0_17_poverty,Children in poverty
+income_children,share ages0_17_poverty,Child poverty rate
+income_children,estimate ages0_17_low_income,Low-income children
+income_children,share ages0_17_low_income,Child low-income rate
+income_seniors,estimate ages65plus_poverty_status_determined,"Ages 65+, poverty status known"
+income_seniors,estimate ages65plus_poverty,Seniors in poverty
+income_seniors,share ages65plus_poverty,Senior poverty rate
+income_seniors,estimate ages65plus_low_income,Low-income seniors
+income_seniors,share ages65plus_low_income,Senior low-income rate
