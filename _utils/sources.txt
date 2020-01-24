@@ -1,0 +1,4 @@
+source;project;year;url
+US Census Bureau.;American Community Survey 2018 5-year estimates.;2018;https://data.census.gov
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.;500 Cities Project Data.;2019;https://www.cdc.gov/500cities/index.htm
+National Center for Health Statistics.;U.S. Small-Area Life Expectancy Estimates Project (USALEEP): Life Expectancy Estimates File for Connecticut, 2010-2015.;2018;https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html

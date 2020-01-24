@@ -101,3 +101,13 @@ topos <- shps %>%
 
 write_json(topos, "to_viz/cities_topo_list.json", auto_unbox = TRUE)
 
+
+
+# meta on sources, urls
+sources <- read_delim("_utils/sources.txt", delim = ";")
+dwurls <- read_csv("_utils/dataworld_urls.csv") %>%
+  deframe() %>%
+  as.list()
+
+lst(sources, dwurls) %>%
+  jsonlite::write_json("to_viz/sources_meta.json", auto_unbox = TRUE)
