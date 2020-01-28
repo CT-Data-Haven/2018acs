@@ -153,7 +153,7 @@ out_by_city <- params %>%
   })
 
 
-saveRDS(out_by_city, str_glue("./output/acs_to_prep_for_viz_{acs_year}.rds"))
+saveRDS(out_by_city, str_glue("../nhood_profiles_2018/input_data/acs_to_prep_for_viz_{acs_year}.rds"))
 
 # only hartford actually needs town column
 out_by_city %>%

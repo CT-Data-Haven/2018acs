@@ -171,13 +171,9 @@ out_by_city <- tr_params %>%
       mutate(city = clean_titles(cty, cap_all = TRUE))
   })
 
-saveRDS(out_by_city, str_glue("./output/nhv_acs_to_prep_for_viz_{acs_year}.rds"))
+saveRDS(out_by_city, str_glue("../nhood_profiles_2018/input_data/nhv_acs_to_prep_for_viz_{acs_year}.rds"))
 
 out_by_city %>%
   map(distinct, level, city, name, indicator, .keep_all = TRUE) %>%
   map(pivot_wider, id_cols = c(level, city, name), names_from = display) %>%
   iwalk(~write_csv(.x, str_glue("./to_distro/{.y}_acs_basic_neighborhood_{acs_year}.csv"), na = ""))
-
-
-out_df %>%
-  filter(topic == "immigration")
