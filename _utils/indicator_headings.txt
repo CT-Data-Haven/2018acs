@@ -2,6 +2,8 @@ topic,indicator,display
 age,estimate total_pop,Total population
 age,estimate ages0_17,Population under age 18
 age,share ages0_17,Percent under age 18
+age,estimate ages18plus,Population ages 18+
+age,share ages18plus,Percent ages 18+
 age,estimate ages65plus,Population ages 65+
 age,share ages65plus,Percent ages 65+
 race,estimate total_pop,Total population

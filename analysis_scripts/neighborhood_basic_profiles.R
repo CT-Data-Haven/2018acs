@@ -58,11 +58,11 @@ out <- list()
 
 
 # AGE
-# population under 18, 65+
+# population under 18, 18+, 65+
 out$age <- fetch$sex_by_age %>%
   separate(label, into = c("total", "sex", "group"), sep = "!!") %>%
   filter(!is.na(group)) %>%
-  add_grps(list(total_pop = 1:23, ages0_17 = 1:4, ages65plus = 18:23)) %>%
+  add_grps(list(total_pop = 1:23, ages0_17 = 1:4, ages18plus = 5:23, ages65plus = 18:23)) %>%
   calc_shares(digits = 2)
 
 
